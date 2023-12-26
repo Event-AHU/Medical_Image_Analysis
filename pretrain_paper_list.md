@@ -8,6 +8,14 @@
 * **Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**, Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof
   [[Paper](https://arxiv.org/abs/2310.18689)]
 
+* "**CLIP in Medical Imaging: A Comprehensive Survey.**" Zhao, Zihao, et al.  arXiv preprint arXiv:2312.07353 (2023).
+  [[Paper](https://arxiv.org/abs/2312.07353)]
+  [[Code](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)]
+
+
+  
+
+
 
 
 
@@ -60,6 +68,18 @@
 
 * **Fine-Grained Image-Text Alignment in Medical Imaging Enables Cyclic Image-Report Generation**, Wenting Chen, Xiang Li, Linlin Shen, Yixuan Yuan
   [[Paper](https://arxiv.org/abs/2312.08078)]
+
+* "**Pre-trained Universal Medical Image Transformer.**" Luo, Lingxiao, et al.  arXiv preprint arXiv:2312.07630 (2023).
+  [[Paper](https://arxiv.org/abs/2312.07630)]
+  [[Code](https://github.com/function2-llx/PUMIT)]
+
+* **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training for X-ray Diagnosis**, ICCV-2023, 
+  [[Project](https://chaoyi-wu.github.io/MedKLIP/)]
+  [[Github](https://github.com/MediaBrain-SJTU/MedKLIP)]
+
+* **"Delving into masked autoencoders for multi-label thorax disease classification."** Xiao, Junfei, et al.  Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
+  [[Paper](https://arxiv.org/abs/2210.12843)]
+  [[Code](https://github.com/lambert-x/Medical_MAE)]
 
 * 
  
