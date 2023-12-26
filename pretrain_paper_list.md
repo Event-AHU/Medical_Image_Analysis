@@ -12,6 +12,9 @@
   [[Paper](https://arxiv.org/abs/2312.07353)]
   [[Code](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging)]
 
+* **Exploring the Boundaries of GPT-4 in Radiology**. Liu, Q., Hyland, S., Bannur, S., Bouzid, K., Castro, D. C., Wetscherek, M. T., ... & Alvarez-Valle, J. (2023).  arXiv preprint arXiv:2310.14573.
+  [[Paper](https://arxiv.org/pdf/2310.14573.pdf)]
+
 
   
 
@@ -80,6 +83,9 @@
 * **"Delving into masked autoencoders for multi-label thorax disease classification."** Xiao, Junfei, et al.  Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
   [[Paper](https://arxiv.org/abs/2210.12843)]
   [[Code](https://github.com/lambert-x/Medical_MAE)]
+
+* **MAIRA-1: A specialised large multimodal model for radiology report generation**, Stephanie Hyland, Shruthi Bannur, Kenza Bouzid, Daniel Coelho de Castro, Mercy Ranjit, Anton Schwaighofer, Fernando Pérez-García, Valentina Salvatelli, Shaury Srivastav, Anja Thieme, Noel Codella, Matthew P Lungren, Maria Teodora Wetscherek, Ozan Oktay, Javier Alvarez-Valle 
+  [[Paper](https://arxiv.org/abs/2311.13668)]
 
 * 
  
