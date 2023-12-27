@@ -6,4 +6,5 @@
 
 ## * [medical_report_generation.md](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/medical_report_generation.md) 
 
+## * [xray-classification.md](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/xray-classification.md) 
 
