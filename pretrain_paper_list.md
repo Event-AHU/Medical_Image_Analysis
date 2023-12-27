@@ -15,6 +15,13 @@
 * **Exploring the Boundaries of GPT-4 in Radiology**. Liu, Q., Hyland, S., Bannur, S., Bouzid, K., Castro, D. C., Wetscherek, M. T., ... & Alvarez-Valle, J. (2023).  arXiv preprint arXiv:2310.14573.
   [[Paper](https://arxiv.org/pdf/2310.14573.pdf)]
 
+* "**Deep learning for chest X-ray analysis: A survey.**" Çallı, Erdi, et al.  Medical Image Analysis 72 (2021): 102125.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841521001717)]
+
+* "**A Survey of Large Language Models in Medicine: Progress, Application, and Challenge.**" Zhou, Hongjian, et al.  arXiv preprint arXiv:2311.05112 (2023).
+  [[Paper](https://arxiv.org/abs/2311.05112)]
+  [[Code](https://github.com/AI-in-Health/MedLLMsPracticalGuide)] 
+
 
   
 
