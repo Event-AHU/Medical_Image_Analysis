@@ -10,7 +10,8 @@
 * [Report_Error_checking.md](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/Report_Error_checking.md)
 * [medical_report_generation.md](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/medical_report_generation.md) 
 * [xray-classification.md](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/xray-classification.md)
-* [medical image-text understanding tasks]() 
+* [medical image-text understanding tasks]()
+* [medical_image_segmentation](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/medical_image_segmentation.md)
 
 
 
