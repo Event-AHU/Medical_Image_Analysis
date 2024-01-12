@@ -4,6 +4,20 @@
 * Zhang, Ke, et al. "**Semi-supervised Medical Report Generation via Graph-guided Hybrid Feature Consistency.**" IEEE Transactions on Multimedia (2023).
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10119200)]
 
+* [ACL-2023] **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**, Wenjun Hou, Kaishuai Xu, Yi Cheng, Wenjie Li, Jiang Liu
+  [[Paper](https://arxiv.org/pdf/2306.06466.pdf)]
+  [[Code](https://github.com/wjhou/ORGan)]
+
+* [EMNLP-2023] Hou, Wenjun, et al. "**RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning.**" Findings of the Association for Computational Linguistics: EMNLP 2023. 2023.
+  [[Paper](https://aclanthology.org/2023.findings-emnlp.140.pdf)]
+  [[Code](https://github.com/wjhou/Recap)]
+
+* 
+
+
+
+
+
 
 
 
