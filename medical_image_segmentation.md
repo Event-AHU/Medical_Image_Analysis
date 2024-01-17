@@ -9,6 +9,10 @@
 
 ### Year 2023 
 
+* **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer**, Junde Wu1,6,7,8, Wei Ji2, Huazhu Fu3, Min Xu*,4,6 Yueming Jin1, Yanwu Xu 
+  [[Paper](https://arxiv.org/pdf/2301.11798.pdf)]
+  [[Code](https://github.com/KidsWithTokens/MedSegDiff)]
+
 * Chen, Jieneng, et al. "**Transunet: Transformers make strong encoders for medical image segmentation.**" arXiv preprint arXiv:2102.04306 (2021).
   [[Paper](https://arxiv.org/pdf/2102.04306.pdf)]
   [[Code](https://github.com/Beckschen/TransUNet)]
