@@ -1,6 +1,12 @@
 ## Medical Image Segmentation 
 
 
+
+### Surveys 
+* **Foundation Models for Biomedical Image Segmentation: A Survey**, Ho Hin Lee*, Yu Gu*, Theodore Zhao, Yanbo Xu, Jianwei Yang, Naoto Usuyama, Cliff Wong, Mu Wei, Bennett A. Landman, Yuankai Huo, Alberto Santamaria-Pang, Hoifung Poon
+  [[Paper](https://arxiv.org/pdf/2401.07654.pdf)]
+
+
 ### Year 2023 
 
 * Chen, Jieneng, et al. "**Transunet: Transformers make strong encoders for medical image segmentation.**" arXiv preprint arXiv:2102.04306 (2021).
