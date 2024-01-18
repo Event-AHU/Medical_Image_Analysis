@@ -14,7 +14,11 @@
 * [AAAI-2024] **Learning Generalized Medical Image Segmentation from Decoupled Feature Queries**, Qi Bi; Jingjun Yi; Hao Zheng; Wei Ji; Yawen Huang; Yuexiang Li; Yefeng Zheng
   [[Github](https://github.com/BiQiWHU/DFQ)]
 
-* 
+* [AAAI-2024] **DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation**, Zhehao Wang; Xian Lin; Nannan Wu; Li Yu; Kwang-Ting Cheng; Zengqiang Yan 
+
+* [AAAI-2024] **MedSegDiff-V2: Diffusion-based Medical Image Segmentation with Transformer**, Junde Wu; Wei Ji; Huazhu Fu; Min Xu; Yueming Jin; Yanwu Xu
+  [[Paper](https://arxiv.org/abs/2301.11798)]
+  [[Github](https://github.com/KidsWithTokens/MedSegDiff)] 
 
 
 ### Year 2023 
