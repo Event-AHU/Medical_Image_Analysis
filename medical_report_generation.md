@@ -1,4 +1,13 @@
 
+
+### Year 2024 
+
+* **PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**, Haibo Jin1 , Haoxuan Che1, Yi Lin1, and Hao Chen
+  [[Paper](https://arxiv.org/pdf/2308.12604.pdf)]
+  [[Code](https://github.com/jhb86253817/PromptMRG)]
+
+* 
+
 ### Year 2023 
 
 * Zhang, Ke, et al. "**Semi-supervised Medical Report Generation via Graph-guided Hybrid Feature Consistency.**" IEEE Transactions on Multimedia (2023).
