@@ -2,9 +2,12 @@
 
 ### Year 2024 
 
-* **PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**, Haibo Jin1 , Haoxuan Che1, Yi Lin1, and Hao Chen
+* [AAAI-2024] **PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**, Haibo Jin1 , Haoxuan Che1, Yi Lin1, and Hao Chen
   [[Paper](https://arxiv.org/pdf/2308.12604.pdf)]
   [[Code](https://github.com/jhb86253817/PromptMRG)]
+
+* [AAAI-2024] **MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**, Yan Cai; Linlin Wang; Ye Wang; Gerard de Melo; Ya Zhang; Yan-Feng Wang; Liang He
+  [[Paper](https://arxiv.org/abs/2312.12806)]
 
 * 
 
