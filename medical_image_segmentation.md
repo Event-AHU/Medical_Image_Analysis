@@ -7,6 +7,16 @@
   [[Paper](https://arxiv.org/pdf/2401.07654.pdf)]
 
 
+
+
+### Year 2024 
+
+* [AAAI-2024] **Learning Generalized Medical Image Segmentation from Decoupled Feature Queries**, Qi Bi; Jingjun Yi; Hao Zheng; Wei Ji; Yawen Huang; Yuexiang Li; Yefeng Zheng
+  [[Github](https://github.com/BiQiWHU/DFQ)]
+
+* 
+
+
 ### Year 2023 
 
 * **MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer**, Junde Wu1,6,7,8, Wei Ji2, Huazhu Fu3, Min Xu*,4,6 Yueming Jin1, Yanwu Xu 
