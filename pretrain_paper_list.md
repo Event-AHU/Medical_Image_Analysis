@@ -2,6 +2,9 @@
 
 ### Survey and Review 
 
+* **RadLLM: A Comprehensive Healthcare Benchmark of Large Language Models for Radiology**
+  [[Paper](https://arxiv.org/pdf/2307.13693.pdf)] 
+
 * **Medical Vision Language Pretraining: A survey**, Prashant Shrestha, Sanskar Amgain, Bidur Khanal, Cristian A. Linte, Binod Bhattarai
   [[Paper](https://arxiv.org/abs/2312.06224)]
 
