@@ -28,6 +28,13 @@
   [[Paper](https://aclanthology.org/2023.findings-emnlp.140.pdf)]
   [[Code](https://github.com/wjhou/Recap)]
 
+
+### Year 2022 
+
+* [ECCV-2022] **Cross-modal prototype driven network for radiology report generation**. In European Conference on Computer Vision (pp. 563-579). Wang, J., Bhalerao, A., & He, Y. (2022, October). Cham: Springer Nature Switzerland.
+  [[Paper](https://arxiv.org/pdf/2207.04818.pdf)]
+  [[Code](https://github.com/Markin-Wang/XProNet)]
+
 * 
 
 
