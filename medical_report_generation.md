@@ -13,6 +13,10 @@
 
 ### Year 2023 
 
+* **Visual-linguistic causal intervention for radiology report generation.** Chen, W., Liu, Y., Wang, C., Li, G., Zhu, J., & Lin, L. (2023). arXiv preprint arXiv:2303.09117.
+  [[Paper](https://arxiv.org/abs/2303.09117)]
+  [[Code](https://github.com/WissingChen/VLCI)]
+
 * Zhang, Ke, et al. "**Semi-supervised Medical Report Generation via Graph-guided Hybrid Feature Consistency.**" IEEE Transactions on Multimedia (2023).
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10119200)]
 
