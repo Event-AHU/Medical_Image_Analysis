@@ -28,7 +28,11 @@
 
   
 
+### Year 2024 
 
+* **Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models**,
+  [[Paper](https://arxiv.org/pdf/2401.12215.pdf)]
+  [[Code](https://github.com/RL4M/MED-PEFT)] 
 
 
 
