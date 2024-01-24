@@ -11,6 +11,10 @@
 
 ### Year 2024 
 
+* **SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI**, Hanxue Gu et al.
+  [[Paper](https://arxiv.org/pdf/2401.12974.pdf)]
+  [[Code](https://github.com/mazurowski-lab/SegmentAnyBone)]
+
 * [AAAI-2024] **Learning Generalized Medical Image Segmentation from Decoupled Feature Queries**, Qi Bi; Jingjun Yi; Hao Zheng; Wei Ji; Yawen Huang; Yuexiang Li; Yefeng Zheng
   [[Github](https://github.com/BiQiWHU/DFQ)]
 
