@@ -121,7 +121,9 @@
 
 
 ### Year 2022 
-
+* [ACMMM-2022] ARL: **Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge**, Zhihong Chen, Guanbin Li, Xiang Wan
+  [[Paper](https://arxiv.org/abs/2209.07118)]
+  [[Code](https://github.com/zhjohnchan/ARL)]
 
 
 
