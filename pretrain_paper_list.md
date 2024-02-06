@@ -30,6 +30,10 @@
 
 ### Year 2024 
 
+
+* **MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning**, Zhe Li, Laurence T. Yang, Bocheng Ren, Xin Nie, Zhangyang Gao, Cheng Tan, Stan Z. Li
+  [[Paper](https://arxiv.org/abs/2402.02045)]
+
 * "**MLIP: Medical Language-Image Pre-training with Masked Local Representation Learning.**" Liu, Jiarun, et al.  arXiv preprint arXiv:2401.01591 (2024). [[Paper](https://arxiv.org/pdf/2401.01591.pdf)] 
 
 * **CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation**, Zhihong Chen, Maya Varma, Jean-Benoit Delbrouck, Magdalini Paschali, Louis Blankemeier, Dave Van Veen, Jeya Maria Jose Valanarasu, Alaa Youssef, Joseph Paul Cohen, Eduardo Pontes Reis, Emily B. Tsai, Andrew Johnston, Cameron Olsen, Tanishq Mathew Abraham, Sergios Gatidis, Akshay S. Chaudhari, Curtis Langlotz 
