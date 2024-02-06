@@ -125,6 +125,9 @@
   [[Paper](https://arxiv.org/abs/2209.07118)]
   [[Code](https://github.com/zhjohnchan/ARL)]
 
+* Zhang, Yuhao, et al. "**Contrastive learning of medical visual representations from paired images and text.**" Machine Learning for Healthcare Conference. PMLR, 2022.
+  [[Paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)]
+  [[Code](https://github.com/yuhaozhang/convirt)]
 
 
 ### Year 2021 
