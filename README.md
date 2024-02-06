@@ -14,7 +14,10 @@
 * [medical_image_segmentation](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/medical_image_segmentation.md)
 
 
-
+## Suggested Code: 
+* **R2GenGPT: Radiology Report Generation with Frozen LLMs** [[Github](https://github.com/wang-zhanyu/R2GenGPT)]
+* **R2Gen**: [[Paper (EMNLP-2020)](https://arxiv.org/pdf/2010.16056.pdf)] [[Code](https://github.com/zhjohnchan/R2Gen)]
+  
 
 
 
