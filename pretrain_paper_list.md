@@ -52,7 +52,7 @@
 ### Year 2023 
 
 * [ICCV-2023] **Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**, Zhihong Chen1,2∗ Shizhe Diao3∗ Benyou Wang1,2† Guanbin Li4† Xiang Wan
-  [[Paper](https://arxiv.org/pdf/2302.08958.pdf)]
+  [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Towards_Unifying_Medical_Vision-and-Language_Pre-Training_via_Soft_Prompts_ICCV_2023_paper.pdf)]
   [[Code](https://github.com/zhjohnchan/ptunifier)]
 
 * [arXiv-2023] **ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training**, Rongsheng Wang, Qingsong Yao, Haoran Lai, Zhiyang He, Xiaodong Tao, Zihang Jiang, S.Kevin Zhou
