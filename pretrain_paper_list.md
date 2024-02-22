@@ -1,5 +1,12 @@
 ##
 
+
+### Evaluation Benchmark 
+
+* **OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**, Yutao Hu, Tianbin Li, Quanfeng Lu, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo
+  [[Paper](https://arxiv.org/abs/2402.09181)]
+  
+
 ### Survey and Review 
 
 * **RadLLM: A Comprehensive Healthcare Benchmark of Large Language Models for Radiology**
