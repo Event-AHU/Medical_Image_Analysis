@@ -37,6 +37,9 @@
 
 ### Year 2024 
 
+* **"Towards Building Multilingual Language Model for Medicine."** Qiu, Pengcheng, et al. arXiv preprint arXiv:2402.13963 (2024).
+  [[Paper](https://arxiv.org/abs/2402.13963)]
+  [[Code](https://github.com/MAGIC-AI4Med/MMedLM)] 
 
 * **MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning**, Zhe Li, Laurence T. Yang, Bocheng Ren, Xin Nie, Zhangyang Gao, Cheng Tan, Stan Z. Li
   [[Paper](https://arxiv.org/abs/2402.02045)]
