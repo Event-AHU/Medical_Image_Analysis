@@ -37,6 +37,11 @@
 
 ### Year 2024 
 
+
+* **OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine**, Xiaosong Wang, Xiaofan Zhang, Guotai Wang, Junjun He, Zhongyu Li, Wentao Zhu, Yi Guo, Qi Dou, Xiaoxiao Li, Dequan Wang, Liang Hong, Qicheng Lao, Tong Ruan, Yukun Zhou, Yixue Li, Jie Zhao, Kang Li, Xin Sun, Lifeng Zhu, Shaoting Zhang
+  [[Paper](https://arxiv.org/abs/2402.18028)]
+  [[Code](https://github.com/openmedlab)] 
+
 * **"Towards Building Multilingual Language Model for Medicine."** Qiu, Pengcheng, et al. arXiv preprint arXiv:2402.13963 (2024).
   [[Paper](https://arxiv.org/abs/2402.13963)]
   [[Code](https://github.com/MAGIC-AI4Med/MMedLM)] 
