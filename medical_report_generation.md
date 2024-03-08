@@ -35,7 +35,14 @@
   [[Paper](https://arxiv.org/pdf/2207.04818.pdf)]
   [[Code](https://github.com/Markin-Wang/XProNet)]
 
-* 
+
+
+
+### Year 2021 and Before 
+
+* **On the Automatic Generation of Medical Imaging Reports**, Baoyu Jing, Pengtao Xie, Eric Xing
+  [[Paper](https://arxiv.org/abs/1711.08195)]
+  [[Code](https://github.com/ZexinYan/Medical-Report-Generation)] 
 
 
 
