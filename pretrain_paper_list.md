@@ -38,6 +38,9 @@
 ### Year 2024 
 
 
+* **MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**, Lei Li, Tianfang Zhang, Xinglin Zhang, Jiaqi Liu, Bingqi Ma, Yan Luo, Tao Chen
+  [[Paper](https://arxiv.org/abs/2403.04626)] 
+
 * **OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine**, Xiaosong Wang, Xiaofan Zhang, Guotai Wang, Junjun He, Zhongyu Li, Wentao Zhu, Yi Guo, Qi Dou, Xiaoxiao Li, Dequan Wang, Liang Hong, Qicheng Lao, Tong Ruan, Yukun Zhou, Yixue Li, Jie Zhao, Kang Li, Xin Sun, Lifeng Zhu, Shaoting Zhang
   [[Paper](https://arxiv.org/abs/2402.18028)]
   [[Code](https://github.com/openmedlab)] 
