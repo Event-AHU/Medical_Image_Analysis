@@ -2,6 +2,9 @@
 
 ### Year 2024 
 
+* [CVPR2024] **MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**, Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu
+  [[Paper](https://arxiv.org/abs/2403.04290)] 
+ 
 * [AAAI-2024] **PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**, Haibo Jin1 , Haoxuan Che1, Yi Lin1, and Hao Chen
   [[Paper](https://arxiv.org/pdf/2308.12604.pdf)]
   [[Code](https://github.com/jhb86253817/PromptMRG)]
