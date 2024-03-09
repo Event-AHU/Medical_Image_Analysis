@@ -9,6 +9,9 @@
 
 ### Survey and Review 
 
+* [arXiv-2024] **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**,
+  [[Paper](https://arxiv.org/abs/2403.02469)] 
+
 * **RadLLM: A Comprehensive Healthcare Benchmark of Large Language Models for Radiology**
   [[Paper](https://arxiv.org/pdf/2307.13693.pdf)] 
 
