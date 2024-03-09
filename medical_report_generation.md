@@ -12,9 +12,13 @@
 * [AAAI-2024] **MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**, Yan Cai; Linlin Wang; Ye Wang; Gerard de Melo; Ya Zhang; Yan-Feng Wang; Liang He
   [[Paper](https://arxiv.org/abs/2312.12806)]
 
-* 
+
 
 ### Year 2023 
+
+* **RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**, Chantal Pellegrini, Ege Özsoy, Benjamin Busam, Nassir Navab, Matthias Keicher
+  [[Paper](https://arxiv.org/abs/2311.18681)]
+  [[Code](https://github.com/ChantalMP/RaDialog)] 
 
 * **Visual-linguistic causal intervention for radiology report generation.** Chen, W., Liu, Y., Wang, C., Li, G., Zhu, J., & Lin, L. (2023). arXiv preprint arXiv:2303.09117.
   [[Paper](https://arxiv.org/abs/2303.09117)]
