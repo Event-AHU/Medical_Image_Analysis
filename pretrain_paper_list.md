@@ -40,6 +40,9 @@
 
 ### Year 2024 
 
+* **Anatomical Structure-Guided Medical Vision-Language Pre-training**, 
+  Qingqiu Li, Xiaohan Yan, Jilan Xu, Runtian Yuan, Yuejie Zhang, Rui Feng, Quanli Shen, Xiaobo Zhang, Shujun Wang
+[[Paper](https://arxiv.org/abs/2403.09294)]
 
 * **MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**, Lei Li, Tianfang Zhang, Xinglin Zhang, Jiaqi Liu, Bingqi Ma, Yan Luo, Tao Chen
   [[Paper](https://arxiv.org/abs/2403.04626)] 
