@@ -40,6 +40,10 @@
 
 ### Year 2024 
 
+* **MeDSLIP: Medical Dual-Stream Language-Image Pre-training for Fine-grained Alignment**, Wenrui Fan, Mohammod Naimul Islam Suvon, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew Swift, Chen Chen, Haiping Lu
+  [[Paper](https://arxiv.org/abs/2403.10635)]
+  [[]()]
+
 * **Anatomical Structure-Guided Medical Vision-Language Pre-training**, 
   Qingqiu Li, Xiaohan Yan, Jilan Xu, Runtian Yuan, Yuejie Zhang, Rui Feng, Quanli Shen, Xiaobo Zhang, Shujun Wang
 [[Paper](https://arxiv.org/abs/2403.09294)]
