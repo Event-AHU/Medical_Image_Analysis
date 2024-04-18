@@ -2,6 +2,11 @@
 
 ### Year 2024 
 
+
+* **Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**, arXiv:2404.11209, 
+  Hongzhao Li, Hongyu Wang, Xia Sun, Hua He, Jun Feng
+  [[Paper](https://arxiv.org/abs/2404.11209)] 
+
 * [CVPR2024] **MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**, Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu
   [[Paper](https://arxiv.org/abs/2403.04290)] 
  
