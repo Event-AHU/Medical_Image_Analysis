@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/logo.jpg" width="250">
+<img src="https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/logo.jpg" width="400">
 </p>
 
 
