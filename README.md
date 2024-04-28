@@ -7,6 +7,8 @@
 
 ## Update Log:  
 
+* [2024.04.28] "**Pre-training on High Definition X-ray Images: An Experimental Study**" is released on arXiv [***] 
+
 
 ## Paper Lists: 
 * [pretraining_paper_list.md](https://github.com/Event-AHU/Medical_Image_Pretraining/blob/main/pretrain_paper_list.md)
@@ -23,10 +25,8 @@
   
 
 
-## Star History
 
 ## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Event-AHU/Medical_Image_Analysis&type=Date)](https://star-history.com/#Event-AHU/Medical_Image_Analysis&Date)
 
 
