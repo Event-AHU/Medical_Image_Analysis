@@ -40,6 +40,10 @@
 
 ### Year 2024 
 
+* [CVPR 2024] **Low-Rank Knowledge Decomposition for Medical Foundation Models**, arXiv:2404.17184, 
+  Yuhang Zhou, Haolin Li, Siyuan Du, Jiangchao Yao, Ya Zhang, Yanfeng Wang
+  [[Paper](https://arxiv.org/abs/2404.17184)] 
+
 * **MeDSLIP: Medical Dual-Stream Language-Image Pre-training for Fine-grained Alignment**, Wenrui Fan, Mohammod Naimul Islam Suvon, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew Swift, Chen Chen, Haiping Lu
   [[Paper](https://arxiv.org/abs/2403.10635)]
   [[]()]
