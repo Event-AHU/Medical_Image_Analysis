@@ -3,6 +3,10 @@
 ### Year 2024 
 
 
+* **A Disease Labeler for Chinese Chest X-Ray Report Generation**, arXiv:2404.16852, 
+  Mengwei Wang, Ruixin Yan, Zeyi Hou, Ning Lang, Xiuzhuang Zhou
+  [[Paper](https://arxiv.org/abs/2404.16852)] 
+
 * "**Bootstrapping Large Language Models for Radiology Report Generation.**" Liu, Chang, et al.
 Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 2024.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826)]
