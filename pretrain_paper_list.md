@@ -40,6 +40,9 @@
 
 ### Year 2024 
 
+* **Capabilities of Gemini Models in Medicine**, Khaled Saab, Tao Tu, Wei-Hung Weng, Ryutaro Tanno, David Stutz, Ellery Wulczyn, Fan Zhang, Tim Strother, Chunjong Park, Elahe Vedadi, Juanma Zambrano Chaves, Szu-Yeu Hu, et al.
+  [[Paper](https://arxiv.org/abs/2404.18416)] 
+
 * [CVPR 2024] **Low-Rank Knowledge Decomposition for Medical Foundation Models**, arXiv:2404.17184, 
   Yuhang Zhou, Haolin Li, Siyuan Du, Jiangchao Yao, Ya Zhang, Yanfeng Wang
   [[Paper](https://arxiv.org/abs/2404.17184)] 
