@@ -40,6 +40,13 @@
 
 ### Year 2024 
 
+* **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**,
+  Zeming Chen, Alejandro Hernández Cano, Angelika Romanou, Antoine Bonnet, Kyle Matoba, Francesco Salvi, Matteo Pagliardini, Simin Fan, Andreas Köpf, Amirkeivan Mohtashami, Alexandre Sallinen, Alireza Sakhaeirad, Vinitra Swamy, Igor Krawczuk, Deniz Bayazit, Axel Marmet, Syrielle Montariol, Mary-Anne Hartley, Martin Jaggi, Antoine Bosselut
+  [[Paper](https://arxiv.org/abs/2311.16079)] 
+  [[Code](https://github.com/epfLLM/meditron)]
+  [[meditron-7b](https://huggingface.co/epfl-llm/meditron-7b)]
+  [[meditron-70b](https://huggingface.co/epfl-llm/meditron-70b)]
+
 * **Capabilities of Gemini Models in Medicine**, Khaled Saab, Tao Tu, Wei-Hung Weng, Ryutaro Tanno, David Stutz, Ellery Wulczyn, Fan Zhang, Tim Strother, Chunjong Park, Elahe Vedadi, Juanma Zambrano Chaves, Szu-Yeu Hu, et al.
   [[Paper](https://arxiv.org/abs/2404.18416)] 
 
