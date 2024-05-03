@@ -40,6 +40,10 @@
 
 ### Year 2024 
 
+* **Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning**,
+  Théo Moutakanni, Piotr Bojanowski, Guillaume Chassagnon, Céline Hudelot, Armand Joulin, Yann LeCun, Matthew Muckley, Maxime Oquab, Marie-Pierre Revel, Maria Vakalopoulou
+  [[Paper](https://arxiv.org/abs/2405.01469)] 
+
 * **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**,
   Zeming Chen, Alejandro Hernández Cano, Angelika Romanou, Antoine Bonnet, Kyle Matoba, Francesco Salvi, Matteo Pagliardini, Simin Fan, Andreas Köpf, Amirkeivan Mohtashami, Alexandre Sallinen, Alireza Sakhaeirad, Vinitra Swamy, Igor Krawczuk, Deniz Bayazit, Axel Marmet, Syrielle Montariol, Mary-Anne Hartley, Martin Jaggi, Antoine Bosselut
   [[Paper](https://arxiv.org/abs/2311.16079)] 
