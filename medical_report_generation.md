@@ -3,6 +3,10 @@
 ### Year 2024 
 
 
+* **FITA: Fine-grained Image-Text Aligner for Radiology Report Generation**,
+  Honglong Yang, Hui Tang, Xiaomeng Li
+  [[Paper](https://arxiv.org/abs/2405.00962)] 
+
 * **A Disease Labeler for Chinese Chest X-Ray Report Generation**, arXiv:2404.16852, 
   Mengwei Wang, Ruixin Yan, Zeyi Hou, Ning Lang, Xiuzhuang Zhou
   [[Paper](https://arxiv.org/abs/2404.16852)] 
