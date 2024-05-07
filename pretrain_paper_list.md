@@ -40,6 +40,12 @@
 
 ### Year 2024 
 
+
+* [CVPR-2024] **Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework**, arXiv:2403.07636, 
+  Vu Minh Hieu Phan, Yutong Xie, Yuankai Qi, Lingqiao Liu, Liyang Liu, Bowen Zhang, Zhibin Liao, Qi Wu, Minh-Son To, Johan W. Verjans
+  [[Paper](https://arxiv.org/abs/2403.07636)]
+  [[Code](https://github.com/HieuPhan33/MAVL)] 
+
 * **Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning**,
   Théo Moutakanni, Piotr Bojanowski, Guillaume Chassagnon, Céline Hudelot, Armand Joulin, Yann LeCun, Matthew Muckley, Maxime Oquab, Marie-Pierre Revel, Maria Vakalopoulou
   [[Paper](https://arxiv.org/abs/2405.01469)] 
