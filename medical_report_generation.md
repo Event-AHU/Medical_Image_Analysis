@@ -3,6 +3,10 @@
 ### Year 2024 
 
 
+* **Topicwise Separable Sentence Retrieval for Medical Report Generation**, arXiv:2405.04175, 
+  Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
+  [[Paper](https://arxiv.org/abs/2405.04175)]
+  
 * **FITA: Fine-grained Image-Text Aligner for Radiology Report Generation**,
   Honglong Yang, Hui Tang, Xiaomeng Li
   [[Paper](https://arxiv.org/abs/2405.00962)] 
