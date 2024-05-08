@@ -76,7 +76,8 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 * [AAAI 2019] **CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison**,
   Jeremy Irvin, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus, Chris Chute, Henrik Marklund, Behzad Haghgoo, Robyn Ball, Katie Shpanskaya, Jayne Seekins, David A. Mong, Safwan S. Halabi, Jesse K. Sandberg, Ricky Jones, David B. Larson, Curtis P. Langlotz, Bhavik N. Patel, Matthew P. Lungren, Andrew Y. Ng 
   [[Paper](https://arxiv.org/abs/1901.07031)]
-  [[Code](https://stanfordmlgroup.github.io/competitions/chexpert)] 
+  [[Code](https://stanfordmlgroup.github.io/competitions/chexpert)]
+  [[chexpert-labeler](https://github.com/stanfordmlgroup/chexpert-labeler)]
 
 
 
