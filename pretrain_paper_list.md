@@ -40,6 +40,10 @@
 
 ### Year 2024 
 
+* [arXiv:2405.05237] **EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning**,
+  Jingfeng Yao, Xinggang Wang, Yuehao Song, Huangxuan Zhao, Jun Ma, Yajie Chen, Wenyu Liu, Bo Wang
+  [[Paper](https://arxiv.org/abs/2405.05237)]
+  [[Code](https://github.com/hustvl/EVA-X)] 
 
 * [CVPR-2024] **Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework**, arXiv:2403.07636, 
   Vu Minh Hieu Phan, Yutong Xie, Yuankai Qi, Lingqiao Liu, Liyang Liu, Bowen Zhang, Zhibin Liao, Qi Wu, Minh-Son To, Johan W. Verjans
