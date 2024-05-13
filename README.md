@@ -21,7 +21,7 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 
 ## Suggested Code: 
-* **R2GenGPT: Radiology Report Generation with Frozen LLMs**
+* Wang, Zhanyu, et al. "**R2gengpt: Radiology report generation with frozen llms**." Meta-Radiology 1.3 (2023): 100033.
   [[Github](https://github.com/wang-zhanyu/R2GenGPT)]
   [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000334)]
   
