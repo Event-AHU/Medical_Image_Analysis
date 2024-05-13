@@ -21,7 +21,10 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 
 ## Suggested Code: 
-* **R2GenGPT: Radiology Report Generation with Frozen LLMs** [[Github](https://github.com/wang-zhanyu/R2GenGPT)]
+* **R2GenGPT: Radiology Report Generation with Frozen LLMs**
+  [[Github](https://github.com/wang-zhanyu/R2GenGPT)]
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000334)]
+  
 * **R2Gen**: [[Paper (EMNLP-2020)](https://arxiv.org/pdf/2010.16056.pdf)] [[Code](https://github.com/zhjohnchan/R2Gen)]
   
 
