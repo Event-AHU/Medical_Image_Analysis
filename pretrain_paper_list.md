@@ -40,6 +40,11 @@
 
 ### Year 2024 
 
+* [arXiv:2405.09586] **Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation**,
+  Kang Liu, Zhuoqi Ma, Mengmeng Liu, Zhicheng Jiao, Xiaolu Kang, Qiguang Miao, Kun Xie
+  [[Paper](https://arxiv.org/abs/2405.09586)]
+  [[Code](https://github.com/mk-runner/FSE)] 
+
 * [arXiv:2405.05237] **EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning**,
   Jingfeng Yao, Xinggang Wang, Yuehao Song, Huangxuan Zhao, Jun Ma, Yajie Chen, Wenyu Liu, Bo Wang
   [[Paper](https://arxiv.org/abs/2405.05237)]
