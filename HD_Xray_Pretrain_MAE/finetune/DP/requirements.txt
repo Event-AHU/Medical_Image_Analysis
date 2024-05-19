@@ -1,0 +1,10 @@
+scipy
+torch
+torchvision
+tqdm
+easydict
+numpy
+Pillow
+sentence_transformers
+torchmetrics
+scikit-learn
