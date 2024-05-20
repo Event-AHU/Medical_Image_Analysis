@@ -8,7 +8,13 @@
 ## Update Log:  
 
 * [2024.04.28] **Pre-training on High Definition X-ray Images: An Experimental Study**, Xiao Wang, Yuehang Li, Wentao Wu, Jiandong Jin, Yao Rong, Bo Jiang, Chuanfu Li, Jin Tang
-arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org/abs/2404.17926)]  
+arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org/abs/2404.17926)]
+
+
+## Surveys/Reviews 
+* **Automated Radiology Report Generation: A Review of Recent Advances**, Phillip Sloan, Philip Clatworthy, Edwin Simpson, Majid Mirmehdi
+  [[Paper](https://arxiv.org/abs/2405.10842)]
+
 
 
 ## Paper Lists: 
