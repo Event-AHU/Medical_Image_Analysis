@@ -44,6 +44,11 @@
 
 ### Year 2024 
 
+* [arXiv:2405.11793] **MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**,
+  Ruiqi Wu, Chenran Zhang, Jianle Zhang, Yi Zhou, Tao Zhou, Huazhu Fu
+  [[Paper](https://arxiv.org/abs/2405.11793)]
+  [[Code](https://github.com/lxirich/MM-Retinal)] 
+
 * [arXiv:2405.09586] **Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation**,
   Kang Liu, Zhuoqi Ma, Mengmeng Liu, Zhicheng Jiao, Xiaolu Kang, Qiguang Miao, Kun Xie
   [[Paper](https://arxiv.org/abs/2405.09586)]
