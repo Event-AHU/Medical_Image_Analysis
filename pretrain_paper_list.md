@@ -9,6 +9,10 @@
 
 ### Survey and Review 
 
+* [arXiv:2405.12833] **A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data**,
+  Xinyi Wang, Grazziela Figueredo, Ruizhe Li, Wei Emma Zhang, Weitong Chen, Xin Chen
+  [[Paper](https://arxiv.org/abs/2405.12833)] 
+
 * [arXiv-2024] **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**,
   [[Paper](https://arxiv.org/abs/2403.02469)] 
 
