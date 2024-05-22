@@ -44,7 +44,7 @@
 
 ### Year 2024 
 
-* [arXiv:2405.11793] **MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**,
+* [arXiv:2405.11793, MICCAI 2024] **MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**,
   Ruiqi Wu, Chenran Zhang, Jianle Zhang, Yi Zhou, Tao Zhou, Huazhu Fu
   [[Paper](https://arxiv.org/abs/2405.11793)]
   [[Code](https://github.com/lxirich/MM-Retinal)] 
