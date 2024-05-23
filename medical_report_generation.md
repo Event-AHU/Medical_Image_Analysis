@@ -38,6 +38,10 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 ### Year 2023 
 
+* [arXiv:2310.05881, EMNLP 2023] **Controllable Chest X-Ray Report Generation from Longitudinal Representations**,
+  Francesco Dalla Serra, Chaoyang Wang, Fani Deligianni, Jeffrey Dalton, Alison Q O'Neil
+  [[Paper](https://arxiv.org/abs/2310.05881)] 
+
 * **RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**, Chantal Pellegrini, Ege Özsoy, Benjamin Busam, Nassir Navab, Matthias Keicher
   [[Paper](https://arxiv.org/abs/2311.18681)]
   [[Code](https://github.com/ChantalMP/RaDialog)] 
