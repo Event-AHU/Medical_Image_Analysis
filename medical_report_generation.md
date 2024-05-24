@@ -3,6 +3,10 @@
 ### Year 2024 
 
 
+* [arXiv:2405.14113] **Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation**, 
+  Zhusi Zhong, Jie Li, John Sollee, Scott Collins, Harrison Bai, Paul Zhang, Terrence Healey, Michael Atalay, Xinbo Gao, Zhicheng Jiao
+  [[Paper](https://arxiv.org/abs/2405.14113)] 
+
 * **Topicwise Separable Sentence Retrieval for Medical Report Generation**, arXiv:2405.04175, 
   Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
   [[Paper](https://arxiv.org/abs/2405.04175)]
