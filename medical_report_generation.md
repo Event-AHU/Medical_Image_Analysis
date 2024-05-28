@@ -2,7 +2,6 @@
 
 ### Year 2024 
 
-
 * [arXiv:2405.14113] **Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation**, 
   Zhusi Zhong, Jie Li, John Sollee, Scott Collins, Harrison Bai, Paul Zhang, Terrence Healey, Michael Atalay, Xinbo Gao, Zhicheng Jiao
   [[Paper](https://arxiv.org/abs/2405.14113)] 
@@ -41,6 +40,10 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 
 ### Year 2023 
+
+* "**Improving chest X-ray report generation by leveraging warm starting.**" Nicolson, Aaron, Jason Dowling, and Bevan Koopman.  Artificial intelligence in medicine 144 (2023): 102633.
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0933365723001471)]
+[[Code](https://github.com/aehrc/cvt2distilgpt2)] 
 
 * [arXiv:2310.05881, EMNLP 2023] **Controllable Chest X-Ray Report Generation from Longitudinal Representations**,
   Francesco Dalla Serra, Chaoyang Wang, Fani Deligianni, Jeffrey Dalton, Alison Q O'Neil
