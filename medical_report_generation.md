@@ -41,6 +41,11 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 ### Year 2023 
 
+
+* [arXiv:2307.09758] **Longitudinal Data and a Semantic Similarity Reward for Chest X-Ray Report Generation**, Aaron Nicolson, Jason Dowling, Bevan Koopman
+  [[Paper](https://arxiv.org/abs/2307.09758)]
+  [[Code](https://github.com/aehrc/cxrmate)]
+
 * "**Improving chest X-ray report generation by leveraging warm starting.**" Nicolson, Aaron, Jason Dowling, and Bevan Koopman.  Artificial intelligence in medicine 144 (2023): 102633.
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0933365723001471)]
 [[Code](https://github.com/aehrc/cvt2distilgpt2)] 
