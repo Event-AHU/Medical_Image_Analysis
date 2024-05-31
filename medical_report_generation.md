@@ -2,6 +2,11 @@
 
 ### Year 2024 
 
+* [arXiv:2405.19654] **Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training**,
+  Jinxia Yang, Bing Su, Wayne Xin Zhao, Ji-Rong Wen
+  [[Paper](https://arxiv.org/abs/2405.19654)]
+  [[Code](https://github.com/SVT-Yang/MedST)] 
+
 * [arXiv:2405.14113] **Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation**, 
   Zhusi Zhong, Jie Li, John Sollee, Scott Collins, Harrison Bai, Paul Zhang, Terrence Healey, Michael Atalay, Xinbo Gao, Zhicheng Jiao
   [[Paper](https://arxiv.org/abs/2405.14113)] 
