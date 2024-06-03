@@ -2,6 +2,10 @@
 
 ### Year 2024 
 
+
+* [arXiv:2405.20607] **Textual Inversion and Self-supervised Refinement for Radiology Report Generation**, Yuanjiang Luo, Hongxiang Li, Xuan Wu, Meng Cao, Xiaoshuang Huang, Zhihong Zhu, Peixi Liao, Hu Chen, Yi Zhang
+  [[Paper](https://arxiv.org/abs/2405.20607)]
+
 * [arXiv:2405.19654] **Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training**,
   Jinxia Yang, Bing Su, Wayne Xin Zhao, Ji-Rong Wen
   [[Paper](https://arxiv.org/abs/2405.19654)]
