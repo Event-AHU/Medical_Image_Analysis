@@ -1,14 +1,18 @@
 # HD_Xray_Pretrain_MAE
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/edit/liyhc-patch-1/HD_Xray_Pretrain_MAE/framework.jpg)
+
 ## Requirements
 ### Installation
 To install the required dependencies, run:
 ```
 pip install -r requirements.txt
 ```
-###Pretrain
+
+### Pretrain
+
 The large-scale and high-resolution dataset we use not publicly available.
 
-###FineTune
+### FineTune
 #### Data Preparation
 For the Disease Prediction task, download the RSNA dataset. Run './finetune/DP/dataset/medical_classifi_pickle_process.py' to preprocess the RSNA dataset into a pickle format for training.
 
