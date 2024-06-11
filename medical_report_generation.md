@@ -2,6 +2,8 @@
 
 ### Year 2024 
 
+* [arXiv:2406.04449] **MAIRA-2: Grounded Radiology Report Generation**, Shruthi Bannur, Kenza Bouzid, Daniel C. Castro, Anton Schwaighofer, Sam Bond-Taylor, Maximilian Ilse, Fernando Pérez-García, Valentina Salvatelli, Harshita Sharma, Felix Meissen, Mercy Ranjit, Shaury Srivastav, Julia Gong, Fabian Falck, Ozan Oktay, Anja Thieme, Matthew P. Lungren, Maria Teodora Wetscherek, Javier Alvarez-Valle, Stephanie L. Hyland
+  [[Paper](https://arxiv.org/abs/2406.04449)] 
 
 * [arXiv:2405.20607] **Textual Inversion and Self-supervised Refinement for Radiology Report Generation**, Yuanjiang Luo, Hongxiang Li, Xuan Wu, Meng Cao, Xiaoshuang Huang, Zhihong Zhu, Peixi Liao, Hu Chen, Yi Zhang
   [[Paper](https://arxiv.org/abs/2405.20607)]
