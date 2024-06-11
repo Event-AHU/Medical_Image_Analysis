@@ -44,6 +44,10 @@
 
 ### Year 2024 
 
+
+* **Merlin: A Vision Language Foundation Model for 3D Computed Tomography**, Louis Blankemeier, Joseph Paul Cohen, Ashwin Kumar, Dave Van Veen, Syed Jamal Safdar Gardezi, Magdalini Paschali, Zhihong Chen, Jean-Benoit Delbrouck, Eduardo Reis, Cesar Truyts, Christian Bluethgen, Malte Engmann Kjeldskov Jensen, Sophie Ostmeier, Maya Varma, Jeya Maria Jose Valanarasu, Zhongnan Fang, Zepeng Huo, Zaid Nabulsi, Diego Ardila, Wei-Hung Weng, Edson Amaro Junior, Neera Ahuja, Jason Fries, Nigam H. Shah, Andrew Johnston, Robert D. Boutin, Andrew Wentland, Curtis P. Langlotz, Jason Hom, Sergios Gatidis, Akshay S. Chaudhari
+  [[Paper](https://arxiv.org/abs/2406.06512)] 
+
 * [arXiv:2405.11793, MICCAI 2024] **MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**,
   Ruiqi Wu, Chenran Zhang, Jianle Zhang, Yi Zhou, Tao Zhou, Huazhu Fu
   [[Paper](https://arxiv.org/abs/2405.11793)]
