@@ -3,6 +3,11 @@
 
 ### Evaluation Benchmark 
 
+
+* [arXiv:2406.07450] **Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**, 
+  Shuvendu Roy, Yasaman Parhizkar, Franklin Ogidi, Vahid Reza Khazaie, Michael Colacci, Ali Etemad, Elham Dolatabadi, Arash Afkanpour
+  [[Paper](https://arxiv.org/abs/2406.07450)] 
+
 * **OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**, Yutao Hu, Tianbin Li, Quanfeng Lu, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo
   [[Paper](https://arxiv.org/abs/2402.09181)]
   
