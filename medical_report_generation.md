@@ -53,6 +53,9 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 ### Year 2023 
 
 
+* [arXiv:2307.12526] **Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**, Yixin Wang, Zihao Lin, Haoyu Dong
+  [[Paper](https://arxiv.org/abs/2307.12526)] 
+
 * [arXiv:2307.09758] **Longitudinal Data and a Semantic Similarity Reward for Chest X-Ray Report Generation**, Aaron Nicolson, Jason Dowling, Bevan Koopman
   [[Paper](https://arxiv.org/abs/2307.09758)]
   [[Code](https://github.com/aehrc/cxrmate)]
