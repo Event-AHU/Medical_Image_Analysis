@@ -3,7 +3,7 @@
 
 Official PyTorch implementation for the **High-Definition Pre-trained Vision Foundation Models for X-Ray Image Analysis**.  
 
-![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/liyhc-patch-1/HD_Xray_Pretrain_MAE/framework.jpg)
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/HD_Xray_Pretrain_MAE/framework.jpg)
 
 ## Requirements
 
