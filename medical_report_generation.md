@@ -2,6 +2,11 @@
 
 ### Year 2024 
 
+
+* **Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation**, Shenshen Bu, Taiji Li, Yuedong Yang,*Zhiming Dai
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)]
+  [[Code](https://github.com/hnjzbss/EKAGen)] 
+
 * [arXiv:2406.04449] **MAIRA-2: Grounded Radiology Report Generation**, Shruthi Bannur, Kenza Bouzid, Daniel C. Castro, Anton Schwaighofer, Sam Bond-Taylor, Maximilian Ilse, Fernando Pérez-García, Valentina Salvatelli, Harshita Sharma, Felix Meissen, Mercy Ranjit, Shaury Srivastav, Julia Gong, Fabian Falck, Ozan Oktay, Anja Thieme, Matthew P. Lungren, Maria Teodora Wetscherek, Javier Alvarez-Valle, Stephanie L. Hyland
   [[Paper](https://arxiv.org/abs/2406.04449)] 
 
