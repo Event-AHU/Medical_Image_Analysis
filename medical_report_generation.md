@@ -3,6 +3,12 @@
 ### Year 2024 
 
 
+
+* [WACV 2024] **CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs**,
+  Junjie Shentu, Noura Al Moubayed,
+  [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shentu_CXR-IRGen_An_Integrated_Vision_and_Language_Model_for_the_Generation_WACV_2024_paper.pdf)]
+  [[Code](https://github.com/junjie-shentu/CXR-IRGen)]
+
 * [CVPR-2024] **Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation**, Shenshen Bu, Taiji Li, Yuedong Yang,*Zhiming Dai 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf)]
   [[Code](https://github.com/hnjzbss/EKAGen)] 
