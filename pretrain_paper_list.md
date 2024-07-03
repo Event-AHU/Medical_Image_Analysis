@@ -49,7 +49,6 @@
 
 ### Year 2024 
 
-
 * **Merlin: A Vision Language Foundation Model for 3D Computed Tomography**, Louis Blankemeier, Joseph Paul Cohen, Ashwin Kumar, Dave Van Veen, Syed Jamal Safdar Gardezi, Magdalini Paschali, Zhihong Chen, Jean-Benoit Delbrouck, Eduardo Reis, Cesar Truyts, Christian Bluethgen, Malte Engmann Kjeldskov Jensen, Sophie Ostmeier, Maya Varma, Jeya Maria Jose Valanarasu, Zhongnan Fang, Zepeng Huo, Zaid Nabulsi, Diego Ardila, Wei-Hung Weng, Edson Amaro Junior, Neera Ahuja, Jason Fries, Nigam H. Shah, Andrew Johnston, Robert D. Boutin, Andrew Wentland, Curtis P. Langlotz, Jason Hom, Sergios Gatidis, Akshay S. Chaudhari
   [[Paper](https://arxiv.org/abs/2406.06512)] 
 
@@ -129,6 +128,10 @@
 
 
 ### Year 2023 
+
+
+* [IEEE TMI 2023] **Improving Medical Vision-Language Contrastive Pretraining With Semantics-Aware Triage**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10182304)] 
 
 * [ICCV-2023] **Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**, Zhihong Chen1,2∗ Shizhe Diao3∗ Benyou Wang1,2† Guanbin Li4† Xiang Wan
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Towards_Unifying_Medical_Vision-and-Language_Pre-Training_via_Soft_Prompts_ICCV_2023_paper.pdf)]
