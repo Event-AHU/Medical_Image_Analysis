@@ -9,11 +9,35 @@
 ### Year 2024 
 
 
-* 
+* [IEEE TMI 2024] **Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning**, 
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10458706)] 
+
+* [IEEE TMI 2024] **PhraseAug: An Augmented Medical Report Generation Model with Phrasebook**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10560051)] 
+
+* [IEEE TMM 2023] **Semi-Supervised Medical Report Generation via Graph-Guided Hybrid Feature Consistency**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10119200)] 
+
+* [IEEE TMI 2024] **SGT++: Improved Scene Graph-Guided Transformer for Surgical Report Generation**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10330637)] 
+
+* [IEEE TNNLS] **Hybrid Reinforced Medical Report Generation With M-Linear Attention and Repetition Penalty**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10373187)]  
+
+* [CIKM '23] Li, Qi. "**Harnessing the power of pre-trained vision-language models for efficient medical report generation**." Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. 2023.
+
+* [IEEE TMI 2023] **Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10045710)] 
+
+* [IEEE TMI 2024] **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10522762)]
+  [[Code](https://github.com/zhaozh10/ChatCAD)] 
+
+* [IEEE TMI 2023] **Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation**,
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10045710)] 
 
 * [IEEE TMM 2023] Multi-Task Paired Masking With Alignment Modeling for Medical Vision-Language Pre-Training
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10288259)]
-  [[Code]()] 
 
 * [IEEE TMI 2024] **Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting**
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10552817)]
