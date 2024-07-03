@@ -1,8 +1,27 @@
 
+### Surveys 
+
+* **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**, Iryna Hartsock, Ghulam Rasool
+  [[Paper](https://arxiv.org/abs/2403.02469)] 
+
+
 
 ### Year 2024 
 
 
+* 
+
+* [IEEE TMM 2023] Multi-Task Paired Masking With Alignment Modeling for Medical Vision-Language Pre-Training
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10288259)]
+  [[Code]()] 
+
+* [IEEE TMI 2024] **Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting**
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10552817)]
+  [[Code](https://github.com/yangyan22/Token-Mixer)] 
+  
+* [arXiv:2405.04175] **Topic-wise Separable Sentence Retrieval for Medical Report Generation**,
+  Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
+  [[Paper](https://arxiv.org/abs/2405.04175)] 
 
 * [WACV 2024] **CXR-IRGen: An Integrated Vision and Language Model for the Generation of Clinically Accurate Chest X-Ray Image-Report Pairs**,
   Junjie Shentu, Noura Al Moubayed,
