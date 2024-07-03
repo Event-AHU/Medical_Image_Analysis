@@ -61,8 +61,16 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 
 
+
+
+
+
 ### Year 2023 
 
+
+* [arXiv:2303.09117] **Cross-Modal Causal Intervention for Medical Report Generation**, Weixing Chen, Yang Liu, Ce Wang, Jiarui Zhu, Shen Zhao, Guanbin Li, Cheng-Lin Liu, Liang Lin
+  [[Paper](https://arxiv.org/abs/2303.09117)]
+  [[Code](https://github.com/WissingChen/VLCI)] 
 
 * [arXiv:2307.12526] **Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**, Yixin Wang, Zihao Lin, Haoyu Dong
   [[Paper](https://arxiv.org/abs/2307.12526)] 
