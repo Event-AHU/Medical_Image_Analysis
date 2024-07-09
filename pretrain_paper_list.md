@@ -12,6 +12,8 @@
   [[Paper](https://arxiv.org/abs/2402.09181)]
   
 
+
+
 ### Survey and Review 
 
 * [arXiv:2405.12833] **A Survey of Deep Learning-based Radiology Report Generation Using Multimodal Data**,
@@ -48,6 +50,10 @@
   
 
 ### Year 2024 
+
+* [arXiv:2405.12971] **BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once**, Theodore Zhao, Yu Gu, Jianwei Yang, Naoto Usuyama, Ho Hin Lee, Tristan Naumann, Jianfeng Gao, Angela Crabtree, Jacob Abel, Christine Moung-Wen, Brian Piening, Carlo Bifulco, Mu Wei, Hoifung Poon, Sheng Wang 
+  [[Paper](https://arxiv.org/abs/2405.12971)]
+  [[Code](https://aka.ms/biomedparse-project)] 
 
 * **Merlin: A Vision Language Foundation Model for 3D Computed Tomography**, Louis Blankemeier, Joseph Paul Cohen, Ashwin Kumar, Dave Van Veen, Syed Jamal Safdar Gardezi, Magdalini Paschali, Zhihong Chen, Jean-Benoit Delbrouck, Eduardo Reis, Cesar Truyts, Christian Bluethgen, Malte Engmann Kjeldskov Jensen, Sophie Ostmeier, Maya Varma, Jeya Maria Jose Valanarasu, Zhongnan Fang, Zepeng Huo, Zaid Nabulsi, Diego Ardila, Wei-Hung Weng, Edson Amaro Junior, Neera Ahuja, Jason Fries, Nigam H. Shah, Andrew Johnston, Robert D. Boutin, Andrew Wentland, Curtis P. Langlotz, Jason Hom, Sergios Gatidis, Akshay S. Chaudhari
   [[Paper](https://arxiv.org/abs/2406.06512)] 
