@@ -3,13 +3,19 @@
 
 ### Evaluation Benchmark 
 
+* [Meta-Radiology] Liu, Yunyi, et al. "**A Systematic Evaluation of GPT-4V’s Multimodal Capability for Chest X-ray Image Analysis.**" Meta-Radiology (2024): 100099.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162824000535)] 
+
 
 * [arXiv:2406.07450] **Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**, 
   Shuvendu Roy, Yasaman Parhizkar, Franklin Ogidi, Vahid Reza Khazaie, Michael Colacci, Ali Etemad, Elham Dolatabadi, Arash Afkanpour
   [[Paper](https://arxiv.org/abs/2406.07450)] 
 
+
 * **OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**, Yutao Hu, Tianbin Li, Quanfeng Lu, Wenqi Shao, Junjun He, Yu Qiao, Ping Luo
   [[Paper](https://arxiv.org/abs/2402.09181)]
+
+
   
 
 
