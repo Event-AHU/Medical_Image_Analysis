@@ -8,6 +8,10 @@
 
 ### Year 2024 
 
+
+* **Eye Gaze Guided Cross-Modal Alignment Network for Radiology Report Generation**,
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596697)]  
+
 * [ECCV 2024] **Contrastive Learning with Counterfactual Explanations for Radiology Report Generation**, 
   [[Paper](https://arxiv.org/pdf/2407.14474)]
   [[Code](https://github.com/mlii0117/CoFE)] 
