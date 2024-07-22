@@ -8,6 +8,9 @@
 
 ### Year 2024 
 
+* [ECCV 2024] **Contrastive Learning with Counterfactual Explanations for Radiology Report Generation**, 
+  [[Paper](https://arxiv.org/pdf/2407.14474)]
+  [[Code](https://github.com/mlii0117/CoFE)] 
 
 * [IEEE TMI 2024] **Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning**, 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10458706)] 
