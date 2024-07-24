@@ -1,6 +1,11 @@
 ## Widely Used Datasets 
 
 
+* **CheXpert Plus: Augmenting a Large Chest X-ray Dataset with Text Radiology Reports, Patient Demographics and Additional Image Formats**
+Pierre Chambon, Jean-Benoit Delbrouck, Thomas Sounack, Shih-Cheng Huang, Zhihong Chen, Maya Varma, Steven QH Truong, Chu The Chuong, Curtis P. Langlotz
+  [[Paper](https://arxiv.org/abs/2405.19538)]
+  [[Code](https://github.com/Stanford-AIMI/chexpert-plus)] 
+
 * [arXiv:2405.19538] **CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients**, 
   Pierre Chambon, Jean-Benoit Delbrouck, Thomas Sounack, Shih-Cheng Huang, Zhihong Chen, Maya Varma, Steven QH Truong, Chu The Chuong, Curtis P. Langlotz
   [[Paper](https://arxiv.org/abs/2405.19538)]
