@@ -9,6 +9,10 @@
 ### Year 2024 
 
 
+* [arXiv:2407.15158] **HERGen: Elevating Radiology Report Generation with Longitudinal Data**, Fuying Wang, Shenghui Du, Lequan Yu, ECCV 2024, 
+  [[Paper](https://arxiv.org/abs/2407.15158)]
+  [[Code](https://github.com/fuying-wang/HERGen)] 
+  
 * **Eye Gaze Guided Cross-Modal Alignment Network for Radiology Report Generation**,
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596697)]  
 
