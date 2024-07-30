@@ -9,6 +9,9 @@
 ### Year 2024 
 
 
+* **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**, Yingxue Xu, Yihui Wang, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen
+  [[Paper](https://arxiv.org/abs/2407.15362)]
+  
 * [arXiv:2407.15158] **HERGen: Elevating Radiology Report Generation with Longitudinal Data**, Fuying Wang, Shenghui Du, Lequan Yu, ECCV 2024, 
   [[Paper](https://arxiv.org/abs/2407.15158)]
   [[Code](https://github.com/fuying-wang/HERGen)] 
