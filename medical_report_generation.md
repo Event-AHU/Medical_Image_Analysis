@@ -8,6 +8,18 @@
 
 ### Year 2024 
 
+
+* 
+
+* [arXiv:2403.08002v2] **Training Small Multimodal Models to Bridge Biomedical Competency Gap: A Case Study in Radiology Imaging**, 
+Juan Manuel Zambrano Chaves, Shih-Cheng Huang, Yanbo Xu, Hanwen Xu, Naoto Usuyama, Sheng Zhang, Fei Wang, Yujia Xie, Mahmoud Khademi, Ziyi Yang, Hany Awadalla, Julia Gong, Houdong Hu, Jianwei Yang, Chunyuan Li, Jianfeng Gao, Yu Gu, Cliff Wong, Mu Wei, Tristan Naumann, Muhao Chen, Matthew P. Lungren, Serena Yeung-Levy, Curtis P. Langlotz, Sheng Wang, Hoifung Poon
+[[Paper](https://arxiv.org/abs/2403.08002v2)]   
+
+* [arXiv:2403.08002] **Towards a clinically accessible radiology foundation model: open-access and lightweight, with automated evaluation**, 
+  Juan Manuel Zambrano Chaves, Shih-Cheng Huang, Yanbo Xu, Hanwen Xu, Naoto Usuyama, Sheng Zhang, Fei Wang, Yujia Xie, Mahmoud Khademi, Ziyi Yang, Hany Awadalla, Julia Gong, Houdong Hu, Jianwei Yang, Chunyuan Li, Jianfeng Gao, Yu Gu, Cliff Wong, Mu Wei, Tristan Naumann, Muhao Chen, Matthew P. Lungren, Akshay Chaudhari, Serena Yeung-Levy, Curtis P. Langlotz, Sheng Wang, Hoifung Poon
+  [[Paper](https://arxiv.org/abs/2403.08002)]
+  [[CheXprompt (Code)](https://github.com/microsoft/chexprompt)] 
+
 * [arXiv:2405.04175] **Topicwise Separable Sentence Retrieval for Medical Report Generation**,
   Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
   [[Paper](https://arxiv.org/abs/2405.04175)]
