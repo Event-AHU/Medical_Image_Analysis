@@ -8,7 +8,10 @@
 
 ### Year 2024 
 
-
+* [arXiv:2405.04175] **Topicwise Separable Sentence Retrieval for Medical Report Generation**,
+  Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
+  [[Paper](https://arxiv.org/abs/2405.04175)]
+  
 * [CVPR2024] **MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**,
   Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu
   [[Paper](https://arxiv.org/abs/2403.04290)] 
