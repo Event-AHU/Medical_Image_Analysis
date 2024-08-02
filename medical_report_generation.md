@@ -126,7 +126,9 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 ### Year 2023 
 
-
+* [arXiv:2312.03970] **Improving Medical Report Generation with Adapter Tuning and Knowledge Enhancement in Vision-Language Foundation Models**, Shibin Wu, Bang Yang, Zhiyu Ye, Haoqian Wang, Hairong Zheng, Tong Zhang
+  [[Paper](https://arxiv.org/abs/2312.03970)] 
+  
 * [arXiv:2303.09117] **Cross-Modal Causal Intervention for Medical Report Generation**, Weixing Chen, Yang Liu, Ce Wang, Jiarui Zhu, Shen Zhao, Guanbin Li, Cheng-Lin Liu, Liang Lin
   [[Paper](https://arxiv.org/abs/2303.09117)]
   [[Code](https://github.com/WissingChen/VLCI)] 
