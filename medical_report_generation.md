@@ -9,8 +9,20 @@
 ### Year 2024 
 
 
-* 
+* [Nature 2023] Singhal, K., Azizi, S., Tu, T. et al. **Large language models encode clinical knowledge.** Nature 620, 172–180 (2023). https://doi.org/10.1038/s41586-023-06291-2
+  [[Paper](https://www.nature.com/articles/s41586-023-06291-2)] 
 
+* [Med-PaLM 2] **Towards Expert-Level Medical Question Answering with Large Language Models**,
+  [[Paper](https://arxiv.org/pdf/2305.09617)]
+  
+* [Med-PaLM Multimodal (Med-PaLM M)] **Towards Generalist Biomedical AI**,
+  Tao Tu∗, ‡, 1, Shekoofeh Azizi
+  [[Paper](https://arxiv.org/pdf/2307.14334)]   
+  
+* [MedVersa] **A Generalist Learner for Multifaceted Medical Image Interpretation**, 
+  Hong-Yu Zhou, Subathra Adithan, Julián Nicolás Acosta, Eric J. Topol, Pranav Rajpurkar
+  [[Paper](https://arxiv.org/abs/2405.07988)] 
+  
 * [arXiv:2403.08002v2] **Training Small Multimodal Models to Bridge Biomedical Competency Gap: A Case Study in Radiology Imaging**, 
 Juan Manuel Zambrano Chaves, Shih-Cheng Huang, Yanbo Xu, Hanwen Xu, Naoto Usuyama, Sheng Zhang, Fei Wang, Yujia Xie, Mahmoud Khademi, Ziyi Yang, Hany Awadalla, Julia Gong, Houdong Hu, Jianwei Yang, Chunyuan Li, Jianfeng Gao, Yu Gu, Cliff Wong, Mu Wei, Tristan Naumann, Muhao Chen, Matthew P. Lungren, Serena Yeung-Levy, Curtis P. Langlotz, Sheng Wang, Hoifung Poon
 [[Paper](https://arxiv.org/abs/2403.08002v2)]   
