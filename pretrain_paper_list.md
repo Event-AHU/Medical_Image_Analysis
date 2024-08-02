@@ -3,6 +3,11 @@
 
 ### Evaluation Benchmark 
 
+
+* [AAAI-24] **MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**,
+  Yan Cai, Linlin Wang, Ye Wang, Gerard de Melo, Ya Zhang, Yanfeng Wang, Liang He
+  [[Paper](https://arxiv.org/abs/2312.12806)] 
+
 * [Meta-Radiology] Liu, Yunyi, et al. "**A Systematic Evaluation of GPT-4V’s Multimodal Capability for Chest X-ray Image Analysis.**" Meta-Radiology (2024): 100099.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162824000535)] 
 
