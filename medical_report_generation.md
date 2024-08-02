@@ -8,6 +8,11 @@
 
 ### Year 2024 
 
+
+* [CVPR2024] **MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**,
+  Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu
+  [[Paper](https://arxiv.org/abs/2403.04290)] 
+
 * **Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components**,
   Hermione Warr, Yasin Ibrahim, Daniel R. McGowan, Konstantinos Kamnitsas
   [[Paper](https://arxiv.org/abs/2407.21638)] 
