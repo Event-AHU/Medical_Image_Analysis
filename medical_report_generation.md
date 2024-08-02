@@ -8,6 +8,8 @@
 
 ### Year 2024 
 
+* Zhao B N, JIANG X, Luo X, et al. **Large Multimodal Model for Real-World Radiology Report Generation**[J].
+  [[Paper](https://openreview.net/pdf?id=3Jl0sjmZx9)]
 
 * **A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model**, Yingxue Xu, Yihui Wang, Fengtao Zhou, Jiabo Ma, Shu Yang, Huangjing Lin, Xin Wang, Jiguang Wang, Li Liang, Anjia Han, Ronald Cheong Kin Chan, Hao Chen
   [[Paper](https://arxiv.org/abs/2407.15362)]
