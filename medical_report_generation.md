@@ -8,6 +8,10 @@
 
 ### Year 2024 
 
+* **Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components**,
+  Hermione Warr, Yasin Ibrahim, Daniel R. McGowan, Konstantinos Kamnitsas
+  [[Paper](https://arxiv.org/abs/2407.21638)] 
+
 * Zhao B N, JIANG X, Luo X, et al. **Large Multimodal Model for Real-World Radiology Report Generation**[J].
   [[Paper](https://openreview.net/pdf?id=3Jl0sjmZx9)]
 
