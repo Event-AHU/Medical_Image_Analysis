@@ -113,7 +113,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826)]
 [[Code](https://github.com/synlp/R2-LLM)]
 
-* **Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**, arXiv:2404.11209, 
+* [ICME 2024] **Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**, arXiv:2404.11209, 
   Hongzhao Li, Hongyu Wang, Xia Sun, Hua He, Jun Feng
   [[Paper](https://arxiv.org/abs/2404.11209)] 
 
