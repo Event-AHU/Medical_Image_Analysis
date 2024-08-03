@@ -62,6 +62,9 @@
 
 ### Year 2024 
 
+* [MICCAI 2024] **CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**, arXiv:2407.21011, 
+  Yuexi Du, Brian Chang, Nicha C. Dvornek
+  [[Paper](https://arxiv.org/abs/2407.21011)] 
 
 * [arXiv:2407.19546] **XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**,
   Biao Wu, Yutong Xie, Zeyu Zhang, Minh Hieu Phan, Qi Chen, Ling Chen, Qi Wu
