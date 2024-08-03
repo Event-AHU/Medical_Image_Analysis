@@ -62,6 +62,11 @@
 
 ### Year 2024 
 
+
+* [arXiv:2407.19546] **XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**,
+  Biao Wu, Yutong Xie, Zeyu Zhang, Minh Hieu Phan, Qi Chen, Ling Chen, Qi Wu
+  [[Paper](https://arxiv.org/abs/2407.19546)]
+
 * [arXiv:2405.12971] **BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once**, Theodore Zhao, Yu Gu, Jianwei Yang, Naoto Usuyama, Ho Hin Lee, Tristan Naumann, Jianfeng Gao, Angela Crabtree, Jacob Abel, Christine Moung-Wen, Brian Piening, Carlo Bifulco, Mu Wei, Hoifung Poon, Sheng Wang 
   [[Paper](https://arxiv.org/abs/2405.12971)]
   [[Code](https://aka.ms/biomedparse-project)] 
