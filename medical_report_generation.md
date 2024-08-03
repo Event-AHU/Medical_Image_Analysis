@@ -13,6 +13,10 @@
 ### Year 2024 
 
 
+* [ACM MM 2024] **In-Context Learning for Zero-shot Medical Report Generation**,
+  RUI Liu, Mingjie Li, Shen Zhao, Ling Chen, Xiaojun Chang, Lina Yao
+  [[Paper](https://openreview.net/pdf?id=8zyG2eUgVE)] 
+
 * [Nature 2023] Singhal, K., Azizi, S., Tu, T. et al. **Large language models encode clinical knowledge.** Nature 620, 172–180 (2023). https://doi.org/10.1038/s41586-023-06291-2
   [[Paper](https://www.nature.com/articles/s41586-023-06291-2)] 
 
