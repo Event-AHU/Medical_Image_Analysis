@@ -1,6 +1,12 @@
 ## Widely Used Datasets 
 
 
+
+* [**MedTrinity-25M**] **MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**,
+  Yunfei Xie, Ce Zhou, Lang Gao, Juncheng Wu, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie, Yuyin Zhou
+  [[Paper](https://arxiv.org/pdf/2408.02900)]
+  [[Code](https://yunfeixie233.github.io/MedTrinity-25M/)] 
+   
 * **CheXpert Plus: Augmenting a Large Chest X-ray Dataset with Text Radiology Reports, Patient Demographics and Additional Image Formats**
 Pierre Chambon, Jean-Benoit Delbrouck, Thomas Sounack, Shih-Cheng Huang, Zhihong Chen, Maya Varma, Steven QH Truong, Chu The Chuong, Curtis P. Langlotz
   [[Paper](https://arxiv.org/abs/2405.19538)]
