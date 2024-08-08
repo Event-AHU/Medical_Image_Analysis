@@ -170,6 +170,14 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 ### Year 2023 
 
+
+* [] 
+
+* [MICCAI workshop 2023] Xiong, Yiheng, et al. "**Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays.**"
+  International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature, Switzerland, 2023.
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-55088-1_5)]
+  [[Code](https://github.com/xiongyiheng/Prior-RadGraphFormer)] 
+
 * [arXiv:2312.03970] **Improving Medical Report Generation with Adapter Tuning and Knowledge Enhancement in Vision-Language Foundation Models**, Shibin Wu, Bang Yang, Zhiyu Ye, Haoqian Wang, Hairong Zheng, Tong Zhang
   [[Paper](https://arxiv.org/abs/2312.03970)] 
   
