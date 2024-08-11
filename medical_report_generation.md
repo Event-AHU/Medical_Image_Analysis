@@ -12,7 +12,11 @@
 
 ### Year 2024 
 
-
+* [arXiv:2408.03500] **e-Health CSIRO at RRG24: Entropy-Augmented Self-Critical Sequence Training for Radiology Report Generation**,
+  Aaron Nicolson, Jinghui Liu, Jason Dowling, Anthony Nguyen, Bevan Koopman
+  [[Paper](https://arxiv.org/abs/2408.03500)]
+  [[Code](https://huggingface.co/aehrc/cxrmate-rrg24)] 
+  
 * [ACM MM 2024] **In-Context Learning for Zero-shot Medical Report Generation**,
   RUI Liu, Mingjie Li, Shen Zhao, Ling Chen, Xiaojun Chang, Lina Yao
   [[Paper](https://openreview.net/pdf?id=8zyG2eUgVE)] 
