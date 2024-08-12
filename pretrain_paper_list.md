@@ -4,6 +4,10 @@
 ### Evaluation Benchmark 
 
 
+* [arXiv:2408.03361] **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**,
+  Pengcheng Chen, Jin Ye, Guoan Wang, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao
+  [[Paper](https://arxiv.org/abs/2408.03361)] 
+
 * [AAAI-24] **MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**,
   Yan Cai, Linlin Wang, Ye Wang, Gerard de Melo, Ya Zhang, Yanfeng Wang, Liang He
   [[Paper](https://arxiv.org/abs/2312.12806)] 
