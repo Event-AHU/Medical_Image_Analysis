@@ -12,6 +12,11 @@
 
 ### Year 2024 
 
+
+* [arXiv:2405.14113] **Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation**, Zhusi Zhong, Jie Li, John Sollee, Scott Collins, Harrison Bai, Paul Zhang, Terrence Healey, Michael Atalay, Xinbo Gao, Zhicheng Jiao 
+  [[Paper](https://arxiv.org/abs/2405.14113)]
+  [[Code](https://github.com/zzs95/MRANet)] 
+
 * [arXiv:2408.03500] **e-Health CSIRO at RRG24: Entropy-Augmented Self-Critical Sequence Training for Radiology Report Generation**,
   Aaron Nicolson, Jinghui Liu, Jason Dowling, Anthony Nguyen, Bevan Koopman
   [[Paper](https://arxiv.org/abs/2408.03500)]
