@@ -64,6 +64,32 @@ Existing X-ray based pre-trained vision models are usually conducted on a relati
 * **R2Gen**: [[Paper (EMNLP-2020)](https://arxiv.org/pdf/2010.16056.pdf)] [[Code](https://github.com/zhjohnchan/R2Gen)]
   
 
+## :newspaper: Citation 
+If you find this work helps your research, please star this GitHub and cite the following papers: 
+```bibtex
+@misc{wang2024R2GenCSR,
+      title={R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation}, 
+      author={Xiao Wang and Yuehang Li and Fuling Wang and Shiao Wang and Chuanfu Li and Bo Jiang},
+      year={2024},
+      eprint={2408.09743},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.09743}, 
+}
+
+@misc{wang2024pretraininghighdefinitionxray,
+      title={Pre-training on High Definition X-ray Images: An Experimental Study}, 
+      author={Xiao Wang and Yuehang Li and Wentao Wu and Jiandong Jin and Yao Rong and Bo Jiang and Chuanfu Li and Jin Tang},
+      year={2024},
+      eprint={2404.17926},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2404.17926}, 
+}
+
+```
+
+If you have any questions about these works, please feel free to leave an issue. 
 
 
 ## Star History
