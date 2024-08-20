@@ -19,7 +19,7 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 
 
-## :dart: [Pre-training MAE Model on HD X-ray Images]() 
+## :dart: [Context Sample Retrieval for LLM based X-ray Report Generation]()  
 * **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**, 
 Xiao Wang, Yuehang Li, Fuling Wang, Shiao Wang, Chuanfu Li, Bo Jiang, 
 arXiv Pre-print arXiv:2408.09743, 2024 
