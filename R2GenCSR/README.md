@@ -8,7 +8,7 @@
 
 **1. Install requirements**
 
-Install requirements using pip
+Install requirements using pip:
 
 ```bash
 pip install -r requirements.txt
@@ -19,17 +19,19 @@ pip install -r requirements.txt
 
 We follow R2Gen dataset process to download [IU-Xray](https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view) and [MIMIC-CXR](https://drive.google.com/file/d/1DS6NYirOXQf8qYieSVMvqNwuOlgAbM_E/view?usp=sharing), you can download orin MIMIC-CXR dataset from [official website](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)
 
-CheXpert Plus: you can download our preprocess annotation file from [here](), then place 'annotation.json' in 'chexpert_plus' folder, and download the original CheXpert Plus dataset from [here](https://stanfordmlgroup.github.io/cheXpert/), and place the downloaded dataset in your downloaded 'chexpert_plus' dataset folder.
+For CheXpert Plus dataset: Create a 'chexpert_plus' folder and download the original CheXpert Plus dataset from [here](https://stanfordaimi.azurewebsites.net/datasets/5158c524-d3ab-4e02-96e9-6ee9efc110a1). You can download our preprocess annotation file from [here](https://drive.google.com/file/d/1vjh8GXaFQYJXJeLaxLnFtvZxuSZscQd_/view?usp=sharing).
 
 
-cheXpert_plus
-├── annotation.json   # place your annotation file here
+
+```bash
+cheXpert_plus 
 ├── chexbert_labels
 ├── df_chexpert_plus_240401.csv
 ├── PNGs
+├── annotation.json    <- place annotation.json here
+```
 
 
-After downloading the data, for MIMIC-CXR as example, modify 'scripts/mimic.sh' '--annotation' and '--base_dir' to your data path, and run the script to generate the dataset.
 
 ### Prepare Vmamba:
 Follow the instruction in [VMamba](https://github.com/MzeroMiko/VMamba) to prepare the Vmamba model, you can download Vmamba-base from [here](https://github.com/MzeroMiko/VMamba/releases/download/%23v2cls/vssm_base_0229_ckpt_epoch_237.pth). 
@@ -40,6 +42,8 @@ cd VMamba/kernels/selective_scan && pip install .
 ```
 
 ### Training
+
+For MIMIC-CXR as example, update '--annotation' and '--base_dir' in scripts/mimic.sh to your data path.
 
 For IU-xray:
 ```bash
@@ -61,7 +65,7 @@ bash scripts/chexplus.sh
 
 **Testing mode**
 
-Once you finished the training, you can test the model by running the following script:
+Once you finished the training, you can test the model by running the following method:
 
 ```bash
 bash scripts/mimic.sh path/to/save/checkpoint.pth
