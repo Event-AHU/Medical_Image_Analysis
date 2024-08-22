@@ -29,7 +29,7 @@ def get_report(image):
 
 inputs=gr.Image(container=False,height=500,type ='filepath')
 outputs='text'
-title="AAAI2025-R2GenCSR"
+title="R2GenCSR"
 examples = [
     ['./images/mimic_test0.jpg'],
     ['./images/mimic_test1.jpg'],
