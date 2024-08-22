@@ -81,7 +81,10 @@ For MIMIC-CXR, update '--delta_file' in scripts/mimic_demo.sh to checkpoint path
 bash scripts/mimic_demo.sh
 ```
 Demo video:
+
+
 https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenCSR/images/demo.mp4
+
 
 ## Acknowledgement
 
