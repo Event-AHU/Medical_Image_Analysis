@@ -71,11 +71,11 @@ Once you finished the training, you can test the model by running the following 
 bash scripts/mimic.sh path/to/save/checkpoint.pth
 ```
 
-You can download the models we trained for each dataset from [here]() to test the performance.
+You can download the models we trained for each dataset from [here](https://drive.google.com/drive/folders/18mx2XMrWGc6MqKxFuQQUWRVp4E_YIaQu?usp=drive_link) to test the performance. Note that different devices and batchsize may lead to varying results.
 
 **Domo mode**
 
-For MIMIC-CXR, modify '--delta_file' in scripts/mimic_demo.sh to checkpoint path, and run:
+For MIMIC-CXR, update '--delta_file' in scripts/mimic_demo.sh to checkpoint path, and run:
 
 ```bash
 bash scripts/mimic_demo.sh
