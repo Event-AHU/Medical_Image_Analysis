@@ -1,7 +1,7 @@
 # R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation
 
 ## Introduction
-![overview]()
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenCSR/images/framework.jpg)
 
 ## Getting Started
 ### Installation
