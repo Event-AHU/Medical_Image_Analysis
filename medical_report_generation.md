@@ -13,6 +13,10 @@
 ### Year 2024 
 
 
+* [arXiv:2408.12141] **TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model**,
+  Yuhao Wang, Chao Hao, Yawen Cui, Xinqi Su, Weicheng Xie, Tao Tan, Zitong Yu
+  [[Paper](https://arxiv.org/abs/2408.12141)]
+  
 * [arXiv:2405.14113] **Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation**, Zhusi Zhong, Jie Li, John Sollee, Scott Collins, Harrison Bai, Paul Zhang, Terrence Healey, Michael Atalay, Xinbo Gao, Zhicheng Jiao 
   [[Paper](https://arxiv.org/abs/2405.14113)]
   [[Code](https://github.com/zzs95/MRANet)] 
