@@ -73,17 +73,21 @@ bash scripts/mimic.sh path/to/save/checkpoint.pth
 
 You can download the models we trained for each dataset from [here](https://drive.google.com/drive/folders/18mx2XMrWGc6MqKxFuQQUWRVp4E_YIaQu?usp=drive_link) to test the performance. Note that different devices and batchsize may lead to varying results.
 
-**Domo mode**
+**Domo mode** [![YouTube](https://badges.aleen42.com/src/youtube.svg)](#)
 
 For MIMIC-CXR, update '--delta_file' in scripts/mimic_demo.sh to checkpoint path, and run:
 
 ```bash
 bash scripts/mimic_demo.sh
 ```
+
 Demo video:
 
-
 https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenCSR/images/demo.mp4
+
+You can also find the demo video from **Youtube** [[Here](https://youtu.be/QqCrykX_IBA?si=R7ytRpAmDMWf0gAM)]. 
+
+
 
 
 ## Acknowledgement
