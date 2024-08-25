@@ -1,6 +1,6 @@
 import argparse
 
-parser = argparse.ArgumentParser(description="hyper-parameter for R2GenGPT")
+parser = argparse.ArgumentParser(description="hyper-parameter for R2GenCSR")
 # ========================= Dataset Configs ==========================
 parser.add_argument('--test', action='store_true', help="only run test set")
 parser.add_argument('--validate', action='store_true', help="only run validation set")
