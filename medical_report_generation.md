@@ -13,6 +13,11 @@
 ### Year 2024 
 
 
+* [arXiv:2408.14397] **Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**,
+  Xiaoman Zhang, Julián N. Acosta, Hong-Yu Zhou, Pranav Rajpurkar
+  [[Paper](https://arxiv.org/abs/2408.14397)]
+  [[Code](https://github.com/rajpurkarlab/ReXKG)]
+  
 * [arXiv:2408.12141] **TRRG: Towards Truthful Radiology Report Generation With Cross-modal Disease Clue Enhanced Large Language Model**,
   Yuhao Wang, Chao Hao, Yawen Cui, Xinqi Su, Weicheng Xie, Tao Tan, Zitong Yu
   [[Paper](https://arxiv.org/abs/2408.12141)]
