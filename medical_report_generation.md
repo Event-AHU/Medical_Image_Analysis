@@ -12,7 +12,12 @@
 
 ### Year 2024 
 
+* 
 
+* [arXiv:2403.05396] **HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction**,
+  Zhengrui Guo, Jiabo Ma, Yingxue Xu, Yihui Wang, Liansheng Wang, and Hao Chen
+  [[Paper](https://arxiv.org/abs/2403.05396)] 
+  
 * [arXiv:2408.14397] **Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**,
   Xiaoman Zhang, Julián N. Acosta, Hong-Yu Zhou, Pranav Rajpurkar
   [[Paper](https://arxiv.org/abs/2408.14397)]
