@@ -12,9 +12,9 @@ if [[ $load_model != "" ]]; then
     savepath="${load_model}_test"
     echo "The running files will be saved to $savepath"
     test_mode="--test \
-              --beam_size 3\
+              --beam_size 5\
               --delta_file ${load_model} \
-              --test_batch_size 20 \
+              --test_batch_size 32 \
               "
 else
     echo "++++++++train++++++++"
