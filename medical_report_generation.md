@@ -194,7 +194,9 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 ### Year 2023 
 
 
-* [] 
+* Yang, Shuxin, et al. "**Radiology report generation with a learned knowledge base and multi-modal alignment.**" Medical Image Analysis 86 (2023): 102798.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)]
+  [[Code](https://github.com/LX-doctorAI1/M2KT)]
 
 * [MICCAI workshop 2023] Xiong, Yiheng, et al. "**Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays.**"
   International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature, Switzerland, 2023.
