@@ -245,7 +245,15 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
   [[Code](https://github.com/wjhou/Recap)]
 
 
+
+
+
 ### Year 2022 
+
+
+* Yang, Shuxin, et al. "**Knowledge matters: Chest radiology report generation with general and specific knowledge.**" Medical image analysis 80 (2022): 102510.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)]
+  [[Code](https://github.com/LX-doctorAI1/GSKET)] 
 
 * [ECCV-2022] **Cross-modal prototype driven network for radiology report generation**. In European Conference on Computer Vision (pp. 563-579). Wang, J., Bhalerao, A., & He, Y. (2022, October). Cham: Springer Nature Switzerland.
   [[Paper](https://arxiv.org/pdf/2207.04818.pdf)]
