@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/34155d66-b579-4af7-8c14-4da065eb83a8)
 ### Surveys 
 
 * **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**, Iryna Hartsock, Ghulam Rasool
@@ -12,7 +12,9 @@
 
 ### Year 2024 
 
-* 
+* Fan, Yijian, Zhenbang Yang, Rui Liu, Mingjie Li, and Xiaojun Chang. "**Medical Report Generation Is A Multi-label Classification Problem.**" arXiv preprint arXiv:2409.00250 (2024).
+  [[Paper](https://arxiv.org/pdf/2409.00250)] 
+
 
 * [arXiv:2403.05396] **HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction**,
   Zhengrui Guo, Jiabo Ma, Yingxue Xu, Yihui Wang, Liansheng Wang, and Hao Chen
