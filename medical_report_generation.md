@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/34155d66-b579-4af7-8c14-4da065eb83a8)
+
 ### Surveys 
 
 * **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**, Iryna Hartsock, Ghulam Rasool
