@@ -12,6 +12,10 @@
 
 ### Year 2024 
 
+* [arXiv:2405.04175] **Topicwise Separable Sentence Retrieval for Medical Report Generation**,
+  Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
+  [[Paper](https://arxiv.org/pdf/2405.04175)] 
+
 * Fan, Yijian, Zhenbang Yang, Rui Liu, Mingjie Li, and Xiaojun Chang. "**Medical Report Generation Is A Multi-label Classification Problem.**" arXiv preprint arXiv:2409.00250 (2024).
   [[Paper](https://arxiv.org/pdf/2409.00250)] 
 
