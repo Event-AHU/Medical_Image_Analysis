@@ -12,7 +12,7 @@
 
 ### Year 2024 
 
-*[arXiv:2409.05370v1]**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**,
+* [arXiv:2409.05370v1] **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**,
 Yingshu Li, Zhanyu Wang, Yunyi Liu, Lei Wang, Lingqiao Liu, and Luping Zhou
  [[Paper](https://arxiv.org/pdf/2409.05370)] 
 
