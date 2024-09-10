@@ -12,6 +12,10 @@
 
 ### Year 2024 
 
+*[arXiv:2409.05370v1]**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**,
+Yingshu Li, Zhanyu Wang, Yunyi Liu, Lei Wang, Lingqiao Liu, and Luping Zhou
+ [[Paper](https://arxiv.org/pdf/2409.05370)] 
+
 * [arXiv:2405.04175] **Topicwise Separable Sentence Retrieval for Medical Report Generation**,
   Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
   [[Paper](https://arxiv.org/pdf/2405.04175)] 
