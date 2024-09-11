@@ -10,7 +10,14 @@
 * [https://sites.research.google/med-palm/](https://sites.research.google/med-palm/)  
 
 
+
+
+
 ### Year 2024 
+
+* [arXiv:2408.15915] **Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**,
+  Yuncheng Yang, Yulei Qin, Tong Wu, Zihan Xu, Gang Li, Pengcheng Guo, Hang Shao, Yuchen Shi, Ke Li, Xing Sun, Jie Yang, Yun Gu
+  [[Paper](https://arxiv.org/abs/2408.15915)] 
 
 * [arXiv:2409.05370v1] **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**,
 Yingshu Li, Zhanyu Wang, Yunyi Liu, Lei Wang, Lingqiao Liu, and Luping Zhou
