@@ -4,6 +4,10 @@
 ### Evaluation Benchmark 
 
 
+* Wu, Chaoyi, Pengcheng Qiu, Jinxin Liu, Hongfei Gu, Na Li, Ya Zhang, Yanfeng Wang, and Weidi Xie.
+  "**Towards Evaluating and Building Versatile Large Language Models for Medicine.**" arXiv preprint arXiv:2408.12547 (2024).
+  [[Paper](https://arxiv.org/abs/2408.12547)] 
+  
 * [arXiv:2408.03361] **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**,
   Pengcheng Chen, Jin Ye, Guoan Wang, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao
   [[Paper](https://arxiv.org/abs/2408.03361)] 
