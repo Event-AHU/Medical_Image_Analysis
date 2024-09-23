@@ -19,6 +19,11 @@
 
 ### Year 2024 
 
+
+* [arXiv:2409.13321] **SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**,
+  Jinge Wu, Yunsoo Kim, Daqian Shi, David Cliffton, Fenglin Liu, Honghan Wu
+  [[Paper](https://arxiv.org/abs/2409.13321)] 
+
 * [arXiv:2408.15915] **Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**,
   Yuncheng Yang, Yulei Qin, Tong Wu, Zihan Xu, Gang Li, Pengcheng Guo, Hang Shao, Yuchen Shi, Ke Li, Xing Sun, Jie Yang, Yun Gu
   [[Paper](https://arxiv.org/abs/2408.15915)] 
