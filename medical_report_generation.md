@@ -19,8 +19,10 @@
 
 ### Year 2024 
 
-
-
+* Jeong, Jaehwan, et al. "**Multimodal image-text matching improves retrieval-based chest x-ray report generation.**"
+  Medical Imaging with Deep Learning. PMLR, 2024.
+  [[Paper](https://proceedings.mlr.press/v227/jeong24a/jeong24a.pdf)]
+  
 * [arXiv:2409.13321] **SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**,
   Jinge Wu, Yunsoo Kim, Daqian Shi, David Cliffton, Fenglin Liu, Honghan Wu
   [[Paper](https://arxiv.org/abs/2409.13321)] 
@@ -291,7 +293,8 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
   [[Paper](https://arxiv.org/pdf/2207.04818.pdf)]
   [[Code](https://github.com/Markin-Wang/XProNet)]
 
-
+* Najdenkoska I, Zhen X, Worring M, et al. **Uncertainty-aware report generation for chest X-rays by variational topic inference**[J]. Medical Image Analysis, 2022, 82: 102603.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522002341)]
 
 
 ### Year 2021 and Before 
