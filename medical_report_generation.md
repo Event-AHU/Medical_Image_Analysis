@@ -22,6 +22,14 @@
 
 ### Year 2024 
 
+* **InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation**,
+  Ankan Deria, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024, pp. 2028-2038
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/MULA/html/Deria_InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation_CVPRW_2024_paper.html)]
+
+* **Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation**,
+  Liwen Sun, James Zhao, Megan Han, Chenyan Xiong
+  [[Paper](https://arxiv.org/abs/2407.15268)] 
+
 * Jeong, Jaehwan, et al. "**Multimodal image-text matching improves retrieval-based chest x-ray report generation.**"
   Medical Imaging with Deep Learning. PMLR, 2024.
   [[Paper](https://proceedings.mlr.press/v227/jeong24a/jeong24a.pdf)]
