@@ -20,6 +20,7 @@
 ### Year 2024 
 
 
+
 * [arXiv:2409.13321] **SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**,
   Jinge Wu, Yunsoo Kim, Daqian Shi, David Cliffton, Fenglin Liu, Honghan Wu
   [[Paper](https://arxiv.org/abs/2409.13321)] 
@@ -289,6 +290,11 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 
 ### Year 2021 and Before 
+
+
+* Endo M, Krishnan R, Krishna V, et al. **Retrieval-based chest x-ray report generation using a pre-trained contrastive language-image model**[C]//Machine Learning for Health. PMLR, 2021: 209-219.
+  [[Paper](https://proceedings.mlr.press/v158/endo21a/endo21a.pdf)] 
+  [[Code](https://github.com/rajpurkarlab/CXR-RePaiR)] 
 
 * "**Cross-modal Memory Networks for Radiology Report Generation.**" Chen, Zhihong, et al.  Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021.
   [[Paper](https://aclanthology.org/2021.acl-long.459/)]
