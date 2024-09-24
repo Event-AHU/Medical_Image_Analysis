@@ -4,9 +4,12 @@
 * Agrawal, Tejas Prakash. "**RadGraph: Integrating Fine-Grained and Global Features using GCNs and LLMs.**" PhD diss., Faculty of the Graduate School of the University at Buffalo, The State University of New York, 2024.
   [[PDF](https://cse.buffalo.edu/tech-reports/2024-19.pdf)] 
 
-
 * **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**, Iryna Hartsock, Ghulam Rasool
   [[Paper](https://arxiv.org/abs/2403.02469)] 
+
+* Sloan, Phillip, et al. "**Automated Radiology Report Generation: A Review of Recent Advances.**" IEEE Reviews in Biomedical Engineering (2024).
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10545538)] 
+
 
 
 ### Big Project 
