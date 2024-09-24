@@ -103,10 +103,6 @@ Juan Manuel Zambrano Chaves, Shih-Cheng Huang, Yanbo Xu, Hanwen Xu, Naoto Usuyam
   [[Paper](https://arxiv.org/abs/2403.08002)]
   [[CheXprompt (Code)](https://github.com/microsoft/chexprompt)] 
 
-* [arXiv:2405.04175] **Topicwise Separable Sentence Retrieval for Medical Report Generation**,
-  Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
-  [[Paper](https://arxiv.org/abs/2405.04175)]
-  
 * [CVPR2024] **MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**,
   Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu
   [[Paper](https://arxiv.org/abs/2403.04290)] 
@@ -194,10 +190,7 @@ Juan Manuel Zambrano Chaves, Shih-Cheng Huang, Yanbo Xu, Hanwen Xu, Naoto Usuyam
   Zhusi Zhong, Jie Li, John Sollee, Scott Collins, Harrison Bai, Paul Zhang, Terrence Healey, Michael Atalay, Xinbo Gao, Zhicheng Jiao
   [[Paper](https://arxiv.org/abs/2405.14113)] 
 
-* **Topicwise Separable Sentence Retrieval for Medical Report Generation**, arXiv:2405.04175, 
-  Junting Zhao, Yang Zhou, Zhihao Chen, Huazhu Fu, Liang Wan
-  [[Paper](https://arxiv.org/abs/2405.04175)]
-  
+
 * **FITA: Fine-grained Image-Text Aligner for Radiology Report Generation**,
   Honglong Yang, Hui Tang, Xiaomeng Li
   [[Paper](https://arxiv.org/abs/2405.00962)] 
