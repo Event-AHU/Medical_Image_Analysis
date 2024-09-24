@@ -221,6 +221,11 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 ### Year 2023 
 
 
+* Li M, Lin B, Chen Z, et al. **Dynamic graph enhanced contrastive learning for chest x-ray report generation**[C]//
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 3334-3343.
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf)]
+  [[Code](https://github.com/mlii0117/DCL)] 
+  
 * Yang, Shuxin, et al. "**Radiology report generation with a learned knowledge base and multi-modal alignment.**" Medical Image Analysis 86 (2023): 102798.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)]
   [[Code](https://github.com/LX-doctorAI1/M2KT)]
