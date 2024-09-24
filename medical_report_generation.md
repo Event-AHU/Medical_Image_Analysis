@@ -284,6 +284,8 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 ### Year 2022 
 
+* **Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors**, Machine Learning for Health (ML4H) 2022
+  [[Paper](https://proceedings.mlr.press/v193/ramesh22a/ramesh22a.pdf)] 
 
 * Yang, Shuxin, et al. "**Knowledge matters: Chest radiology report generation with general and specific knowledge.**" Medical image analysis 80 (2022): 102510.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)]
