@@ -284,6 +284,10 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 ### Year 2022 
 
+
+* **Uncertainty-aware report generation for chest X-rays by variational topic inference**,
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522002341?ref=pdf_download&fr=RR-2&rr=8c83a1612fa3dda2)] 
+
 * **Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors**, Machine Learning for Health (ML4H) 2022
   [[Paper](https://proceedings.mlr.press/v193/ramesh22a/ramesh22a.pdf)] 
 
