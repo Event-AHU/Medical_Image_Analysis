@@ -7,6 +7,8 @@
 
 ## Update Log:  
 
+* [2024.10.01] **A Pre-trained Large Model MambaXray-VL and the benchmark for the CheXpert Plus dataset are released** is released [arXiv:2410.00379]
+
 * [2024.08.20] **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation** is released [arXiv:2408.09743]
 
 * [2024.04.28] **Pre-training on High Definition X-ray Images: An Experimental Study**, Xiao Wang, Yuehang Li, Wentao Wu, Jiandong Jin, Yao Rong, Bo Jiang, Chuanfu Li, Jin Tang
@@ -19,6 +21,19 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 
 ## Projects Maintained in This Github:  
+
+### :dart: [Context Sample Retrieval for LLM based X-ray Report Generation]()  
+* **CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset**, 
+Xiao Wang, Fuling Wang, Yuehang Li, Qingchuan Ma, Shiao Wang, Bo Jiang, Chuanfu Li, Jin Tang, 
+arXiv Pre-print arXiv:2410.00379, 2024
+[[Paper](https://arxiv.org/abs/2410.00379)]
+
+X-ray image-based medical report generation (MRG) is a pivotal area in artificial intelligence which can significantly reduce diagnostic burdens and patient wait times. Despite significant progress, we believe that the task has reached a bottleneck due to the limited benchmark datasets and the existing large models' insufficient capability enhancements in this specialized domain. Specifically, the recently released CheXpert Plus dataset lacks comparative evaluation algorithms and their results, providing only the dataset itself. This situation makes the training, evaluation, and comparison of subsequent algorithms challenging. Thus, we conduct a comprehensive benchmarking of existing mainstream X-ray report generation models and large language models (LLMs), on the CheXpert Plus dataset. We believe that the proposed benchmark can provide a solid comparative basis for subsequent algorithms and serve as a guide for researchers to quickly grasp the state-of-the-art models in this field. More importantly, we propose a large model for the X-ray image report generation using a multi-stage pre-training strategy, including self-supervised autoregressive generation and Xray-report contrastive learning, and supervised fine-tuning. Extensive experimental results indicate that the autoregressive pre-training based on Mamba effectively encodes X-ray images, and the image-text contrastive pre-training further aligns the feature spaces, achieving better experimental results. 
+
+
+
+
+
 
 ### :dart: [Context Sample Retrieval for LLM based X-ray Report Generation]()  
 * **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**, 
