@@ -83,6 +83,16 @@ Existing X-ray based pre-trained vision models are usually conducted on a relati
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
+@misc{wang2024CXPMRGBench,
+      title={CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset}, 
+      author={Xiao Wang and Fuling Wang and Yuehang Li and Qingchuan Ma and Shiao Wang and Bo Jiang and Chuanfu Li and Jin Tang},
+      year={2024},
+      eprint={2410.00379},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.00379}, 
+}
+
 @misc{wang2024R2GenCSR,
       title={R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation}, 
       author={Xiao Wang and Yuehang Li and Fuling Wang and Shiao Wang and Chuanfu Li and Bo Jiang},
