@@ -22,7 +22,7 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 ## Projects Maintained in This Github:  
 
-### :dart: [CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset]()  
+### :dart: [A Pre-trained Large Model MambaXray-VL and the benchmark for the CheXpert Plus dataset]()  
 * **CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset**, 
 Xiao Wang, Fuling Wang, Yuehang Li, Qingchuan Ma, Shiao Wang, Bo Jiang, Chuanfu Li, Jin Tang, 
 arXiv Pre-print arXiv:2410.00379, 2024
