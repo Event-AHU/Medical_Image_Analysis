@@ -103,3 +103,15 @@ bash launch/launch_mambaclip_test_chexpert.sh
 + [ARM](https://github.com/OliverRensu/ARM) The first stage of training of our model is based on ARM.
 
 + [R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT/tree/main) Our work is based on the R2GenGPT framework.
+
+
+## Citation
+If you find this repository helpful, please consider citing:
+```bibtex
+@article{wang2024cxpmrg,
+  title={CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset},
+  author={Wang, Xiao and Wang, Fuling and Li, Yuehang and Ma, Qingchuan and Wang, Shiao and Jiang, Bo and Li, Chuanfu and Tang, Jin},
+  journal={arXiv preprint arXiv:2410.00379},
+  year={2024}
+}
+```
