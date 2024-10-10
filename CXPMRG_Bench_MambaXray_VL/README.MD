@@ -77,3 +77,23 @@ Once you finished the training, update '--annotation' , '--base_dir' and 'load_m
 ```bash
 bash launch/launch_mambaclip_test_chexpert.sh
 ```
+
+## Results and Checkpoints
+| name | stage | #params | model |
+|:---:|:---:|:---:|:---:|
+| Pretrain-B          | 1 | Base  | [model](https://drive.google.com/file/d/17hQy_VAChRIXySUslUexYY8HlNGXXFrY/view?usp=sharing) |
+| Pretrain-L          | 1 | Large | [model](https://drive.google.com/file/d/1TTpG5LIzngbuWxjTXWdhhcRNPEHlMJkG/view?usp=sharing) |
+| MambaXrayCLIP-B     | 2 | Base  | [model](https://drive.google.com/file/d/16BqLKpvfLghLB7-ijoVbanFmsu2Y9tit/view?usp=sharing) |
+| MambaXrayCLIP-L     | 2 | Large | [model](https://drive.google.com/file/d/1borqq55uoBYTR6lRfowdG4u3mSOWUnJ7/view?usp=sharing) |
+| IU-Finetune-B       | 3 | Base  | [model](https://drive.google.com/file/d/1Dw4YOUZjMSyZ-N84MfhdHoJIw6B_-_lC/view?usp=sharing) |
+| IU-Finetune-L       | 3 | Large | [model](https://drive.google.com/file/d/1eVR5LAkvWaj3wCOHnvoXg6ArbHZy07sl/view?usp=sharing) |
+| Mimic-Finetune-B    | 3 | Base  | [model](https://drive.google.com/file/d/1toF888tdpxPKX7h1A-QFCL7Itega7L-k/view?usp=sharing) |
+| Mimic-Finetune-L    | 3 | Large | [model](https://drive.google.com/file/d/124d-FeJyuShFA7x6_2SBrMMx20Pj4OKX/view?usp=sharing) |
+| CheXpert-Finetune-B | 3 | Base  | [model](https://drive.google.com/file/d/13JIZ4IgMI4OwblemX-5KyNucD30jBKk9/view?usp=sharing) |
+| CheXpert-Finetune-L | 3 | Large | [model](https://drive.google.com/file/d/1FfljNgp4PKSeiqsT2CeSCSA1WlbjrNng/view?usp=sharing) |
+
+## Acknowledgement
+
++ [ARM](https://github.com/OliverRensu/ARM) The first stage of training of our model is based on ARM.
+
++ [R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT/tree/main) Our work is based on the R2GenGPT framework.
