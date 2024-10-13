@@ -7,4 +7,6 @@
 * Jiang, Pengcheng, et al. "**Graphcare: Enhancing healthcare predictions with personalized knowledge graphs.**" arXiv preprint arXiv:2305.12788 (2023).
   [[Paper](https://arxiv.org/abs/2305.12788)]
 
+* [[[KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers)](https://github.com/zjukg/KG-LLM-Papers)]
+
 * 
