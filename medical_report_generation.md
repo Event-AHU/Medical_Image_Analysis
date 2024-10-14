@@ -23,7 +23,7 @@
 ### Year 2024 
 
 
-* [ECCV 2024] MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks,
+* [ECCV 2024] **MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks**,
   [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08947.pdf)]
   [[Code](https://github.com/eladhi/MedRAT)]
   
