@@ -22,6 +22,11 @@
 
 ### Year 2024 
 
+
+* [ECCV 2024] MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks,
+  [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08947.pdf)]
+  [[Code](https://github.com/eladhi/MedRAT)]
+  
 * **InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation**,
   Ankan Deria, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024, pp. 2028-2038
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/MULA/html/Deria_InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation_CVPRW_2024_paper.html)]
