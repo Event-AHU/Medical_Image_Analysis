@@ -22,6 +22,9 @@
 
 ### Year 2024 
 
+* [ECCV 2024] **ChEX: Interactive Localization and Region Description in Chest X-rays**, Philip Müller, Georgios Kaissis, and Daniel Rueckert
+  [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03114.pdf)]
+  [[Code](https://github.com/philip-mueller/chex)] 
 
 * [ECCV 2024] **MedRAT: Unpaired Medical Report Generation via Auxiliary Tasks**,
   [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08947.pdf)]
