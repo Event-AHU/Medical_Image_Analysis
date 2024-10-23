@@ -7,6 +7,8 @@
 
 ## Update Log:  
 
+* [2024.10.23] **Pre-training on High Definition X-ray Images: An Experimental Study** is accepted by **Visual Intelligence (VI)** Journal. 
+
 * [2024.10.01] **A Pre-trained Large Model MambaXray-VL and the benchmark for the CheXpert Plus dataset are released** is released [arXiv:2410.00379]
 
 * [2024.08.20] **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation** is released [arXiv:2408.09743]
