@@ -21,6 +21,9 @@
 
 
 ### Year 2024 
+* [MICCAI 2024] **Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**, Kang Liu, Zhuoqi Ma,  Xiaolu Kang, Zhusi Zhong, and Qiguang Miao
+  [[Paper](https://papers.miccai.org/miccai-2024/paper/1768_paper.pdf)]
+  [[Code]( https://github.com/mk-runner/SEI)] 
 
 * [ECCV 2024] **ChEX: Interactive Localization and Region Description in Chest X-rays**, Philip Müller, Georgios Kaissis, and Daniel Rueckert
   [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03114.pdf)]
