@@ -21,6 +21,11 @@
 
 
 ### Year 2024 
+
+* [ISBI2025] **R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation**, 
+  Yongheng Sun, Yueh Z. Lee, Genevieve A. Woodard, Hongtu Zhu, Chunfeng Lian, Mingxia Liu
+  [[Paper](https://arxiv.org/abs/2410.18135)] 
+
 * [MICCAI 2024] **Structural Entities Extraction and Patient Indications Incorporation for Chest X-ray Report Generation**, Kang Liu, Zhuoqi Ma,  Xiaolu Kang, Zhusi Zhong, and Qiguang Miao
   [[Paper](https://papers.miccai.org/miccai-2024/paper/1768_paper.pdf)]
   [[Code]( https://github.com/mk-runner/SEI)] 
