@@ -21,6 +21,10 @@
 
 
 ### Year 2024 
+* [NeurIPS24] **BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays**,
+  Yang Zhou, Tan Li Hui Faith, Yanyu Xu, Sicong Leng, Xinxing Xu, Yong Liu, Rick Siow Mong Goh
+   [[Paper](https://arxiv.org/abs/2410.21969)]
+   [[Code](https://github.com/yangzhou12/BenchX.)] 
 
 * [ISBI2025] **R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation**, 
   Yongheng Sun, Yueh Z. Lee, Genevieve A. Woodard, Hongtu Zhu, Chunfeng Lian, Mingxia Liu
