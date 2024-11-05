@@ -23,6 +23,10 @@
 
 
 ### Year 2024 
+
+* **Designing a Robust Radiology Report Generation System**, Sonit Singh
+  [[Paper](https://arxiv.org/abs/2411.01153)] 
+
 * [NeurIPS24] **BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays**,
   Yang Zhou, Tan Li Hui Faith, Yanyu Xu, Sicong Leng, Xinxing Xu, Yong Liu, Rick Siow Mong Goh
    [[Paper](https://arxiv.org/abs/2410.21969)]
