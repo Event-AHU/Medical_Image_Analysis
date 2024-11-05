@@ -10,6 +10,8 @@
 * Sloan, Phillip, et al. "**Automated Radiology Report Generation: A Review of Recent Advances.**" IEEE Reviews in Biomedical Engineering (2024).
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10545538)] 
 
+* **ASurvey of Large Language Models in Medicine: Progress, Application, and Challenge**,
+  [[Paper](https://arxiv.org/pdf/2311.05112)] 
 
 
 ### Big Project 
