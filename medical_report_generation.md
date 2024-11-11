@@ -23,7 +23,10 @@
 
 
 ### Year 2024 
-
+* [AAAI24] **Automatic Radiology Reports Generation via Memory Alignment Network**,
+  Hongyu Shen, Mingtao Pei, Juncai Liu, Zhaoxing Tian
+   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)]
+  
 * **Designing a Robust Radiology Report Generation System**, Sonit Singh
   [[Paper](https://arxiv.org/abs/2411.01153)] 
 
