@@ -23,6 +23,11 @@
 
 
 ### Year 2024 
+
+* **PadChest-GR: A Bilingual Chest X-ray Dataset for Grounded Radiology Report Generation**,
+  [[Paper](https://arxiv.org/pdf/2411.05085)]
+  [[Project](https://bimcv.cipf.es/bimcv-projects/padchest-gr/)] 
+
 * [AAAI24] **Automatic Radiology Reports Generation via Memory Alignment Network**,
   Hongyu Shen, Mingtao Pei, Juncai Liu, Zhaoxing Tian
    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28279)]
