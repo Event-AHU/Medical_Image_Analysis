@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+* **MCL: Multi-view Enhanced Contrastive Learning for Chest X-ray Report Generation**, Kang Liu, Zhuoqi Ma, Kun Xie, Zhicheng Jiao, Qiguang Miao
+  [[Paper](https://arxiv.org/abs/2411.10224)]
+  [[Code](https://github.com/mk-runner/MCL)]
+  
 * **Decoding Report Generators: A Cyclic Vision-Language Adapter for Counterfactual Explanations**, 
   [[Paper](https://arxiv.org/pdf/2411.05261)] 
 
