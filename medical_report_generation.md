@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+* **Divide and Conquer: Isolating Normal-Abnormal Attributes in Knowledge Graph-Enhanced Radiology Report Generation**, Xiao Liang, Yanlei Zhang, Di Wang, Haodi Zhong, Ronghan Li, Quan Wang
+  [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681201)]
+  [[Code](https://github.com/ecoxial2007/DCG_Enhanced_distilGPT2)]
+
 * **MCL: Multi-view Enhanced Contrastive Learning for Chest X-ray Report Generation**, Kang Liu, Zhuoqi Ma, Kun Xie, Zhicheng Jiao, Qiguang Miao
   [[Paper](https://arxiv.org/abs/2411.10224)]
   [[Code](https://github.com/mk-runner/MCL)]
