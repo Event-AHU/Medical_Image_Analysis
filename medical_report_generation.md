@@ -25,6 +25,18 @@
 ### Year 2024 
 
 
+* **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**, Vishwesh Nath, Wenqi Li, Dong Yang, Andriy Myronenko, Mingxin Zheng, Yao Lu, Zhijian Liu, Hongxu Yin, Yee Man Law, Yucheng Tang, Pengfei Guo, Can Zhao, Ziyue Xu, Yufan He, Greg Heinrich, Stephen Aylward, Marc Edgar, Michael Zephyr, Pavlo Molchanov, Baris Turkbey, Holger Roth, Daguang Xu 
+  [[Paper](https://arxiv.org/pdf/2411.12915)] 
+
+
+* [WACV 2025] **ORID: Organ-Regional Information Driven Framework for Radiology Report Generation**,
+  Tiancheng Gu, Kaicheng Yang, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
+  [[Paper](https://arxiv.org/abs/2411.13025)] 
+
+* [ACM MM 2024]**Divide and Conquer: Isolating Normal-Abnormal Attributes in Knowledge Graph-Enhanced Radiology Report Generation**, Xiao Liang, Yanlei Zhang, Di Wang, Haodi Zhong, Ronghan Li, Quan Wang
+  [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681201)]
+  [[Code](https://github.com/ecoxial2007/DCG_Enhanced_distilGPT2)]
+
 * **MCL: Multi-view Enhanced Contrastive Learning for Chest X-ray Report Generation**, Kang Liu, Zhuoqi Ma, Kun Xie, Zhicheng Jiao, Qiguang Miao
   [[Paper](https://arxiv.org/abs/2411.10224)]
   [[Code](https://github.com/mk-runner/MCL)]
