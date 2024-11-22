@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+* **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**, Vishwesh Nath, Wenqi Li, Dong Yang, Andriy Myronenko, Mingxin Zheng, Yao Lu, Zhijian Liu, Hongxu Yin, Yee Man Law, Yucheng Tang, Pengfei Guo, Can Zhao, Ziyue Xu, Yufan He, Greg Heinrich, Stephen Aylward, Marc Edgar, Michael Zephyr, Pavlo Molchanov, Baris Turkbey, Holger Roth, Daguang Xu 
+  [[Paper](https://arxiv.org/pdf/2411.12915)] 
+
+
 * [WACV 2025] **ORID: Organ-Regional Information Driven Framework for Radiology Report Generation**,
   Tiancheng Gu, Kaicheng Yang, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
   [[Paper](https://arxiv.org/abs/2411.13025)] 
