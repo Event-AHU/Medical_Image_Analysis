@@ -252,15 +252,309 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
 
 * [CVPR2024] **MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant**, Chenlu Zhan, Yu Lin, Gaoang Wang, Hongwei Wang, Jian Wu
   [[Paper](https://arxiv.org/abs/2403.04290)] 
- 
+
 * [AAAI-2024] **PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**, Haibo Jin1 , Haoxuan Che1, Yi Lin1, and Hao Chen
   [[Paper](https://arxiv.org/pdf/2308.12604.pdf)]
   [[Code](https://github.com/jhb86253817/PromptMRG)]
 
 * [AAAI-2024] **MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**, Yan Cai; Linlin Wang; Ye Wang; Gerard de Melo; Ya Zhang; Yan-Feng Wang; Liang He
   [[Paper](https://arxiv.org/abs/2312.12806)]
+  
+* [CVPR2024] **AHIVE: Anatomy-aware Hierarchical Vision Encoding for Interactive Radiology Report Retrieval**, Sixing Yan, William K. Cheung, Ivor W. Tsang, Keith Chiu, Terence M. Tong, Ka Chun Cheung, Simon See
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_AHIVE_Anatomy-aware_Hierarchical_Vision_Encoding_for_Interactive_Radiology_Report_Retrieval_CVPR_2024_paper.html)]
+  
+* [CVPR2024] **InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation (**Workshop**) **,  Ankan Deria, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Deria_InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation_CVPRW_2024_paper.pdf)]
 
+  [[Code](https://github.com/labsroy007/InVERGe)]
 
+* [ACL-2024] **DocLens: Multi-aspect Fine-grained Evaluation for Medical Text Generation**, Yiqing Xie, Sheng Zhang, Hao Cheng, Pengfei Liu, Zelalem Gero, Cliff Wong, Tristan Naumann, Hoifung Poon, Carolyn Rose
+  [[paper](https://arxiv.org/abs/2311.09581)][[code](https://github.com/yiqingxyq/DocLens)]
+
+  [[code](https://github.com/yiqingxyq/DocLens)]
+
+* [ACL-2024] **SICAR at RRG2024: GPU Poor’s Guide to Radiology Report Generation**,  Kiartnarin Udomlapsakul, Parinthapat Pengpun, Tossaporn Saengja, Kanyakorn Veerakanjana, Krittamate Tiankanon, Pitikorn Khlaisamniang, Pasit Supholkhan, Amrest Chinkamol, Pubordee Aussavavirojekul, Hirunkul Phimsiri, Tara Sripo, Chiraphat Boonnag, Trongtum Tongdee,Thanongchai Siriapisith, Pairash Saiviroonporn, Jiramet Kinchagawat, Piyalitt Ittichaiwong
+
+  [[paper](https://aclanthology.org/2024.bionlp-1.55.pdf)]
+
+* [ACL-2024] **BiCAL: Bi-directional Contrastive Active Learning for Clinical Report Generation**,   Tianyi Wu, Jingqing Zhang, Wenjia Bai, Kai Sun
+
+  [[paper](https://aclanthology.org/2024.bionlp-1.25.pdf)]
+
+* [ACL-2024] **CID at RRG24: Attempting in a Conditionally Initiated Decoding of Radiology Report Generation with Clinical Entities**,  Yuxiang Liao*, Yuanbang Liang*, Yipeng Qin, Hantao Liu, Irena Spasi´ c
+
+  [[paper](https://aclanthology.org/2024.bionlp-1.49.pdf)]
+
+* [ACL-2024] **RadGraph-XL: A Large-Scale Expert-Annotated Dataset for Entity and Relation Extraction from Radiology Reports **, Jean-Benoit Delbrouck, Pierre Chambon, Zhihong Chen, Maya Varma, Andrew Johnston, Louis Blankemeier, Dave Van Veen, Tan Bui, Steven Truong, Curtis Langlotz
+  [[paper](https://aclanthology.org/2024.findings-acl.765.pdf#page=10&zoom=100,401,596)]
+
+  [[code](https://github.com/Stanford-AIMI/radgraph)]
+
+* [ACL-2024] **MLeVLM: Improve Multi-level Progressive Capabilities based on Multimodal Large Language Model for Medical Visual Question Answering **,Dexuan Xu, Yanyuan Chen, Jieyi Wang, Yue Huang, Hanpin Wang, Zhi Jin, Hongxing Wang, Weihua Yue, Jing He, Hang Li, Yu Huang
+  [[paper](https://aclanthology.org/2024.findings-acl.296.pdf)]
+  
+  [[code](https://github.com/RyannChenOO/MLeVLM)]
+  
+* [ACL-2024] **Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation **,Wenting Chen, Linlin Shen, Jingyang Lin, Jiebo Luo, Xiang Li, Yixuan Yuan
+  [[paper](https://aclanthology.org/2024.acl-long.514.pdf)]
+  
+* [ICLR-2024] **LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation **,Suhyeon Lee, Won Jun Kim, Jinho Chang, Jong Chul Ye
+  [[paper](https://arxiv.org/abs/2305.11490)]
+  
+  [[code](https://github.com/hyn2028/llm-cxr)]
+  
+* [ACM MM-2024] **Medical Report Generation via Multimodal Spatio-Temporal Fusion **,Xin Mei, Rui Mao, Xiaoyan Cai, Libin Yang, Erik Cambria
+  [[paper](https://openreview.net/pdf?id=XKs7DR9GAK)]
+  
+* [ACM MM-2024] **Diffusion Networks with Task-Specific Noise Control for Radiology Report Generation **,Yuanhe Tian, Fei Xia, Yan Song
+  [[paper](https://openreview.net/pdf?id=kbdeQmw2ny)]
+  
+* [ACM MM-2024] **Divide and Conquer: Isolating Normal-Abnormal Attributes in Knowledge Graph-Enhanced Radiology Report Generation **,Xiao Liang, Yanlei Zhang, Di Wang, Haodi Zhong, Ronghan Li, Quan Wang
+  [[paper](https://openreview.net/forum?id=TuU8TQVOoj)]
+  
+* [ICLR-2024] **ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation**,Wenjun Hou, Yi Cheng, Kaishuai Xu, Yan Hu, Wenjie Li, Jiang Liu
+  [[paper](https://arxiv.org/abs/2402.12844)]
+  
+  [[code](https://github.com/wjhou/ICon)]
+  
+* [ICLR-2024] **Divide and Conquer Radiology Report Generation via Observation Level Fine-grained Pretraining and Prompt Tuning**,Yuanpin Zhou, Huogen Wang
+  [[paper](https://aclanthology.org/2024.emnlp-main.433.pdf)]
+  
+* [MICCAI-2024] **CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging**,Ibrahim Ethem Hamamci, Sezgin Er, Bjoern Menze
+  [[paper](https://arxiv.org/abs/2403.06801)]
+  
+  [[code](https://github.com/ibrahimethemhamamci/CT2Rep)]
+  
+* [MICCAI-2024] **WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole Slide Images**,Pingyi Chen, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
+  [[paper](https://arxiv.org/abs/2311.16480)]
+  
+  [[code](https://github.com/cpystan/Wsi-Caption)]
+  
+* [MICCAI-2024] **Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation**,Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, Qingqing Long, Hongxiang Li, Zhiqi Huang, Xian Wu & Yefeng Zheng 
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_29)]
+  
+* [MICCAI-2024] **MRScore: Evaluating Medical Report with LLM-Based Reward System**,Yunyi Liu, Zhanyu Wang, Yingshu Li, Xinyu Liang, Lingqiao Liu, Lei Wang, Luping Zhou
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_27)]
+  
+* [MICCAI-2024] **Energy-Based Controllable Radiology Report Generation with Medical Knowledge **,Zeyi Hou, Ruixin Yan, Ziye Yan, Ning Lang & Xiuzhuang Zhou 
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_23)]
+  
+* [MICCAI-2024] **GMoD: Graph-driven Momentum Distillation Framework with Active Perception of Disease Severity for Radiology Report Generation**,ZhiPeng Xiang, ShaoGuo Cui, CaoZhi Shang, Jingfeng Jiang & Liqiang Zhang 
+  [[paper](https://papers.miccai.org/miccai-2024/paper/1733_paper.pdf)]
+  
+  [[code](https://github.com/xzp9999/GMoD-mian)]
+  
+* [MICCAI-2024] **TiBiX: Leveraging Temporal Information for Bidirectional X-ray and Report Generation (**MICCAI Workshop**)**,Santosh Sanjeev, Fadillah Adamsyah Maani, Arsen Abzhanov, Vijay Ram Papineni, Ibrahim Almakky, Bartłomiej W. Papież, Mohammad Yaqub
+  [[paper](https://arxiv.org/pdf/2403.13343)]
+  
+  [[code](https://github.com/BioMedIA-MBZUAI/TiBiX)]
+  
+* [CIKM-2024] **CLR2G: Cross-modal Contrastive Learning on Radiology Report**,Mohammadreza Zolfaghari, Yi Zhu, Peter Gehler, Thomas Brox
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679668)]
+  
+* [WACV-2024] **Complex Organ Mask Guided Radiology Report Generation**,Tiancheng Gu, Dongnan Liu, Zhiyuan Li, Weidong Cai
+  [[paper](https://arxiv.org/pdf/2311.02329)]
+  
+  [[code](https://github.com/GaryGuTC/COMG_model)]
+  
+* [ACCV-2024] **FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation**,Trong Thang Pham,Ngoc-VuongHo,Nhat-TanBui, Thinh Phan,
+   Patel Brijesh,DonaldAdjeroh,GianfrancoDoretto,AnhNguyen,
+   Carol C. W5,HienNguyen,andNganLe
+  
+  [[paper](https://vision.csee.wvu.edu/publications/phamHBPPADNWNL24accv.pdf)]
+  
+* [MedIA-2024] **From Vision to Text: A Comprehensive Review of Natural Image Captioning in Medical Diagnosis and Radiology Report Generation**,Gabriel Reale-Nosei, Elvira Amador-Domínguez
+  , Emilio Serrano
+  
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001890)]
+  
+* [MedIA-2024] **Enhancing the vision–language foundation model with key semantic knowledge-emphasized report refinement**,Weijian Huang, Cheng Li, Hao Yang, Jiarun Liu, Yong Liang, Hairong Zheng, Shanshan Wang
+
+  [[paper](https://www.sciencedirect.com/science/article/pii/S136184152400224X)]
+  
+* [MedIA-2024] **DACG: Dual Attention and Context Guidance Model for Radiology Report Generation**,Wangyu Lang, Zhi Liu, Yijia Zhang
+
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524003025)]
+  
+  [[code](https://github.com/LangWY/DACG)]
+  
+* [TMI-2024] **An Organ-aware Diagnosis Framework for Radiology Report Generation**,Shiyu Li, Pengchong Qiao, Lin Wang, Munan Ning, Li Yuan, Yefeng Zheng, Jie Chen
+
+  [[paper](https://ieeexplore.ieee.org/document/10579857)]
+  
+* [TMI-2024] **Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation**,Ke Zhang, Yan Yang, Jun Yu, Jianping Fan, Hanliang Jiang, Qingming Huang, Weidong Han
+
+  [[paper](https://ieeexplore.ieee.org/document/10587279)]
+  
+* [TMI-2024] **A New Benchmark: Clinical Uncertainty and Severity Aware Labeled Chest X-Ray Images with Multi-Relationship Graph Learning**,Mengliang Zhang, Xinyue Hu, Lin Gu, Liangchen Liu, Kazuma Kobayashi, Tatsuya Harada, Yan Yan, Ronald M Summers, Yingying Zhu
+
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10632161)]
+  
+* [TMM-2024] **Multi-Level Objective Alignment Transformer for Fine-Grained Oral Panoramic X-Ray Report Generation**Nan Gao; Renyuan Yao, Ronghua Liang, Peng Chen; Tianshuang Liu,  Yuanjie Dang
+
+  [[paper](https://ieeexplore.ieee.org/document/10443573)]
+  
+* [JBHI-2024] **CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation**,Jun Wang, Abhir Bhalerao, Terry Yin, Simon See, , and Yulan He
+
+  [[paper](https://ieeexplore.ieee.org/document/10400776)]
+  
+  [[code](https://github.com/Markin-Wang/CAMANet)]
+  
+* [JBHI-2024] **TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation**,Xiulong Yi,  You Fu, Ruiqing Liu, Hao Zhang, Rong Hua
+
+  [[paper](https://ieeexplore.ieee.org/document/10381879)]
+  
+  [[code](https://github.com/Markin-Wang/CAMANet)]
+  
+* [Expert Systems with Applications-2024] **CheXReport: A transformer-based architecture to generate chest X-ray reports suggestions**,Felipe André Zeiser, Cristiano André da Costa, Gabriel de Oliveira Ramos, Andreas Maier, Rodrigo da Rosa Righi
+
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424015112)]
+  
+  [[code](https://github.com/felipezeiser/CheXReport)]
+  
+* [Knowledge-Based Systems-2024] **Automatic medical report generation combining contrastive learning and feature difference**,Chongwen Lyu, Chengjian Qiu, Kai Han, Saisai Li, Victor S. Sheng, Huan Rong , Yuqing Song, Yi Liu a, Zhe Liu
+
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124012644)]
+  
+* [Neurocomputing-2024] **Improving radiology report generation with multi-grained abnormality prediction**,Yuda Jin, Weidong Chen, Yuanhe Tian, Yan Song, Chenggang Yan
+
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124012644)]
+  
+* [Neurocomputing-2024] **An open chest X-ray dataset with benchmarks for automatic radiology report generation in French**,Hichem Metmer, Xiaoshan Yang
+
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124012644)]
+  
+* [Neurocomputing-2024] **Trust it or not: Confidence-guided automatic radiology report generation**,Yixin Wang , Zihao Lin, Zhe Xu, Haoyu Dong, Jie Luo, Jiang Tian, Zhongchao Shi, Lifu Huang, Yang Zhang, Jianping Fan, Zhiqiang He
+
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001450)]
+  
+* [Neurocomputing-2024] **VG-CALF: A vision-guided cross-attention and late-fusion network for radiology images in medical visual question answering**,Aiman Lameesa, Chaklam Silpasuwanchai, Md. Sakib Bin Alam
+
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015017)]
+  
+* [Academic Radiology-2024] **Practical Evaluation of ChatGPT Performance for Radiology Report Generation**,Mohsen Soleimani, Navisa Seyyedi, Seyed Mohammad Ayyoubzadeh, Sharareh Rostam Niakan Kalhori, Hamidreza Keshavarz
+
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015017)]
+  
+* [Radiology-2024] **Constructing a Large Language Model to Generate Impressions from Findings in Radiology Reports**,Lu Zhang*, Mingqian Liu*, Lingyun Wang, Yaping Zhang, Xiangjun Xu, Zhijun Pan, Yan Feng, Jue Zhao, Lin Zhang, Gehong Yao, Xu Chen, Xueqian Xie 
+
+  [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240885)]
+  
+* [Radiology-2024] **Comparing Commercial and Open-Source Large Language Models for Labeling Chest Radiograph Reports**,Felix J. Dorfner , Liv Jürgensen, Leonhard Donle, Fares Al Mohamad, Tobias R. Bodenmann, Mason C. Cleveland, Felix Busch, Lisa C. Adams, James Sato, Thomas Schultz, Albert E. Kim, Jameson Merkow, Keno K. Bressem, Christopher P. Bridge
+
+  [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240885)]
+  
+* [IEEE Transactions on Emerging Topics in Computational Intelligence-2024] **End-to-End Clustering Enhanced Contrastive Learning for Radiology Reports Generation**,Xinyao Liu, Junchang Xin, Qi Shen, Chuangang Li, Zhihong Huang, Zhiqiong Wang
+
+  [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240885)]
+  
+* [arXiv-2024] **Factual Serialization Enhancement: A Key Innovation for Chest X-ray Report Generation**,Kang Liu, Zhuoqi Ma, Mengmeng Liu, Zhicheng Jiao, Xiaolu Kang, Qiguang Miao, Kun Xie
+
+  [[paper](https://pubs.rsna.org/doi/pdf/10.1148/radiol.240885)]
+  
+  [[code](https://github.com/mk-runner/FSE)]
+  
+* [arXiv-2024] **GREEN: Generative Radiology Report Evaluation and Error Notation**,Sophie Ostmeier, Justin Xu, Zhihong Chen, Maya Varma, Louis Blankemeier, Christian Bluethgen, Arne Edward Michalson, Michael Moseley, Curtis Langlotz, Akshay S Chaudhari, Jean-Benoit Delbrouck
+
+  [[paper](https://arxiv.org/abs/2405.03595)]
+  
+* [arXiv-2024] **CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients**,Pierre Chambon, Jean-Benoit Delbrouck, Thomas Sounack, Shih-Cheng Huang
+
+  [[paper](https://arxiv.org/abs/2405.03595)]
+  
+  [[code](https://github.com/Stanford-AIMI/chexpert-plus)]
+  
+* [arXiv-2024] **Dia-LLaMA: Towards Large Language Model-driven CT Report Generation**,Zhixuan Chen, Luyang Luo, Yequan Bie, Hao Chen
+
+  [[paper](https://arxiv.org/abs/2403.16386)]
+  
+* [arXiv-2024] **Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**,Che Liu, Zhongwei Wan, Yuqi Wang, Hui Shen, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci
+
+  [[paper](https://arxiv.org/pdf/2406.07146)]
+  
+* [arXiv-2024] **The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It**,Aaron Nicolson, Shengyao Zhuang, Jason Dowling, Bevan Koopman
+
+  [[paper](https://arxiv.org/pdf/2406.13181)]
+  
+  [[code](https://anonymous.4open.science/r/anon-D83E/README.md)]
+  
+* [arXiv-2024] **Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary**,Xingmeng Zhao, Tongnian Wang, Anthony Rios
+
+  [[paper](https://arxiv.org/pdf/2406.13181)]
+  
+* [arXiv-2024] **X-ray Made Simple: Radiology Report Generation and Evaluation with Layman's Terms**,Kun Zhao, Chenghao Xiao, Chen Tang, Bohao Yang, Kai Ye, Noura Al Moubayed, Liang Zhan, Chenghua Lin
+
+  [[paper](https://arxiv.org/abs/2406.17911)]
+  
+* [arXiv-2024] **Multi-modal vision-language model for generalizable annotation-free pathology localization and clinical diagnosis**,Hao Yang, Hong-Yu Zhou, Zhihuan Li, Yuanxu Gao, Cheng Li, Weijian Huang, Jiarun Liu, Hairong Zheng, Kang Zhang, Shanshan Wang
+
+  [[paper](https://arxiv.org/pdf/2401.02044)]
+  
+  [[code](https://github.com/YH0517/AFLoc)]
+  
+* [arXiv-2024] **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**,Xiao Wang, Yuehang Li, Fuling Wang, Shiao Wang, Chuanfu Li, Bo Jiang
+
+  [[paper](https://arxiv.org/pdf/2408.09743)]
+  
+  [[code](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/R2GenCSR)]
+  
+* [arXiv-2024] **Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**,Oishi Banerjee, Hong-Yu Zhou, Subathra Adithan, Stephen Kwak, Kay Wu, Pranav Rajpurkar
+
+  [[paper](https://arxiv.org/pdf/2406.06496)]
+  
+* [arXiv-2024] **M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**,Jonggwon Park, Soobum Kim, Byungmu Yoon, Jihun Hyun, Kyoyun Choi
+
+  [[paper](https://arxiv.org/pdf/2408.16213)]
+  
+* [arXiv-2024] **Democratizing MLLMs in Healthcare: TinyLLaVA-Med for Efficient Healthcare Diagnostics in Resource-Constrained Settings**,Aya El Mir, Lukelo Thadei Luoga, Boyuan Chen, Muhammad Abdullah Hanif, Muhammad Shafique
+
+  [[paper](https://arxiv.org/pdf/2409.12184)]
+  
+* [arXiv-2024] **Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**,Xiaohong Liu, Guoxing Yang, Yulin Luo, Jiaji Mao, Xiang Zhang, Ming Gao, Shanghang Zhang, Jun Shen, Guangyu Wang
+
+  [[paper](https://arxiv.org/pdf/2409.16183)]
+  
+* [arXiv-2024] **3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models**,Hao Chen, Wei Zhao, Yingli Li, Tianyang Zhong, Yisong Wang, Youlan Shang, Lei Guo, Junwei Han, Tianming Liu, Jun Liu, Tuo Zhang
+
+  [[paper](https://arxiv.org/pdf/2409.19330)]
+  
+* [arXiv-2024] **Image-aware Evaluation of Generated Medical Reports**,Gefen Dawidowicz, Elad Hirsch, Ayellet Tal
+
+  [[paper](https://arxiv.org/pdf/2410.17357)]
+  
+* [arXiv-2024] **Text-Enhanced Medical Visual Question Answering**, Chih-Ying Liu , Fan Diao 
+
+  [[paper](https://cs231n.stanford.edu/2024/papers/text-enhanced-medical-visual-question-answering.pdf)]
+  
+* [arXiv-2024] **MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models**,Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao
+
+  [[paper](https://arxiv.org/pdf/2408.09743)]
+  
+  [[code](https://github.com/richard-peng-xia/MMed-RAG)]
+  
+* [arXiv-2024] **R2GEN-MAMBA:ASELECTIVESTATESPACEMODELFORRADIOLOGYREPORT GENERATION **, Yongheng Sun, Yueh Z. Lee, Genevieve A. Woodard, Hongtu Zhu, Chunfeng Lian,,Mingxia Liu
+
+  [[paper](https://arxiv.org/pdf/2410.18135)]
+  
+  [[code](https://github.com/YonghengSun1997/R2Gen-Mamba)]
+  
+* [arXiv-2024] **Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**, Xiaoman Zhang, Julián N. Acosta, Hong-Yu Zhou, Pranav Rajpurkar
+
+  [[paper](https://arxiv.org/abs/2408.14397)]
+  
+  [[code](https://github.com/rajpurkarlab/ReXKG)]
+  
+* [arXiv-2024] **Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model**, Peng Huang, Bowen Guo, Shuyu Liang, Junhu Fu, Yuanyuan Wang, Yi Guo
+
+  [[paper](https://arxiv.org/pdf/2410.20165)]
+  
+* [arXiv-2024] **FINE-GRAINED VERIFIERS: PREFERENCE MODELING AS NEXT-TOKEN PREDICTION IN VISION-LANGUAGE ALIGNMENT**, Chenhang Cui, An Zhang, Yiyang Zhou, Zhaorun Chen, Gelei Deng, Huaxiu Yao, Tat-Seng Chua
+
+  [[paper](https://arxiv.org/pdf/2410.14148)]
+  
+* 
+
+  
 
 
 
@@ -369,7 +663,6 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
   [[Paper](https://arxiv.org/abs/1901.07031)]
   [[Code](https://stanfordmlgroup.github.io/competitions/chexpert)]
   [[chexpert-labeler](https://github.com/stanfordmlgroup/chexpert-labeler)]
-
 
 
 
