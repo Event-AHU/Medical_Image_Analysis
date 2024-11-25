@@ -70,6 +70,11 @@
 
 ### Year 2024 
 
+
+* **GMAI-VL&GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**, 
+  [[Paper](https://arxiv.org/pdf/2411.14522)]
+  [[Code](https://github.com/uni-medical/GMAI-VL)] 
+  
 * [MICCAI 2024] **CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**, arXiv:2407.21011, 
   Yuexi Du, Brian Chang, Nicha C. Dvornek
   [[Paper](https://arxiv.org/abs/2407.21011)] 
