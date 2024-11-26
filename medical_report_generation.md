@@ -25,6 +25,19 @@
 ### Year 2024 
 
 
+* [ACCV 2024] **FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation**,
+  Trong Thang Pham, Ngoc-Vuong Ho, Nhat-Tan Bui, Thinh Phan, Patel Brijesh, Donald Adjeroh, Gianfranco Doretto, Anh Nguyen, Carol C. Wu, Hien Nguyen, Ngan Le
+  [[Paper](https://github.com/UARK-AICV/FG-CXR)] 
+
+* [arXiv:2411.15539] **Large Language Model with Region-guided Referring and Grounding for CT Report Generation**,
+  Zhixuan Chen, Yequan Bie, Haibo Jin, Hao Chen
+  [[Paper](https://arxiv.org/abs/2411.15539)]
+  
+* [arXiv:2411.16523] **LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**,
+  Steven Song, Anirudh Subramanyam, Irene Madejski, Robert L. Grossman 
+  [[Paper](https://arxiv.org/abs/2411.16523)]
+  [[Code](https://github.com/uc-cdis/label-boosted-RAG-for-RRG)] 
+
 * [ML4H 2024, arXiv:2411.11362] **MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models**,
   Harshita Sharma, Valentina Salvatelli, Shaury Srivastav, Kenza Bouzid, Shruthi Bannur, Daniel C. Castro, Maximilian Ilse, Sam Bond-Taylor, Mercy Prasanna Ranjit, Fabian Falck, Fernando Pérez-García, Anton Schwaighofer, Hannah Richardson, Maria Teodora Wetscherek, Stephanie L. Hyland, Javier Alvarez-Valle, Proceedings Paper at ML4H 2024 
   [[Paper](https://arxiv.org/abs/2411.11362)]
@@ -40,7 +53,6 @@
 
 * **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**, Vishwesh Nath, Wenqi Li, Dong Yang, Andriy Myronenko, Mingxin Zheng, Yao Lu, Zhijian Liu, Hongxu Yin, Yee Man Law, Yucheng Tang, Pengfei Guo, Can Zhao, Ziyue Xu, Yufan He, Greg Heinrich, Stephen Aylward, Marc Edgar, Michael Zephyr, Pavlo Molchanov, Baris Turkbey, Holger Roth, Daguang Xu 
   [[Paper](https://arxiv.org/pdf/2411.12915)] 
-
 
 * [WACV 2025] **ORID: Organ-Regional Information Driven Framework for Radiology Report Generation**,
   Tiancheng Gu, Kaicheng Yang, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai
