@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+* [ML4H 2024, arXiv:2411.11362] **MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models**,
+  Harshita Sharma, Valentina Salvatelli, Shaury Srivastav, Kenza Bouzid, Shruthi Bannur, Daniel C. Castro, Maximilian Ilse, Sam Bond-Taylor, Mercy Prasanna Ranjit, Fabian Falck, Fernando Pérez-García, Anton Schwaighofer, Hannah Richardson, Maria Teodora Wetscherek, Stephanie L. Hyland, Javier Alvarez-Valle, Proceedings Paper at ML4H 2024 
+  [[Paper](https://arxiv.org/abs/2411.11362)]
+
 * [arXiv:2411.10789] **Anatomy-Guided Radiology Report Generation with Pathology-Aware Regional Prompts**, 
   Yijian Gao, Dominic Marshall, Xiaodan Xing, Junzhi Ning, Giorgos Papanastasiou, Guang Yang, Matthieu Komorowski
   [[Paper](https://arxiv.org/abs/2411.10789)] 
