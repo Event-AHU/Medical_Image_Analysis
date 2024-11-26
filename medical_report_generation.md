@@ -25,6 +25,11 @@
 ### Year 2024 
 
 
+* [arXiv:2411.15122] **ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation**, 
+  Xiaoman Zhang, Hong-Yu Zhou, Xiaoli Yang, Oishi Banerjee, Julián N. Acosta, Josh Miller, Ouwen Huang, Pranav Rajpurkar
+  [[Paper](https://arxiv.org/abs/2411.15122)]
+  [[Leaderboard](https://rexrank.ai/)] 
+
 * **VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**, Vishwesh Nath, Wenqi Li, Dong Yang, Andriy Myronenko, Mingxin Zheng, Yao Lu, Zhijian Liu, Hongxu Yin, Yee Man Law, Yucheng Tang, Pengfei Guo, Can Zhao, Ziyue Xu, Yufan He, Greg Heinrich, Stephen Aylward, Marc Edgar, Michael Zephyr, Pavlo Molchanov, Baris Turkbey, Holger Roth, Daguang Xu 
   [[Paper](https://arxiv.org/pdf/2411.12915)] 
 
