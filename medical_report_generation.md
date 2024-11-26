@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+* [arXiv:2411.10789] **Anatomy-Guided Radiology Report Generation with Pathology-Aware Regional Prompts**, 
+  Yijian Gao, Dominic Marshall, Xiaodan Xing, Junzhi Ning, Giorgos Papanastasiou, Guang Yang, Matthieu Komorowski
+  [[Paper](https://arxiv.org/abs/2411.10789)] 
+
 * [arXiv:2411.15122] **ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation**, 
   Xiaoman Zhang, Hong-Yu Zhou, Xiaoli Yang, Oishi Banerjee, Julián N. Acosta, Josh Miller, Ouwen Huang, Pranav Rajpurkar
   [[Paper](https://arxiv.org/abs/2411.15122)]
