@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+* **MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement**,
+  Xiwei Deng, Xianchun He, Yudan Zhou, Shuhui Cai, Congbo Cai, Zhong Chen
+  [[Paper](https://arxiv.org/abs/2411.18309)] 
+  
 * [ACCV 2024] **FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation**,
   Trong Thang Pham, Ngoc-Vuong Ho, Nhat-Tan Bui, Thinh Phan, Patel Brijesh, Donald Adjeroh, Gianfranco Doretto, Anh Nguyen, Carol C. Wu, Hien Nguyen, Ngan Le
   [[Paper](https://github.com/UARK-AICV/FG-CXR)] 
