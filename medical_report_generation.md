@@ -25,6 +25,12 @@
 ### Year 2024 
 
 
+* 
+
+* [arXiv:2411.18672] **FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models**,
+  Alice Heiman, Xiaoman Zhang, Emma Chen, Sung Eun Kim, Pranav Rajpurkar
+  [[Paper](https://arxiv.org/abs/2411.18672)] 
+
 * **MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement**,
   Xiwei Deng, Xianchun He, Yudan Zhou, Shuhui Cai, Congbo Cai, Zhong Chen
   [[Paper](https://arxiv.org/abs/2411.18309)] 
