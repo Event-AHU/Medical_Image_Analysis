@@ -25,7 +25,9 @@
 ### Year 2024 
 
 
-* 
+* **Radiology Report Generation via Multi-objective Preference Optimization**,
+  Ting Xiao, Lei Shi, Peng Liu, Zhe Wang, Chenjia Bai
+  [[Paper](https://arxiv.org/abs/2412.08901)] 
 
 * [arXiv:2411.18672] **FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models**,
   Alice Heiman, Xiaoman Zhang, Emma Chen, Sung Eun Kim, Pranav Rajpurkar
