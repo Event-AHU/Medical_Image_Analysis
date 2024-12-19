@@ -25,6 +25,10 @@
 ### Year 2024 
 
 
+
+* [arXiv:2412.13599] **Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation**
+  [[Paper](https://arxiv.org/pdf/2412.13599)]
+
 * [AAAI 2025, arXiv:2412.08901] **Radiology Report Generation via Multi-objective Preference Optimization**,
   Ting Xiao, Lei Shi, Peng Liu, Zhe Wang, Chenjia Bai, 
   [[Paper](https://arxiv.org/abs/2412.08901)] 
