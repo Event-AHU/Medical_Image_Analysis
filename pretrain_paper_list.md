@@ -71,6 +71,10 @@
 ### Year 2024 
 
 
+* **CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**,
+  Yuxuan Sun, Yixuan Si, Chenglu Zhu, Xuan Gong, Kai Zhang, Pingyi Chen, Ye Zhang, Zhongyi Shui, Tao Lin, Lin Yang
+  [[Paper](https://arxiv.org/abs/2412.12077)]
+  
 * **GMAI-VL&GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**, 
   [[Paper](https://arxiv.org/pdf/2411.14522)]
   [[Code](https://github.com/uni-medical/GMAI-VL)] 
