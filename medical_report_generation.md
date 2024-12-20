@@ -24,8 +24,10 @@
 
 ### Year 2024 
 
-
-
+* **HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**,
+  Tengfei Liu, Jiapu Wang, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun Chang, Junbin Gao, Baocai Yin
+  [[Paper](https://arxiv.org/abs/2412.11070)]
+  
 * **LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**,
   Zhuhao Wang, Yihua Sun, Zihan Li, Xuan Yang, Fang Chen, Hongen Liao
   [[Paper](https://arxiv.org/abs/2412.12001)] 
