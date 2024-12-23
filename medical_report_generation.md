@@ -24,6 +24,10 @@
 
 ### Year 2024 
 
+* **Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**,
+  Hasan Md Tusfiqur Alam, Devansh Srivastav, Md Abdul Kadir, Daniel Sonntag
+  [[Paper](https://arxiv.org/abs/2412.16086)]
+
 * **HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**,
   Tengfei Liu, Jiapu Wang, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun Chang, Junbin Gao, Baocai Yin
   [[Paper](https://arxiv.org/abs/2412.11070)]
