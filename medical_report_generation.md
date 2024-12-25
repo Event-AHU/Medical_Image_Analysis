@@ -24,6 +24,11 @@
 
 ### Year 2024 
 
+
+* [BioNLP@ACL 2024] **Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation**,
+  Xi Zhang, Zaiqiao Meng, Jake Lever, Edmond S. L. Ho
+  [[Paper](https://arxiv.org/abs/2412.04954)]
+  
 * **Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**,
   Hasan Md Tusfiqur Alam, Devansh Srivastav, Md Abdul Kadir, Daniel Sonntag
   [[Paper](https://arxiv.org/abs/2412.16086)]
