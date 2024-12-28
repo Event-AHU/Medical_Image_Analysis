@@ -711,9 +711,16 @@ Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841522002341)]
 
 
+
+
+
 ### Year 2021 and Before 
 
 
+* Alfarghaly, Omar, et al. "**Automated radiology report generation using conditioned transformers**." Informatics in Medicine Unlocked 24 (2021): 100557.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S2352914821000472)]
+  [[Code](https://github.com/omar-mohamed/GPT2-Chest-X-Ray-Report-Generation)]
+  
 * Endo M, Krishnan R, Krishna V, et al. **Retrieval-based chest x-ray report generation using a pre-trained contrastive language-image model**[C]//Machine Learning for Health. PMLR, 2021: 209-219.
   [[Paper](https://proceedings.mlr.press/v158/endo21a/endo21a.pdf)] 
   [[Code](https://github.com/rajpurkarlab/CXR-RePaiR)] 
