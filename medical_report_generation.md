@@ -25,6 +25,11 @@
 ### Year 2024 
 
 
+* [BIONLP-ACL 2024] **XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**,
+  Omkar Thawkar, Abdelrahman Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Jorma Laaksonen, Fahad Shahbaz Khan
+  [[Paper](https://arxiv.org/abs/2306.07971)]
+  [[Code](https://github.com/mbzuai-oryx/XrayGPT)] 
+
 * [BioNLP@ACL 2024] **Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation**,
   Xi Zhang, Zaiqiao Meng, Jake Lever, Edmond S. L. Ho
   [[Paper](https://arxiv.org/abs/2412.04954)]
