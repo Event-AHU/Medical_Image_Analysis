@@ -25,6 +25,9 @@
 ### Year 2024 
 
 
+* [arXiv:2501.01377] **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**, Yucheng Zhou, Lingran Song, Jianbing Shen, 
+  [[Paper](https://arxiv.org/pdf/2501.01377)] 
+
 * [BIONLP-ACL 2024] **XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**,
   Omkar Thawkar, Abdelrahman Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Jorma Laaksonen, Fahad Shahbaz Khan
   [[Paper](https://arxiv.org/abs/2306.07971)]
