@@ -27,6 +27,19 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 ## Projects Maintained in This Github:  
 
+
+### :dart: [Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation]()   
+Xiao Wang, Fuling Wang, Haowen Wang, Bo Jiang, Chuanfu Li, Yaowei Wang, Yonghong Tian, Jin Tang, 
+arXiv Pre-print arXiv:2501.03458, 2025 
+[[Paper](https://arxiv.org/abs/2501.03458)]
+
+X-ray image based medical report generation achieves significant progress in recent years with the help of the large language model, however, these models have not fully exploited the effective information in visual image regions, resulting in reports that are linguistically sound but insufficient in describing key diseases. In this paper, we propose a novel associative memory-enhanced X-ray report generation model that effectively mimics the process of professional doctors writing medical reports. It considers both the mining of global and local visual information and associates historical report information to better complete the writing of the current report. Specifically, given an X-ray image, we first utilize a classification model along with its activation maps to accomplish the mining of visual regions highly associated with diseases and the learning of disease query tokens. Then, we employ a visual Hopfield network to establish memory associations for disease-related tokens, and a report Hopfield network to retrieve report memory information. This process facilitates the generation of high-quality reports based on a large language model and achieves state-of-the-art performance on multiple benchmark datasets, including the IU X-ray, MIMIC-CXR, and Chexpert Plus.
+
+![CXPMRG_Bench](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/AM_MRG/figures/framework_FulingWang.jpg)
+
+
+
+
 ### :dart: [A Pre-trained Large Model MambaXray-VL and the benchmark for the CheXpert Plus dataset]()  
 * **CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset**, 
 Xiao Wang, Fuling Wang, Yuehang Li, Qingchuan Ma, Shiao Wang, Bo Jiang, Chuanfu Li, Jin Tang, 
