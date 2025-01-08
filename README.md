@@ -7,6 +7,9 @@
 
 ## Update Log:  
 
+* [2025.01.08] **Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**, arXiv:2501.03458 is released on
+  [[arXiv](https://arxiv.org/abs/2501.03458)] 
+  
 * [2024.10.23] **Pre-training on High Definition X-ray Images: An Experimental Study** is accepted by [**Visual Intelligence (VI)**](https://link.springer.com/journal/44267) Journal. 
 
 * [2024.10.01] **A Pre-trained Large Model MambaXray-VL and the benchmark for the CheXpert Plus dataset** is released [arXiv:2410.00379]
