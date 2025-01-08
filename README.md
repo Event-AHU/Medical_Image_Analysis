@@ -101,6 +101,16 @@ Existing X-ray based pre-trained vision models are usually conducted on a relati
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
+@misc{wang2025AMMRG,
+      title={Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation}, 
+      author={Xiao Wang and Fuling Wang and Haowen Wang and Bo Jiang and Chuanfu Li and Yaowei Wang and Yonghong Tian and Jin Tang},
+      year={2025},
+      eprint={2501.03458},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2501.03458}, 
+}
+
 @misc{wang2024CXPMRGBench,
       title={CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset}, 
       author={Xiao Wang and Fuling Wang and Yuehang Li and Qingchuan Ma and Shiao Wang and Bo Jiang and Chuanfu Li and Jin Tang},
