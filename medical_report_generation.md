@@ -11,7 +11,10 @@
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10545538)] 
 
 * **A Survey of Large Language Models in Medicine: Progress, Application, and Challenge**,
-  [[Paper](https://arxiv.org/pdf/2311.05112)] 
+  [[Paper](https://arxiv.org/pdf/2311.05112)]
+
+* **Clinical Insights: A Comprehensive Review of Language Models in Medicine**, Nikita Neveditsin, Pawan Lingras, Vijay Mago,
+  [[Paper](https://arxiv.org/abs/2408.11735)] 
 
 
 ### Big Project 
