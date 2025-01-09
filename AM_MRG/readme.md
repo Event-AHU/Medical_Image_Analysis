@@ -1,5 +1,4 @@
-**Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation** 
-# R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation
+# Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation
 
 ## Introduction
 ![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/AM_MRG/figures/framework_FulingWang.jpg)
