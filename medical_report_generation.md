@@ -26,6 +26,11 @@
 
 ### Year 2025 
 
+
+* [arXiv:2502.02673] **MedRAX: Medical Reasoning Agent for Chest X-ray**, Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang
+  [[Paper](https://arxiv.org/abs/2502.02673)]
+  [[Code](https://github.com/bowang-lab/MedRAX)]
+  
 * [arXiv:2501.01377] **Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**, Yucheng Zhou, Lingran Song, Jianbing Shen, 
   [[Paper](https://arxiv.org/pdf/2501.01377)] 
 
