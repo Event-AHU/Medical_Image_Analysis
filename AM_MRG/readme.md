@@ -36,6 +36,11 @@ cheXpert_plus
 ### Prepare MambaXray-VL:
 Follow the instruction in [MambaXray-VL](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/CXPMRG_Bench_MambaXray_VL) to prepare the MambaXray-VL model. 
 
+### Download the necessary Checkpoint files:
+You can download the necessary weight files for AM_MRG [here](https://www.dropbox.com/scl/fo/gtgo8hs2qxwdldbxlownu/ADIthMRX6w34BBCUpVYByRU?rlkey=ahdpc4knewqyvdxjv65ghdmbj&st=x4ubtmy6&dl=0) (CAM.pkl, Report_Memory.pkl, and Stage1ckpt.pth).
+The weight files required for QFormer can be found in the [BLIP2](https://dl.acm.org/doi/10.5555/3618408.3619222) paper.
+
+
 ### Training
 
 For MIMIC-CXR as example, update '--annotation' and '--base_dir' in scripts/mimic.sh to your data path.
