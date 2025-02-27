@@ -8,7 +8,7 @@
 ## Update Log:  
 
 
-* [2025.02.27] [[**CXPMRG-Bench**](https://arxiv.org/abs/2410.00379)] is accepted by CVPR 22025!
+* [2025.02.27] [[**CXPMRG-Bench**](https://arxiv.org/abs/2410.00379)] is accepted by CVPR 2025!
 
 * [2025.01.08] **Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**, arXiv:2501.03458 is released on
   [[arXiv](https://arxiv.org/abs/2501.03458)] 
