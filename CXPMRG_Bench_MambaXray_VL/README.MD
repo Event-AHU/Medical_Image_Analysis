@@ -1,4 +1,4 @@
-# CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset [CVPR2025]
+# [CVPR2025] CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset 
 
 ## Introduction
 ### Abstract
