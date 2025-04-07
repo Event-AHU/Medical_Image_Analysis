@@ -59,6 +59,11 @@ You can start training using the following code:
 bash SwinCheX/run.sh
 ```
 
+**3. Extraction CAM**
+```bash
+python SwinCheX/cam.py
+```
+
 **2. Downstream task training**
 
 For MIMIC-CXR as example, update '--annotation' and '--base_dir' in scripts/mimic.sh to your data path.
@@ -77,7 +82,6 @@ For CheXpert Plus:
 ```bash
 bash scripts/train_chexpert_plus.sh
 ```
-
 
 ### Testing (For MIMIC-CXR as example)
 
