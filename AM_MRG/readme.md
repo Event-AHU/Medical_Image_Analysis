@@ -43,6 +43,24 @@ The weight files required for QFormer can be found in the [BLIP2](https://dl.acm
 
 ### Training
 
+**1. The first stage is training in disease classification**
+
+Our code at this stage references [SwinCheX](https://github.com/rohban-lab/SwinCheX). To facilitate researchers in better reproducing our model, we have released the first-stage code, which can be found in the [SwinCheX directory](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/AM_MRG/SwinCheX). Before training, researchers need to prepare some prerequisite files by following the steps below: 
+
+***(1) The corresponding CSV file can be generated using the following code:***
+```bash
+python SwinCheX/json2csv.py
+```
+The file `mimic_chexpert_label.json` used in the code can be generated based on your own dataset, or you can use the JSON file we will provide later. After running `json2csv.py`, you will obtain three corresponding CSV files, which are required for the subsequent training.
+
+***(2) Start training:***
+You can start training using the following code:
+```bash
+bash SwinCheX/run.sh
+```
+
+**2. Downstream task training**
+
 For MIMIC-CXR as example, update '--annotation' and '--base_dir' in scripts/mimic.sh to your data path.
 
 For IU-xray:
@@ -78,6 +96,9 @@ bash scripts/test_mimic_cxr.sh
 + [MambaXray-VL](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/CXPMRG_Bench_MambaXray_VL) A vision backbone that works in linear time complexity. 
 
 + [R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT/tree/main) Our work is based on the R2GenGPT framework.
+  
++ [SwinCheX](https://github.com/rohban-lab/SwinCheX) Our code at this stage references SwinCheX.
+
 
 
 ## License
