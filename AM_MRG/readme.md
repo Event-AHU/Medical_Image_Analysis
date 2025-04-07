@@ -59,7 +59,7 @@ You can start training using the following code:
 bash SwinCheX/run.sh
 ```
 
-***(3). Extraction CAM***
+***(3) Extraction CAM***
 ```bash
 python SwinCheX/cam.py
 ```
