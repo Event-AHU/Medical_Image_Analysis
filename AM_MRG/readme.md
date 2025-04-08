@@ -51,7 +51,7 @@ Our code at this stage references [SwinCheX](https://github.com/rohban-lab/SwinC
 ```bash
 python SwinCheX/json2csv.py
 ```
-The file `mimic_chexpert_label.json` used in the code can be generated based on your own dataset, or you can use the [JSON file](https://pan.baidu.com/s/1eOfaNXBOMXOR2Wb0-XwN_Q?pwd=78c7) we provide. After running `json2csv.py`, you will obtain three corresponding CSV files, which are required for the subsequent training.
+The file `mimic_chexpert_label.json` used in the code can be generated based on your own dataset, or you can use the [JSON file](https://www.dropbox.com/scl/fi/ismwx1rnvc1uux0vanqlo/mimic_chexpert_label.json?rlkey=h9z5yihvademme9jbf17r43dh&st=pjax99su&dl=0) we provide. After running `json2csv.py`, you will obtain three corresponding CSV files, which are required for the subsequent training.
 
 ***(2) Start training:***
 You can start training using the following code:
