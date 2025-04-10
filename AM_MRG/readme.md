@@ -106,7 +106,7 @@ bash scripts/test_mimic_cxr.sh
 
 
 ## License
-This repository is under [BSD 3-Clause License](LICENSE.md).
+This repository is under [BSD 3-Clause License](LICENSE).
 
 
 
