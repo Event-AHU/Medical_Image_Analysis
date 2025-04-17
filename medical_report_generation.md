@@ -27,6 +27,10 @@
 ### Year 2025 
 
 
+* **CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation**,
+  Yue Jiang, Jiawei Chen, Dingkang Yang, Mingcheng Li, Shunli Wang, Tong Wu, Ke Li, Lihua Zhang, ICASSP 2025 
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887699)] 
+
 * [arXiv:2502.02673] **MedRAX: Medical Reasoning Agent for Chest X-ray**, Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang
   [[Paper](https://arxiv.org/abs/2502.02673)]
   [[Code](https://github.com/bowang-lab/MedRAX)]
