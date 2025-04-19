@@ -26,6 +26,10 @@
 
 ### Year 2025 
 
+* [Medical Image Analysis] **Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning**,
+Danyang Gao, Ming Kong, Yongrui Zhao, Jing Huang, Zhengxing Huang, Kun Kuang, Fei Wu, Qiang Zhu
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002426)]
+
 * [Knowledge-Based Systems] **Context-enhanced framework for medical image report generation using multimodal contexts**,
 Hongzhao Li, Hongyu Wang, Xia Sun, Hua He, Jun Feng
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)]
