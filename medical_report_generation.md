@@ -26,8 +26,12 @@
 
 ### Year 2025 
 
+* [Knowledge-Based Systems] **Context-enhanced framework for medical image report generation using multimodal contexts**,
+Hongzhao Li, Hongyu Wang, Xia Sun, Hua He, Jun Feng
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)]
 
-* **CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation**,
+
+* [ICASSP2025] **CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation**,
   Yue Jiang, Jiawei Chen, Dingkang Yang, Mingcheng Li, Shunli Wang, Tong Wu, Ke Li, Lihua Zhang, ICASSP 2025 
   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887699)] 
 
