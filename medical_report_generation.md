@@ -29,11 +29,12 @@
 * [Knowledge-Based Systems] **Context-enhanced framework for medical image report generation using multimodal contexts**,
 Hongzhao Li, Hongyu Wang, Xia Sun, Hua He, Jun Feng
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015478)]
-
+[[Code](https://github.com/lihongzhao99/Context-Enhanced-Framework)]
 
 * [ICASSP2025] **CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation**,
   Yue Jiang, Jiawei Chen, Dingkang Yang, Mingcheng Li, Shunli Wang, Tong Wu, Ke Li, Lihua Zhang, ICASSP 2025 
-  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887699)] 
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887699)]
+  [[Code](https://github.com/FRENKIE-CHIANG/CoMT)]
 
 * [arXiv:2502.02673] **MedRAX: Medical Reasoning Agent for Chest X-ray**, Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang
   [[Paper](https://arxiv.org/abs/2502.02673)]
