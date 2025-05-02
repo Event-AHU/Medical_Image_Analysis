@@ -26,6 +26,17 @@
 
 ### Year 2025 
 
+
+* **MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation**,
+  Amaan Izhar, Nurul Japar, Norisma Idris, Ting Dang
+  [[Paper](https://arxiv.org/abs/2504.20343)]
+  [[Code](https://github.com/AI-14/micar-vl-moe)]
+  
+* **ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**,
+  Ziqing Fan, Cheng Liang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie
+  [[Paper](https://arxiv.org/abs/2504.20930)]
+  [[Code](https://github.com/LiangChengBupt/ChesX-Reasoner)]
+
 * [Medical Image Analysis] **Simulating doctors’ thinking logic for chest X-ray report generation via Transformer-based Semantic Query learning**,
 Danyang Gao, Ming Kong, Yongrui Zhao, Jing Huang, Zhengxing Huang, Kun Kuang, Fei Wu, Qiang Zhu
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002426)]
