@@ -27,6 +27,16 @@
 ### Year 2025 
 
 
+* **ReXGradient-160K: A Large-Scale Publicly Available Dataset of Chest Radiographs with Free-text Reports**,
+  Xiaoman Zhang, Julián N. Acosta, Josh Miller, Ouwen Huang, Pranav Rajpurkar
+  [[Paper](https://arxiv.org/abs/2505.00228)]
+  [[Huggingface](https://huggingface.co/datasets/rajpurkarlab/ReXGradient-160K)]
+  
+* **ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation**,
+  Xiaoman Zhang, Hong-Yu Zhou, Xiaoli Yang, Oishi Banerjee, Julián N. Acosta, Josh Miller, Ouwen Huang, Pranav Rajpurkar
+  [[Paper](https://arxiv.org/abs/2411.15122?)]
+  [[Page](https://rexrank.ai/)]
+  
 * **MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation**,
   Amaan Izhar, Nurul Japar, Norisma Idris, Ting Dang
   [[Paper](https://arxiv.org/abs/2504.20343)]
