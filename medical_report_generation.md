@@ -27,6 +27,10 @@
 ### Year 2025 
 
 
+* [MIA] **Report is a mixture of topics: Topic-guided radiology report generation**. Li, G., Huang, C., Zhou, X., Ji, D., & Zhang, H. (2025).  Medical Image Analysis, 103586.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001331)]
+  [[Code](https://github.com/chentaohuang/Topic-Guided-Radiology-Report-Generation)] 
+  
 * **ReXGradient-160K: A Large-Scale Publicly Available Dataset of Chest Radiographs with Free-text Reports**,
   Xiaoman Zhang, Julián N. Acosta, Josh Miller, Ouwen Huang, Pranav Rajpurkar
   [[Paper](https://arxiv.org/abs/2505.00228)]
