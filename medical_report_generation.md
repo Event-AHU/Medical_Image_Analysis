@@ -27,6 +27,27 @@
 ### Year 2025 
 
 
+* "**RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**" (ACL'25).
+  [[Paper](https://github.com/wjhou/Radar)] 
+  
+* [arXiv:2310.13864] **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**,
+  Wenjun Hou, Yi Cheng, Kaishuai Xu, Wenjie Li, Jiang Liu
+  [[Paper](https://arxiv.org/abs/2310.13864)]
+  [[Code](https://github.com/wjhou/Recap)] 
+  
+* [arXiv:2306.06466] **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**,
+  Wenjun Hou, Kaishuai Xu, Yi Cheng, Wenjie Li, Jiang Liu
+  [[Paper](https://arxiv.org/abs/2306.06466)] 
+  
+* [ACL] **ICON: Improving Inter-Report Consistency in Radiology Report Generation via Lesion-aware Mixup Augmentation**.
+  Wenjun Hou, Yi Cheng, Kaishuai Xu, Yan Hu, Wenjie Li, and Jiang Liu. 2024. 
+  In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 9043–9056, Miami, Florida, USA. Association for Computational Linguistics.
+  [[Paper](https://aclanthology.org/2024.findings-emnlp.528/)]
+  [[Code](https://github.com/wjhou/ICon)] 
+  
+* [arXiv:2411.19378] **Libra: Leveraging Temporal Images for Biomedical Radiology Analysis**,
+  Xi Zhang, Zaiqiao Meng, Jake Lever, Edmond S. L. Ho [[Paper](https://arxiv.org/abs/2411.19378)] 
+  
 * [MIA] **Report is a mixture of topics: Topic-guided radiology report generation**. Li, G., Huang, C., Zhou, X., Ji, D., & Zhang, H. (2025).  Medical Image Analysis, 103586.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001331)]
   [[Code](https://github.com/chentaohuang/Topic-Guided-Radiology-Report-Generation)] 
