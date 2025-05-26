@@ -27,6 +27,10 @@
 ### Year 2025 
 
 
+* [arXiv:2505.18087] **CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**,
+  Hyungyung Lee, Geon Choi, Jung-Oh Lee, Hangyul Yoon, Hyuk Gi Hong, Edward Choi
+  [[Paper](https://arxiv.org/abs/2505.18087)]
+
 * "**RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**" (ACL'25).
   [[Paper](https://github.com/wjhou/Radar)] 
   
