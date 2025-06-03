@@ -27,6 +27,10 @@
 ### Year 2025 
 
 
+
+* [arXiv:2506.01118] **Revolutionizing Radiology Workflow with Factual and Efficient CXR Report Generation**, Pimchanok Sukjai, Apiradee Boonmee, 
+  [[Paper](https://arxiv.org/abs/2506.01118)]
+
 * [arXiv:2505.10496] **CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs**,
   Raman Dutt, Pedro Sanchez, Yongchen Yao, Steven McDonagh, Sotirios A. Tsaftaris, Timothy Hospedales 
   [[Paper](https://arxiv.org/abs/2505.10496)] 
