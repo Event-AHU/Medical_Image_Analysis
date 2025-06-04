@@ -26,8 +26,10 @@
 
 ### Year 2025 
 
-
-
+* [AAAI-25]  **HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**,
+  Tengfei Liu1, Jiapu Wang1, Yongli Hu1*, Mingjie Li2, Junfei Yi3, Xiaojun Chang4, Junbin Gao5, Baocai Yin1
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32596)] 
+  
 * [arXiv:2506.01118] **Revolutionizing Radiology Workflow with Factual and Efficient CXR Report Generation**, Pimchanok Sukjai, Apiradee Boonmee, 
   [[Paper](https://arxiv.org/abs/2506.01118)]
 
