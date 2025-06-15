@@ -116,6 +116,11 @@ Hongzhao Li, Hongyu Wang, Xia Sun, Hua He, Jun Feng
 
 ### Year 2024 
 
+
+* [NeurIPS24 Datasets and Benchmarks] **BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays**,
+  Yang Zhou, Tan Li Hui Faith, Yanyu Xu, Sicong Leng, Xinxing Xu, Yong Liu, Rick Siow Mong Goh
+  [[Paper](https://arxiv.org/abs/2410.21969)]
+
 * [BIONLP-ACL 2024] **XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**,
   Omkar Thawkar, Abdelrahman Shaker, Sahal Shaji Mullappilly, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Jorma Laaksonen, Fahad Shahbaz Khan
   [[Paper](https://arxiv.org/abs/2306.07971)]
