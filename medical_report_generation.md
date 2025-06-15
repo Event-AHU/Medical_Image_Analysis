@@ -26,6 +26,11 @@
 
 ### Year 2025 
 
+* [Nature] **A fully open AI foundation model applied to chest radiography,**
+  DongAo Ma, Jiaxuan Pang, Michael B. Gotway & Jianming Liang
+  [[Paper](https://www.nature.com/articles/s41586-025-09079-8)]
+  [[Code](https://github.com/jlianglab/Ark)]
+
 * [AAAI-25]  **HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**,
   Tengfei Liu1, Jiapu Wang1, Yongli Hu1*, Mingjie Li2, Junfei Yi3, Xiaojun Chang4, Junbin Gao5, Baocai Yin1
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32596)] 
