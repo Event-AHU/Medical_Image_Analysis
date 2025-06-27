@@ -114,14 +114,13 @@ If you find this work helps your research, please star this GitHub and cite the 
       url={https://arxiv.org/abs/2501.03458}, 
 }
 
-@misc{wang2024CXPMRGBench,
-      title={CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset}, 
-      author={Xiao Wang and Fuling Wang and Yuehang Li and Qingchuan Ma and Shiao Wang and Bo Jiang and Chuanfu Li and Jin Tang},
-      year={2024},
-      eprint={2410.00379},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.00379}, 
+@InProceedings{Wang_2025_CVPR,
+    author    = {Wang, Xiao and Wang, Fuling and Li, Yuehang and Ma, Qingchuan and Wang, Shiao and Jiang, Bo and Tang, Jin},
+    title     = {CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {5123-5133}
 }
 
 @misc{wang2024R2GenCSR,
