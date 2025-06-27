@@ -108,10 +108,12 @@ bash launch/launch_mambaclip_test_chexpert.sh
 ## Citation
 If you find this repository helpful, please consider citing:
 ```bibtex
-@article{wang2024cxpmrg,
-  title={CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset},
-  author={Wang, Xiao and Wang, Fuling and Li, Yuehang and Ma, Qingchuan and Wang, Shiao and Jiang, Bo and Li, Chuanfu and Tang, Jin},
-  journal={arXiv preprint arXiv:2410.00379},
-  year={2024}
+@InProceedings{Wang_2025_CVPR,
+    author    = {Wang, Xiao and Wang, Fuling and Li, Yuehang and Ma, Qingchuan and Wang, Shiao and Jiang, Bo and Tang, Jin},
+    title     = {CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {5123-5133}
 }
 ```
