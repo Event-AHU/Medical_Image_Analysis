@@ -26,6 +26,11 @@
 
 ### Year 2025 
 
+
+* [MICCAI 2025, arXiv:2507.06992] **MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**,
+  Qilong Xing, Zikai Song, Youjia Zhang, Na Feng, Junqing Yu, Wei Yang
+  [[Paper](https://arxiv.org/abs/2507.06992)] 
+  
 * [Nature] **A fully open AI foundation model applied to chest radiography,**
   DongAo Ma, Jiaxuan Pang, Michael B. Gotway & Jianming Liang
   [[Paper](https://www.nature.com/articles/s41586-025-09079-8)]
