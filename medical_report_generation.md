@@ -1,4 +1,4 @@
-
+<img width="1524" height="1192" alt="image" src="https://github.com/user-attachments/assets/37edf24c-8769-4c9e-8e25-2104e6c06f25" />
 ### Surveys & Thesis 
 
 * Agrawal, Tejas Prakash. "**RadGraph: Integrating Fine-Grained and Global Features using GCNs and LLMs.**" PhD diss., Faculty of the Graduate School of the University at Buffalo, The State University of New York, 2024.
@@ -27,6 +27,11 @@
 ### Year 2025 
 
 
+* [ICCV 20025] **Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation**,
+    Qin Zhou · Guoyan Liang · Xindi Li · Jingyuan CHEN · Zhe Wang · Chang Yao · Sai Wu
+    [[Paper](https://arxiv.org/abs/2507.07568)]
+    [[Code](https://github.com/banbooliang/REVTAF-RRG)]
+    
 * [MICCAI 2025, arXiv:2507.06992] **MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**,
   Qilong Xing, Zikai Song, Youjia Zhang, Na Feng, Junqing Yu, Wei Yang
   [[Paper](https://arxiv.org/abs/2507.06992)] 
