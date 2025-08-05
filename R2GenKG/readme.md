@@ -6,8 +6,12 @@ X-ray medical report generation is one of the important applications of artifici
 
 
 ## Framework  
-![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenKG/figures/R2GenKG_framework.jpg)
+
 ![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenKG/figures/KG_construction.jpg)
+An illustration of the proposed multi-modal medical knowledge graph M3KG.
+
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenKG/figures/R2GenKG_framework.jpg)
+An overview of our proposed hierarchical knowledge graph guided X-ray medical report generation framework, termed R2GenKG.
 
 
 ## Getting Started
