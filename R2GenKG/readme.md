@@ -68,15 +68,17 @@ bash scripts/1-2.test_iuxray.sh
 For CheXpert Plus:
 ```bash
 bash scripts/6-2.cheXpert_plus_test.sh
-
+```
 
 Note: Complete execution steps, code for processing graph features, and weights will be uploaded later.
 
-## Acknowledgement
+
+
+### Acknowledgement
 R2GenGPT Our work is based on the R2GenGPT framework.
 
 
-## Citation
+### Citation
 ```
 
 ```
