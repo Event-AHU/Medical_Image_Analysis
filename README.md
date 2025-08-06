@@ -8,6 +8,8 @@
 ## Update Log:  
 
 
+* [2025.08.06] [[R2GenKG](https://arxiv.org/abs/2508.03426)] is released on arXiv:2508.03426. 
+
 * [2025.02.27] [[**CXPMRG-Bench**](https://arxiv.org/abs/2410.00379)] is accepted by CVPR 2025!
 
 * [2025.01.08] **Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation**, arXiv:2501.03458 is released on
