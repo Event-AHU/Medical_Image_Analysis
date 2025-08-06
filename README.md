@@ -116,6 +116,16 @@ Existing X-ray based pre-trained vision models are usually conducted on a relati
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
+@misc{wang2025r2genKG,
+      title={R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation}, 
+      author={Futian Wang and Yuhan Qiao and Xiao Wang and Fuling Wang and Yuxiang Zhang and Dengdi Sun},
+      year={2025},
+      eprint={2508.03426},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.03426}, 
+}
+
 @misc{wang2025AMMRG,
       title={Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation}, 
       author={Xiao Wang and Fuling Wang and Haowen Wang and Bo Jiang and Chuanfu Li and Yaowei Wang and Yonghong Tian and Jin Tang},
