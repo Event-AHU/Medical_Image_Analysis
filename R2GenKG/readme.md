@@ -1,4 +1,9 @@
-# R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation
+# Official PyTorch implementation of R2GenKG 
+
+* **R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation**, 
+  Futian Wang, Yuhan Qiao, Xiao Wang*, Fuling Wang, Yuxiang Zhang, Dengdi Sun, 
+  arXiv:2508.03426,
+  [[Paper](https://arxiv.org/abs/2508.03426)] 
 
 ## Abstract 
 X-ray medical report generation is one of the important applications of artificial intelligence in healthcare. With the support of large foundation models, the quality of medical report generation has significantly improved. However, challenges such as hallucination and weak disease diagnostic capability still persist. In this paper, we first construct a large-scale multi-modal medical knowledge graph (termed M3KG) based on the ground truth medical report using the GPT-4o. It contains 2477 entities, 3 kinds of relations, 37424 triples, and 6943 disease-aware vision tokens for the CheXpert Plus dataset. Then, we sample it to obtain multi-granularity semantic graphs and use an R-GCN encoder for feature extraction. For the input X-ray image, we adopt the Swin-Transformer to extract the vision features and interact with the knowledge using cross-attention. The vision tokens are fed into a Q-former and retrieved the disease-aware vision tokens using another cross-attention. Finally, we adopt the large language model to map the semantic knowledge graph, input X-ray image, and disease-aware vision tokens into language descriptions. Extensive experiments on multiple datasets fully validated the effectiveness of our proposed knowledge graph and X-ray report generation framework. The source code of this paper will be released. 
@@ -70,17 +75,29 @@ For CheXpert Plus:
 bash scripts/6-2.cheXpert_plus_test.sh
 ```
 
-Note: Complete execution steps, code for processing graph features, and weights will be uploaded later.
+**Note**: Complete execution steps, code for processing graph features, and weights will be uploaded later.
 
 
 
 ### Acknowledgement
-R2GenGPT Our work is based on the R2GenGPT framework.
+* **R2GenGPT** We build our framework based on R2GenKG. 
+* **CXPMRG-Bench** The experimental results on the CheXpert Plus dataset are obtained from
+  [[CXPMRG-Bench](https://arxiv.org/abs/2410.00379)].
 
+
+  
 
 ### Citation
 ```
-
+@misc{wang2025r2genkghierarchicalmultimodalknowledge,
+      title={R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation}, 
+      author={Futian Wang and Yuhan Qiao and Xiao Wang and Fuling Wang and Yuxiang Zhang and Dengdi Sun},
+      year={2025},
+      eprint={2508.03426},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.03426}, 
+}
 ```
 
 
