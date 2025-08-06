@@ -30,7 +30,17 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
   [[Paper](https://arxiv.org/abs/2405.10842)]
 
 
-## Projects Maintained in This Github:  
+## Projects Maintained in This GitHub:  
+
+
+### :dart: [R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation]()
+Futian Wang, Yuhan Qiao, Xiao Wang*, Fuling Wang, Yuxiang Zhang, Dengdi Sun, 
+arXiv:2508.03426, [[Paper](https://arxiv.org/abs/2508.03426)] 
+
+X-ray medical report generation is one of the important applications of artificial intelligence in healthcare. With the support of large foundation models, the quality of medical report generation has significantly improved. However, challenges such as hallucination and weak disease diagnostic capability still persist. In this paper, we first construct a large-scale multi-modal medical knowledge graph (termed M3KG) based on the ground truth medical report using the GPT-4o. It contains 2477 entities, 3 kinds of relations, 37424 triples, and 6943 disease-aware vision tokens for the CheXpert Plus dataset. Then, we sample it to obtain multi-granularity semantic graphs and use an R-GCN encoder for feature extraction. For the input X-ray image, we adopt the Swin-Transformer to extract the vision features and interact with the knowledge using cross-attention. The vision tokens are fed into a Q-former and retrieved the disease-aware vision tokens using another cross-attention. Finally, we adopt the large language model to map the semantic knowledge graph, input X-ray image, and disease-aware vision tokens into language descriptions. Extensive experiments on multiple datasets fully validated the effectiveness of our proposed knowledge graph and X-ray report generation framework. The source code of this paper will be released. 
+
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/R2GenKG/figures/R2GenKG_framework.jpg)
+
 
 
 ### :dart: [Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-ray Report Generation]()   
