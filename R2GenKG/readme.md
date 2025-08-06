@@ -89,7 +89,7 @@ bash scripts/6-2.cheXpert_plus_test.sh
 
 ### Citation
 ```
-@misc{wang2025r2genkghierarchicalmultimodalknowledge,
+@misc{wang2025r2genKG,
       title={R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation}, 
       author={Futian Wang and Yuhan Qiao and Xiao Wang and Fuling Wang and Yuxiang Zhang and Dengdi Sun},
       year={2025},
