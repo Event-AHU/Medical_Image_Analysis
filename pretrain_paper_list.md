@@ -66,6 +66,17 @@
   [[Code](https://github.com/AI-in-Health/MedLLMsPracticalGuide)] 
 
 
+
+### Year 2025 
+
+* **ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine**, 
+  Junying Chen, Zhenyang Cai, Zhiheng Liu, Yunjin Yang, Rongsheng Wang, Qingying Xiao, Xiangyi Feng, Zhan Su, Jing Guo, Xiang Wan, Guangjun Yu, Haizhou Li, Benyou Wang
+  [[Paper](https://arxiv.org/abs/2508.14706)]
+  [[Code](https://github.com/FreedomIntelligence/ShizhenGPT)] 
+
+
+
+
   
 
 ### Year 2024 
