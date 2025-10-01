@@ -69,6 +69,13 @@
 
 ### Year 2025 
 
+
+* [[arXiv:2509.06830]()] **Curia: A Multi-Modal Foundation Model for Radiology**, 
+  Corentin Dancette, Julien Khlaut, Antoine Saporta, Helene Philippe, Elodie Ferreres, Baptiste Callard, Théo Danielou, Léo Alberge, Léo Machado, Daniel Tordjman, Julie Dupuis, Korentin Le Floch, Jean Du Terrail, Mariam Moshiri, Laurent Dercle, Tom Boeken, Jules Gregory, Maxime Ronot, François Legou, Pascal Roux, Marc Sapoval, Pierre Manceron, Paul Hérent
+  [[Paper](https://arxiv.org/abs/2509.06830)]
+  [[Code](https://huggingface.co/raidium/curia)] 
+
+
 * **ShizhenGPT: Towards Multimodal LLMs for Traditional Chinese Medicine**, 
   Junying Chen, Zhenyang Cai, Zhiheng Liu, Yunjin Yang, Rongsheng Wang, Qingying Xiao, Xiangyi Feng, Zhan Su, Jing Guo, Xiang Wan, Guangjun Yu, Haizhou Li, Benyou Wang
   [[Paper](https://arxiv.org/abs/2508.14706)]
