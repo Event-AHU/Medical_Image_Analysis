@@ -26,6 +26,10 @@
 ### Year 2025 
 
 
+* [[arXiv:2509.03903]()] **A Generative Foundation Model for Chest Radiography**,
+  Yuanfeng Ji, Dan Lin, Xiyue Wang, Lu Zhang, Wenhui Zhou, Chongjian Ge, Ruihang Chu, Xiaoli Yang, Junhan Zhao, Junsong Chen, Xiangde Luo, Sen Yang, Jin Fang, Ping Luo, Ruijiang Li
+  [[Paper](https://arxiv.org/abs/2509.03903)] 
+
 * [ICCV 20025] **Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation**,
     Qin Zhou · Guoyan Liang · Xindi Li · Jingyuan CHEN · Zhe Wang · Chang Yao · Sai Wu
     [[Paper](https://arxiv.org/abs/2507.07568)]
