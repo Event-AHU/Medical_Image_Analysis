@@ -26,6 +26,10 @@
 ### Year 2025 
 
 
+* **A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning**， 
+  Qika Lin, Yifan Zhu, Bin Pu, Ling Huang, Haoran Luo, Jingying Ma, Zhen Peng, Tianzhe Zhao, Fangzhi Xu, Jian Zhang, Kai He, Zhonghong Ou, Swapnil Mishra, Mengling Feng
+  [[Paper](https://arxiv.org/abs/2509.03906)]
+  
 * [[arXiv:2509.03903]()] **A Generative Foundation Model for Chest Radiography**,
   Yuanfeng Ji, Dan Lin, Xiyue Wang, Lu Zhang, Wenhui Zhou, Chongjian Ge, Ruihang Chu, Xiaoli Yang, Junhan Zhao, Junsong Chen, Xiangde Luo, Sen Yang, Jin Fang, Ping Luo, Ruijiang Li
   [[Paper](https://arxiv.org/abs/2509.03903)] 
