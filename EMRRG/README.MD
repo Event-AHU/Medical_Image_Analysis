@@ -72,9 +72,6 @@ bash launch/launch_mambaclip_test_chexpert.sh
 
 ## Acknowledgement
 
-+ [ARM](https://github.com/OliverRensu/ARM) The first stage of training of our model is based on ARM.
-
-+ [R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT/tree/main) Our work is based on the R2GenGPT framework.
++ [MambaXray_VL](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/CXPMRG_Bench_MambaXray_VL) Our work is based on the R2GenGPT framework.
 
 
-```
