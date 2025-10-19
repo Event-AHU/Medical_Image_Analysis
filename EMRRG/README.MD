@@ -72,6 +72,6 @@ bash launch/launch_mambaclip_test_chexpert.sh
 
 ## Acknowledgement
 
-+ [MambaXray_VL](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/CXPMRG_Bench_MambaXray_VL) Our work is based on the R2GenGPT framework.
++ [MambaXray_VL](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/CXPMRG_Bench_MambaXray_VL) Our work is based on the MambaXray_VL framework.
 
-
+ 
