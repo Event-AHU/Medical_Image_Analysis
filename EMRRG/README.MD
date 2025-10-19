@@ -64,7 +64,7 @@ Once you finished the training, update '--annotation' , '--base_dir' and 'load_m
 bash launch/launch_mambaclip_test_chexpert.sh
 ```
 
-## Results and Checkpoints(For CheXpert_plus as example)
+## Checkpoints(For CheXpert_plus as example)
 | name |  model |
 |:---:|:---:|
 | EMRRG-CXP | [model](https://drive.google.com/file/d/1eQdRmiE1UfeyJnhbCPBA-gJsvg7ICHwh/view?usp=sharing) |
