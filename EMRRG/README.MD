@@ -1,4 +1,4 @@
-# CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset
+# EMRRG:Efficient Fine-Tuning Pre-trained X-ray MambaNetworks for Radiology Report Generation 
 
 ## Introduction
 ### Abstract
