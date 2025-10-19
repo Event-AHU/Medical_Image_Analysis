@@ -174,12 +174,8 @@ class MambaXrayVLDownStream(pl.LightningModule):
             print(f'Load checkpoint from {args.delta_file}')
 
     def _initialize_hybrid_decoder_layers(self):
-        """
-        初始化混合解码器层，基于SlowFast的实现模式
-        """
         print("Initializing hybrid decoder layers...")
 
-        # 获取模型的解码器层
         if hasattr(self.llama_model, 'model') and hasattr(self.llama_model.model, 'layers'):
             layers = self.llama_model.model.layers
         elif hasattr(self.llama_model, 'layers'):
@@ -190,14 +186,11 @@ class MambaXrayVLDownStream(pl.LightningModule):
 
         num_layers = len(layers)
 
-        # 生成需要替换为hybrid layer的索引
         hybrid_layer_idx = []
         for i in range(0, num_layers, self.cross_attn_every_n_layers):
             hybrid_layer_idx.append(i)
 
         print(f"Replacing layers {hybrid_layer_idx} with hybrid decoder layers")
-
-        # 替换指定层为hybrid decoder layer
 
         for idx in hybrid_layer_idx:
              if idx < len(layers):
@@ -215,26 +208,18 @@ class MambaXrayVLDownStream(pl.LightningModule):
         print("Hybrid decoder layers initialized")
 
     def split_slow_fast_tokens(self, visual_tokens, spatial_stride=2):
-        """
-        基于SlowFast的实现，适配图像输入
-        """
         if isinstance(visual_tokens, torch.Tensor):
             b, n, c = visual_tokens.shape
             h = w = int(n ** 0.5)
-
-            # 快速令牌：通过空间池化降采样
             fast_visual_tokens = nn.functional.avg_pool2d(
                 visual_tokens.reshape(b, h, w, c).permute(0, 3, 1, 2),
                 kernel_size=spatial_stride,
                 stride=spatial_stride
             ).flatten(2, 3).transpose(1, 2)
-
-            # 慢速令牌：保持原始分辨率
             slow_visual_tokens = visual_tokens
 
             return fast_visual_tokens, slow_visual_tokens
         else:
-            # 处理列表输入的情况
             fast_tokens = []
             slow_tokens = []
             for token in visual_tokens:
@@ -245,9 +230,6 @@ class MambaXrayVLDownStream(pl.LightningModule):
 
 
     def clear_hybrid_layers(self):
-        """
-        清除hybrid decoder layers的视觉条件
-        """
         if not self.use_hybrid_decoder:
             return
 
@@ -288,9 +270,6 @@ class MambaXrayVLDownStream(pl.LightningModule):
         return final_scores
 
     def _apply_lora_X_to_model(self, model):
-        """
-        将LoRAp(X)应用到模型的Mamba层
-        """
         for name, module in model.named_modules():
             if hasattr(module, 'in_proj') and hasattr(module, 'out_proj'):
                 if hasattr(module, 'hidden_size') and hasattr(module, 'intermediate_size'):
@@ -314,7 +293,7 @@ class MambaXrayVLDownStream(pl.LightningModule):
                             output_list = list(output)
                             if len(output_list) > 0:
                                 if isinstance(output_list[0], torch.Tensor):
-                                    # 只修改X投影部分
+                                    
                                     half_size = output_list[0].shape[-1] // 2
                                     output_list[0][..., :half_size] = output_list[0][..., :half_size] + lora_output
                             output = tuple(output_list)
@@ -323,7 +302,6 @@ class MambaXrayVLDownStream(pl.LightningModule):
                             output[..., :half_size] = output[..., :half_size] + lora_output
                     return output
 
-                    # 绑定新的前向传播函数
 
                 module.forward = types.MethodType(new_forward, module)
     def encode_img(self, images, segmentation=None):
