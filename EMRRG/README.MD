@@ -9,8 +9,7 @@ the X-ray MRG.
 
 ### Overview
 The overall framework of our model is as follows：
-![overview](EMRRG/framework.jpg)
-
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/EMRRG/framework.jpg)
 ## Getting Started
 ### Installation
 
