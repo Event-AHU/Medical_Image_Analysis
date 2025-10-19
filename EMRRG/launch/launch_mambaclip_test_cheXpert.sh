@@ -34,9 +34,6 @@ python -u train_downstream.py \
   --length_penalty 2.0 \
   --num_workers 6 \
   --devices 1 \
-  --lora_X \
-  --dim_X 16 \
-  --s_X 1.0 \
   2>&1 |tee -a ${savepath}/log.txt
 
 
