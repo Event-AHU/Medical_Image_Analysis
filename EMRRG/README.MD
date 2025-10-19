@@ -67,7 +67,7 @@ bash launch/launch_mambaclip_test_chexpert.sh
 ## Results and Checkpoints(For CheXpert_plus as example)
 | name |  model |
 |:---:|:---:|
-| EMRRG-CXP | [model](https://drive.google.com/file/d/13JIZ4IgMI4OwblemX-5KyNucD30jBKk9/view?usp=sharing) |
+| EMRRG-CXP | [model](https://drive.google.com/file/d/1eQdRmiE1UfeyJnhbCPBA-gJsvg7ICHwh/view?usp=sharing) |
 
 
 ## Acknowledgement
