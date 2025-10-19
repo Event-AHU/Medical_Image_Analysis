@@ -40,25 +40,6 @@ cheXpert_plus
 ```
 
 ### Training
-
-**1. Pretrain Stage**
-
-You need to change '--data_path' in pretrain/pretrain.sh to your own data set configuration file. Then run the command:
-```bash
-bash pretrain/pretrain.sh
-```
-
-**2. MambaXrayVLCLIP Stage**
-
-At this stage, you first need to download the [annotation](https://drive.google.com/file/d/1o3uGa__FRJQo0iC-By63XzIarsErgucb/view?usp=drive_link) file. Note that the information in this file is used in absolute path, so you need to modify the path corresponding to the three datasets you downloaded before using it. And you need to change '--annotation' in launch/launch_mambaclip.sh. Then run the command:
-```bash
-bash launch/launch_mambaclip.sh
-```
-
-**3. DownStream Stage**
-
-For CheXpert_plus as example, update '--annotation' and '--base_dir' in launch/launch_mambaclip_chexpert.sh to your data path.
-
 For IU-xray:
 ```bash
 bash launch/launch_mambaclip_iu.sh
