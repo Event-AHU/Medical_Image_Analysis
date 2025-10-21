@@ -74,4 +74,18 @@ bash launch/launch_mambaclip_test_chexpert.sh
 
 + [MambaXray_VL](https://github.com/Event-AHU/Medical_Image_Analysis/tree/main/CXPMRG_Bench_MambaXray_VL) Our work is based on the MambaXray_VL framework.
 
+
+## Citation 
+
+```bibtex
+@misc{zhang2025EMRRG,
+      title={EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation}, 
+      author={Mingzheng Zhang and Jinfeng Gao and Dan Xu and Jiangrui Yu and Yuhan Qiao and Lan Chen and Jin Tang and Xiao Wang},
+      year={2025},
+      eprint={2510.16776},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.16776}, 
+}
+```
  
