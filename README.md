@@ -34,6 +34,15 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 ## Projects Maintained in This GitHub:  
 
+### :dart: EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation
+Mingzheng Zhang, Jinfeng Gao, Dan Xu, Jiangrui Yu, Yuhan Qiao, Lan Chen, Jin Tang, Xiao Wang
+arXiv:2510.16776, [[Paper](https://arxiv.org/abs/2510.16776)] 
+
+X-ray image-based medical report generation (MRG) is a pivotal area in artificial intelligence that can significantly reduce diagnostic burdens for clinicians and patient wait times. Existing MRG models predominantly rely on Large Language Models (LLMs) to improve report generation, with limited exploration of pre-trained vision foundation models or advanced fine-tuning techniques. Mainstream frameworks either avoid fine-tuning or utilize simplistic methods like LoRA, often neglecting the potential of enhancing cross-attention mechanisms. Additionally, while Transformer-based models dominate vision-language tasks, non-Transformer architectures, such as the Mamba network, remain underexplored for medical report generation, presenting a promising avenue for future research. In this paper, we propose EMRRG, a novel X-ray report generation framework that fine-tunes pre-trained Mamba networks using parameter-efficient methods. Specifically, X-ray images are divided into patches, tokenized, and processed by an SSM-based vision backbone for feature extraction, with Partial LoRA yielding optimal performance. An LLM with a hybrid decoder generates the medical report, enabling end-to-end training and achieving strong results on benchmark datasets. Extensive experiments on three widely used benchmark datasets fully validated the effectiveness of our proposed strategies for the X-ray MRG. The source code of this paper will be released on [URL](https://github.com/Event-AHU/Medical_Image_Analysis)
+
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/EMRRG/framework.jpg)
+
+
 
 ### :dart: [R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation]()
 Futian Wang, Yuhan Qiao, Xiao Wang*, Fuling Wang, Yuxiang Zhang, Dengdi Sun, 
@@ -118,6 +127,16 @@ Existing X-ray based pre-trained vision models are usually conducted on a relati
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
+@misc{zhang2025emrrgefficientfinetuningpretrained,
+      title={EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation}, 
+      author={Mingzheng Zhang and Jinfeng Gao and Dan Xu and Jiangrui Yu and Yuhan Qiao and Lan Chen and Jin Tang and Xiao Wang},
+      year={2025},
+      eprint={2510.16776},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.16776}, 
+}
+
 @misc{wang2025r2genKG,
       title={R2GenKG: Hierarchical Multi-modal Knowledge Graph for LLM-based Radiology Report Generation}, 
       author={Futian Wang and Yuhan Qiao and Xiao Wang and Fuling Wang and Yuxiang Zhang and Dengdi Sun},
