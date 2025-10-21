@@ -127,7 +127,7 @@ Existing X-ray based pre-trained vision models are usually conducted on a relati
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
-@misc{zhang2025emrrgefficientfinetuningpretrained,
+@misc{zhang2025EMRRG,
       title={EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation}, 
       author={Mingzheng Zhang and Jinfeng Gao and Dan Xu and Jiangrui Yu and Yuhan Qiao and Lan Chen and Jin Tang and Xiao Wang},
       year={2025},
