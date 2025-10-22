@@ -59,12 +59,4 @@ class SimpleMLPWithGELU(nn.Module):
         x = x.view(original_shape[0], -1, original_shape[2])
         return x
 
-# # 输入尺寸为768，中间层尺寸自选，输出尺寸为128
-# mlp = SimpleMLPWithGELU(input_size=768, hidden_size=512, output_size=128)
-#
-# # 假设输入
-# input_tensor = torch.randn(10, 2048, 768) # Shape: (B, 2048, 768)
-#
-# # 得到输出
-# output_tensor = mlp(input_tensor) # 输出形状将是 (B, 128, 768)
-# print(output_tensor.shape)  # 应为 (10, 128, 768)
+
