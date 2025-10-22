@@ -15,7 +15,7 @@ import pdb
 from visual_rgcn.graph import RGCN # 导入图卷积网络（GCN）
 import os
 import re
-from Z_GCN.new_module import ResidualCrossAttentionBlock
+from visual_rgcn.cross import ResidualCrossAttentionBlock
 from visual_rgcn.self_attention import MultiScaleSelfAttentionFusion
 from visual_rgcn.Qformer import BertConfig, BertLMHeadModel
 from visual_rgcn.cam import CrossAttentionLookup
