@@ -8,6 +8,8 @@
 ## Update Log:  
 
 
+* [2025.10.27] EMRRG is accepted by BICS 2025 [[https://bics-ai.org/](https://bics-ai.org/)]
+
 * [2025.08.20] AM-MRG is accepted by IEEE Transactions on Medical Imaging (TMI)!
 
 * [2025.08.06] [[R2GenKG](https://arxiv.org/abs/2508.03426)] is released on arXiv:2508.03426. 
