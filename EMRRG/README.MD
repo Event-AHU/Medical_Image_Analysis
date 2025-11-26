@@ -1,5 +1,13 @@
 # EMRRG:Efficient Fine-Tuning Pre-trained X-ray MambaNetworks for Radiology Report Generation 
 
+
+
+## News 
+
+* [2025.11.26] Slides for the EMRRG are available at [[BICS2025_EMRRG_Slides.pptx](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/EMRRG/BICS2025_EMRRG_Slides.pptx)] 
+![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/EMRRG/BICS2025_slides.png)
+
+
 ## Introduction
 ### Abstract
 X-ray image-based medical report generation (MRG) is a pivotal area in artificial intelligence that can significantly reduce diagnostic burdens for clinicians and patient wait times. Existing MRG models predominantly rely on Large
