@@ -8,7 +8,6 @@
 ![overview](https://github.com/Event-AHU/Medical_Image_Analysis/blob/main/EMRRG/BICS2025_slides.png)
 
 
-## Introduction
 ### Abstract
 X-ray image-based medical report generation (MRG) is a pivotal area in artificial intelligence that can significantly reduce diagnostic burdens for clinicians and patient wait times. Existing MRG models predominantly rely on Large
 Language Models (LLMs) to improve report generation, with limited exploration of pre-trained vision foundation models or advanced fine-tuning techniques. Mainstream frameworks either avoid fine-tuning or utilize simplistic methods like
