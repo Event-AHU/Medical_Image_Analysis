@@ -38,6 +38,10 @@ Longzhen Yang, Zhangkai Ni, Ying Wen, Yihang Liu, Lianghua He, Heng Tao Shen, ar
 
 ### Year 2025 
 
+
+* **Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation**, Huu Tien Nguyen, Dac Thai Nguyen, The Minh Duc Nguyen, Trung Thanh Nguyen, Thao Nguyen Truong, Huy Hieu Pham, Johan Barthelemy, Minh Quan Tran, Thanh Tam Nguyen, Quoc Viet Hung Nguyen, Quynh Anh Chau, Hong Son Mai, Thanh Trung Nguyen, Phi Le Nguyen
+  [[Paper](https://arxiv.org/abs/2509.24739)] 
+
 * **A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning**， 
   Qika Lin, Yifan Zhu, Bin Pu, Ling Huang, Haoran Luo, Jingying Ma, Zhen Peng, Tianzhe Zhao, Fangzhi Xu, Jian Zhang, Kai He, Zhonghong Ou, Swapnil Mishra, Mengling Feng
   [[Paper](https://arxiv.org/abs/2509.03906)]
