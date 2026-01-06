@@ -27,8 +27,15 @@
 
 
 
-### Year 2025 
+### Year 2026 
 
+* **Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm**, arXiv:2509.25963
+  [[Paper](https://arxiv.org/abs/2509.25963)]
+  [[Code](https://github.com/kaelsunkiller/ssacl)] 
+
+
+
+### Year 2025 
 
 * **A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning**， 
   Qika Lin, Yifan Zhu, Bin Pu, Ling Huang, Haoran Luo, Jingying Ma, Zhen Peng, Tianzhe Zhao, Fangzhi Xu, Jian Zhang, Kai He, Zhonghong Ou, Swapnil Mishra, Mengling Feng
