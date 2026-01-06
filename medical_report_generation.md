@@ -29,7 +29,8 @@
 
 ### Year 2026 
 
-* **Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm**, arXiv:2509.25963
+* **Self-Supervised Anatomical Consistency Learning for Vision-Grounded Medical Report Generation** 
+Longzhen Yang, Zhangkai Ni, Ying Wen, Yihang Liu, Lianghua He, Heng Tao Shen, arXiv:2509.25963
   [[Paper](https://arxiv.org/abs/2509.25963)]
   [[Code](https://github.com/kaelsunkiller/ssacl)] 
 
