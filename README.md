@@ -7,6 +7,7 @@
 
 ## Update Log:  
 
+* [2026.02] R2GenCSR is accepted by IEEE Journal of Biomedical and Health Informatics (JBHI) 
 
 * [2025.10.27] EMRRG is accepted by BICS 2025 [[https://bics-ai.org/](https://bics-ai.org/)]
 
