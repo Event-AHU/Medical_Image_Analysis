@@ -40,6 +40,13 @@ Follow the instruction in [MambaXray-VL](https://github.com/Event-AHU/Medical_Im
 You can download the necessary weight files for AM_MRG [here](https://www.dropbox.com/scl/fo/gtgo8hs2qxwdldbxlownu/ADIthMRX6w34BBCUpVYByRU?rlkey=ahdpc4knewqyvdxjv65ghdmbj&st=x4ubtmy6&dl=0) (CAM.pkl, Report_Memory.pkl, and Stage1ckpt.pth).
 The weight files required for QFormer can be found in the [BLIP2](https://dl.acm.org/doi/10.5555/3618408.3619222) paper.
 
+For the checkpoint generated from stage 2, you can find it via:
+
+[**DropBox**] https://www.dropbox.com/scl/fi/klwe5dj8q3vz8ctfhzzsn/Stage2CheXpertPlus.pth?rlkey=zr4jpmvqesw5ygxco27r5ih00&st=hg85swad&dl=0
+
+[**BaiduDisk**] 链接: https://pan.baidu.com/s/1x598Kwykah9r8gNhQe52uw?pwd=3t8f 提取码: 3t8f
+
+
 
 ### Training
 
