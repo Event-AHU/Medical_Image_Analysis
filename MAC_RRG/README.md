@@ -172,15 +172,6 @@ This project is built upon [R2GenGPT](https://github.com/wang-zhanyu/R2GenGPT) a
 
 If you find this work useful for your research, please give us a star ⭐ and cite the following paper:
 
-```bibtex
-@article{wang2025macrrg,
-  title   = {MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation},
-  author  = {Wang, Futian and Qiao, Yuhan and Wang, Xiao and Xu, Dan and Li, Yuehang and Guo, Zhixiang and Tang, Jin},
-  journal = {},
-  year    = {2025}
-}
-```
-
 ```
 MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation
 Futian Wang, Yuhan Qiao, Xiao Wang*, Dan Xu, Yuehang Li, Zhixiang Guo*, Jin Tang
