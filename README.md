@@ -37,6 +37,28 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 ## Projects Maintained in This GitHub:  
 
+
+### :dart: Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset
+Xiao Wang, Yuxiang Zhang, Dan Xu, Yuehang Li, Shiao Wang, Bo Jiang, Yaowei Wang, Yonghong Tian, Jin Tang 
+arXiv:2510.16776, [[Paper](https://arxiv.org/abs/2510.16776)] 
+
+X-ray image-based Radiology Report Generation (RRG) constitutes a critical research direction within medical artificial
+intelligence, with great potential to alleviate clinicians’ diagnostic workload and shorten patient waiting periods. Despite substantial
+advances over recent years, the field faces evident bottlenecks stemming from insufficient standardized benchmarks and inadequate
+domain adaptation of generic large models. Notably, the newly released CheXpert Plus dataset is provided without accompanying baseline
+implementations and evaluation results, which impedes standardized training, quantitative evaluation and fair comparison among follow-up
+algorithms. To mitigate this limitation, we establish a comprehensive benchmark encompassing prevailing X-ray report generation models
+and Large Language Models on CheXpert Plus. This benchmark delivers a reliable comparative foundation for upcoming methods and
+enables researchers to rapidly identify state-of-the-art approaches within this domain. Beyond benchmark construction, we rethink X-ray
+RRG under the paradigm of large models and propose a novel framework termed MambaXray-PRB. Our framework improves report
+generation performance and enhances model interpretability via multi-stage large-model pre-training and multi-modal Chain-of-Thought
+reasoning. The pipeline consists of three successive phases: self-supervised auto-regressive modeling, X-ray–report contrastive learning,
+and post-training optimization for reasoning and report generation. Extensive experiments on IU X-ray, MIMIC-CXR, and CheXpert Plus
+datasets validate the effectiveness of MambaXray-PRB for radiology report generation. 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c31b3ba1-d9b0-4795-ada9-119696f96d82" />
+
+
 ### :dart: EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation
 Mingzheng Zhang, Jinfeng Gao, Dan Xu, Jiangrui Yu, Yuhan Qiao, Lan Chen, Jin Tang, Xiao Wang
 arXiv:2510.16776, [[Paper](https://arxiv.org/abs/2510.16776)] 
