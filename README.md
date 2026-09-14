@@ -40,7 +40,7 @@ arXiv pre-print, arXiv 2024, is released on **arXiv** [[Paper](https://arxiv.org
 
 ### :dart: Pre-training, Reasoning, Benchmarking: X-ray Report Generation on CheXpert Plus Dataset
 Xiao Wang, Yuxiang Zhang, Dan Xu, Yuehang Li, Shiao Wang, Bo Jiang, Yaowei Wang, Yonghong Tian, Jin Tang 
-arXiv:2510.16776, [[Paper](https://arxiv.org/abs/2510.16776)] 
+Journal extension of CXP-Bench CVPR 2025, [[Paper](https://arxiv.org/abs/2510.16776)] 
 
 X-ray image-based Radiology Report Generation (RRG) constitutes a critical research direction within medical artificial
 intelligence, with great potential to alleviate clinicians’ diagnostic workload and shorten patient waiting periods. Despite substantial
